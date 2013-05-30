@@ -30,7 +30,7 @@ helpers do
     if development?
       "#{protocol}://localhost:4567"
     else
-      "#{protocol}://rubynoname.ru"
+      "#{protocol}://devopsdeflope.ru"
     end
   end
 

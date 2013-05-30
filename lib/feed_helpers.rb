@@ -3,21 +3,21 @@
 module FeedHelpers
   def feed_data
     {
-      :title => "Ruby NoName podcast",
-      :description => "Серия русскоязычных подкастов о языке Ruby, фреймворке Rails и различных других техонологиях, с ними связанными, начиная от PostgreSQL и Redis, и заканчивая JavaScript. Каждый выпуск состоит из двух частей — короткий блок новостей в мире Ruby, и длинный блок, состоящий из обсуждений и интервью с различными участинками русскоязычного Ruby-сообщества",
-      :author => "Иван Самсонов и Иван Евтухович",
-      :owner => {:author => "Иван Самсонов и Иван Евтухович", :email => "evtuhovich@gmail.com"},
+      :title => "DevOps Дефлопе подкаст",
+      :description => "Русскоязычных подкаст, в котором мы рассказываем о DevOps движении и идеях, которые возникли и развиваются в рамках DevOps. Также мы рассказываем о инструментах DevOps инженеров: Chef, Puppet, CFEngine, SaltStack, Cobbler, SpaceWalk, облаках, мониторинге, логировании, отказоустойчивости, катастрофоустойчивости, высоких нагрузках и много чем еще.",
+      :author => "Никита Борзых и Иван Евтухович",
+      :owner => {:author => "Никита Борзых и Иван Евтухович", :email => "evtuhovich@gmail.com"},
       :categories => {"Technology" => ["Podcasting", "Tech News"]},
-      :image => "#{site_url}/images/rnp.png",
+      :image => "#{site_url}/images/deflope.png",
       :explicit => "no"
     }
   end
 
   def episode_data
     {
-      :subtitle => "poscast.name = nil",
-      :image => "#{site_url}/images/rnp.png",
-      :keywords => "Ruby, NoName, RubyNoName, Rails"
+      :subtitle => "",
+      :image => "#{site_url}/images/deflope.png",
+      :keywords => "DevOps, Chef, Puppet, CFEngine, AWS, Amazon, Cobbler, FAI"
     }
   end
 end

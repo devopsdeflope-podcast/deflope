@@ -107,7 +107,7 @@ GEM
     rack-test (0.6.2)
       rack (>= 1.0)
     rb-fsevent (0.9.3)
-    redcarpet (2.2.2)
+    redcarpet (2.3.0)
     ruby-hmac (0.4.0)
     ruby-mp3info (0.8)
     russian (0.6.0)
@@ -141,6 +141,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  builder
   capistrano
   fog
   json (~> 1.7.7)
