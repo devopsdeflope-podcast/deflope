@@ -1,0 +1,21 @@
+.block
+  %h2 Подписаться
+  .subscribe
+    %a{href: "https://itunes.apple.com/us/podcast/ruby-noname-podcast/id581390515", class: "itunes"}
+      = image_tag(image_path("/images/icons/itunes.png"), :alt => "iTunes")
+    %a{href: "http://twitter.com/rubynoname", class: "twitter"}
+      = image_tag(image_path("/images/icons/twitter.png"), :alt => "Twitter")
+    %a{href: "/feeds/episodes.rss", class: "rss"}
+      = image_tag(image_path("/images/icons/rss.png"), :alt => "RSS")
+.block
+  %h2 Последние выпуски
+  %ul
+    - blog.articles[0...5].each do |article|
+      %li
+        = link_to article.title, article.url
+
+.block.twitter-widget
+  %a{class: "twitter-timeline", href: "https://twitter.com/rubynoname", 'data-widget-id' => "273075322386268161"} Tweets by @rubynoname
+
+  %script
+    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");

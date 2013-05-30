@@ -1,0 +1,23 @@
+<div>
+	<%
+		xml = %Q[<core>
+			<player_settings preset_id='rpod_big' autoplay='0' />
+			<playlist>
+				<item id='0'>
+					<title>#{title}</title>
+					<type>audio</type>
+					<subtype>mp3</subtype>
+					<play url='#{file}' rewind='bytes' rewind_url='#{file}?start=~A~' />
+					<wave shadow='1' shadow_color='0x000000' />
+					<skin preset_id='1' />
+				</item>
+			</playlist>
+		</core>]
+	%>
+	<embed type="application/x-shockwave-flash"
+			src="/playa.swf" width="100%" height="50" style="undefined"
+			id="attach257587" name="attach257587" quality="high"
+			swliveconnect="true" allowscriptaccess="always"
+			allowfullscreen="true" wmode="transparent"
+			flashvars="xmlText=<%= xml %>">
+</div>

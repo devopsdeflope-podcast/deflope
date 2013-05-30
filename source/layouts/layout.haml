@@ -1,0 +1,22 @@
+!!! 5
+%html
+  %head
+    %meta{charset: 'utf-8'}
+    %meta{content: 'IE=edge,chrome=1', 'http-equiv' => 'X-UA-Compatible'}
+    %title
+      = data.page.title || 'DevOps Дефлопе'
+    <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
+    = stylesheet_link_tag 'normalize', 'all', 'article', 'archive'
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    = partial 'google_analytics'
+  %body{class: page_classes}
+    %header
+      %span.title Русскоязычный подкаст о языке Ruby
+    = partial 'nav'
+    #main
+      %aside
+        = partial 'sidebar'
+
+      .wrap
+        = yield
+    = partial 'google_analytics'

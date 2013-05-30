@@ -1,0 +1,297 @@
+/*
+ ____ ____ ____ ____ ____ ____ ____ ____ ____
+||m |||s |||p |||e |||a |||k |||k |||e |||r ||
+||__|||__|||__|||__|||__|||__|||__|||__|||__||
+|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|
+
+PORKHEAD.ORG AND PROJEKKTOR.COM 2011
+*/
+
+
+/* MINI-SPEAKKER DARK --------------------------------------- */
+/* INDIVIDUAL COLORS BLOCKS */
+.mspeakker.dark .skControls { background-color:#212121}
+.mspeakker.dark .skLeftBlock,
+.mspeakker.dark .skRightBlock { background-color:#252525}
+.mspeakker.dark .skLeftBlock { border-color:#000;}
+
+/* VOLUME COLORS  --------------------------------------*/
+.mspeakker.dark .skVolume,
+.mspeakker.dark .skScrubbler    { border:1px solid #151515} 
+.mspeakker.dark .skVolume,
+.mspeakker.dark .skScrubbler    { background-color:#000;}
+.mspeakker.dark .skLoad    { background-color:#2E2E2E;}
+.mspeakker.dark .skTimeRemain,
+.mspeakker.dark .skVolumeRemain { background-color:#9CA4BE}
+	
+					
+/* FONT COLORS  --------------------------------------*/	 
+.mspeakker.dark,
+.mspeakker.dark a { color:#fcfcfc; font-weight:bold;}
+.mspeakker.dark a:hover { color:#b52b09}
+.mspeakker.dark  { text-shadow: 1px 1px 1px #111;}
+.mspeakker.dark .skArtistlist a.active { color:#5d5c5c }
+
+
+/* SPEAKKER LIGHT --------------------------------------- */
+/* INDIVIDUAL COLORS BLOCKS */
+.mspeakker.light .skControls { background-color:#E1E1E1}
+.mspeakker.light .skLeftBlock,
+.mspeakker.light .skRightBlock { background-color:#EBEBEB}
+.mspeakker.light .skLeftBlock { border-color:#000;}
+
+/* VOLUME COLORS  --------------------------------------*/
+.mspeakker.light .skVolume,
+.mspeakker.light .skScrubbler { border:1px solid #CACACA} 
+.mspeakker.light .skVolume,
+.mspeakker.light .skScrubbler { background-color:#fff;}
+.mspeakker.light .skLoad { background-color:#A41F35;}
+.mspeakker.light .skTimeRemain,
+.mspeakker.light .skVolumeRemain { background-color:#611300}
+	
+					
+/* FONT COLORS  --------------------------------------*/	 
+.mspeakker.light,
+.mspeakker.light a { color:#000; font-weight:bold;}
+.mspeakker.light a:hover { color:#b52b09}
+.mspeakker.light { text-shadow: 0px 1px 0px #b9b2ba;}
+.mspeakker.light .skArtistlist a.active { color:#333 }
+				 
+/* MSPEAKKER RESET & BASIC --------------------------------------- */
+.mspeakker audio, .mspeakker li, 
+.mspeakker span, .mspeakker strong {
+	background: transparent;
+	border: 0 none;
+	font-size: 100%;
+	margin: 0;
+	padding: 0;
+	vertical-align: baseline; 
+}
+.mspeakker {
+	font-size:11px;
+	font-family:"Century Gothic", "Apple Gothic", "Gill Sans", Tahoma, sans-serif;
+	width:250px;
+	height:150px;
+	overflow:hidden;
+}
+.mspeakker a {
+	outline:none;
+}
+.mspeakker .right {float:left;}
+.mspeakker .skControls {
+	background-position:left -18px;
+	background-repeat:repeat-x;
+	text-align:left;
+	border-bottom:1px solid #000;
+	-moz-border-radius-topleft: 10px;
+	-moz-border-radius-topright: 10px;
+	-webkit-border-top-left-radius: 10px;
+	-webkit-border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-rigtht-radius: 10px;
+	margin:0 auto;
+	height:34px;
+	overflow:hidden;
+}
+.mspeakker .skAct {
+	float:left;
+	line-height:36px;
+	padding:0 15px;
+	width:220px;
+}
+.mspeakker .skLeftBlock {
+	position:relative;
+	background-repeat:repeat;
+	background-position:left bottom;
+	float:left;
+	width:80px;
+	height:84px;
+	padding:15px;
+	border-style:solid;
+	border-right-width:1px;
+	-moz-border-radius-bottomleft: 10px;
+	-webkit-border-bottom-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+.mspeakker .skRightBlock {
+	background-repeat:repeat;
+	background-position:right bottom;
+	float:left;
+	position:relative;
+	width:139px;
+	height:114px;
+	padding: 0;
+	text-align:center;
+	-moz-border-radius-bottomright: 10px;
+	-webkit-border-bottom-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+.mspeakker .skTime { 
+	width:auto;
+	line-height:28px;
+	float:none;
+	text-align: center;
+	font-size:10px;
+}
+.mspeakker .skMainControl { 
+	float:left;
+	position:relative;
+	width:97px;
+	height:33px;
+	padding: 0 20px 10px 22px;
+}
+.mspeakker .skSocial {
+	width:99px;
+	border:none;
+	float:left;
+	padding: 0 20px;
+}
+.mspeakker .skFacebook,
+.mspeakker .skTwitter,
+.mspeakker .skDownload {
+	display:bock;
+	float:left;
+	text-indent:-99999px;
+}
+.mspeakker .skTwitter,
+.mspeakker .skDownload {
+	margin-left:8px;
+}
+.mspeakker .skDownload {
+	text-indent:-99999px;
+}
+.mspeakker .skLabel {
+	background:transparent image-url('/images/speakker/ms-label.png') left top no-repeat;
+	width:78px;
+	height:61px;
+	position:absolute;
+	top:15px;
+	left:15px;
+	z-index:0;
+}
+.mspeakker .skCover {
+	background:transparent image-url('/images/speakker/sk-nocover.png') left top no-repeat;
+	width:60px;
+	height:60px;
+	overflow:hidden;
+}
+.mspeakker .skDownload {
+	top:auto;
+	left:auto;
+	position:relative;
+	float:left;
+}
+.mspeakker .skVolumeWidth { 
+	width:32px;
+	position: absolute;
+	left:15px;
+	top:32px;
+	float:none;
+}
+.mspeakker .skVolume {
+	width:100%;
+	height:2px;
+	position:absolute;
+	left:0;
+	bottom:12px;
+	z-index:6;
+}
+.mspeakker .skVolumeRemain {
+	float:none;
+	height:2px;
+	position:absolute;
+	bottom:13px;
+	left:1px;
+	z-index:7;
+	width: 50%;
+	cursor:pointer;
+}
+.mspeakker .skVolumeControl { 
+	float:left;
+	position:relative;
+	width:70px;
+	height:17px;
+	padding:10px 0 0;
+}
+.skPlay, .skPause {
+	margin:0 12px;
+}
+.mspeakker .skHeart,
+.mspeakker .skPlay,
+.mspeakker .skPause,
+.mspeakker .skForwards,
+.mspeakker .skBackwards,
+.mspeakker .skMute {
+	display: block;
+	float:left;
+	cursor:pointer;
+}
+.mspeakker .skPause.inactive,
+.mspeakker .skPlay.inactive,
+.mspeakker .skLoopOn.inactive,
+.mspeakker .skLoopOff.inactive {
+	display: none;
+}
+
+.mspeakker .active {
+	display: block;
+	-moz-opacity:1;
+	filter:alpha(opacity=100);
+	opacity:1.00;	
+}
+
+.mspeakker .skLoud {
+	float:right;
+	cursor:pointer;
+}
+.mspeakker .skMute {
+	float:left;
+	cursor:pointer;
+}
+
+/* THEME LIGHT */
+.mspeakker.light .skBackwards,
+.mspeakker.light .skForwards,
+.mspeakker.light .skLoud,
+.mspeakker.light .skMute,
+.mspeakker.light .skPlay,
+.mspeakker.light .skPause,
+.mspeakker.light .skDownload,
+.mspeakker.light .skFacebook,
+.mspeakker.light .skTwitter { background-image: image-url('/images/speakker/light/sk-light.png'); }
+.mspeakker.light .skLeftBlock { background-image: image-url('/images/speakker/light/sk-leftblock.png'); }
+.mspeakker.light .skRightBlock { background-image: image-url('/images/speakker/light/sk-rightblock.png'); }
+.mspeakker.light .skControls { background-image: image-url('/images/speakker/light/sk-controlbg.png'); }
+
+/* THEME DARK */
+.mspeakker.dark .skBackwards,
+.mspeakker.dark .skForwards,
+.mspeakker.dark .skLoud,
+.mspeakker.dark .skMute,
+.mspeakker.dark .skPlay,
+.mspeakker.dark .skPause,
+.mspeakker.dark .skDownload,
+.mspeakker.dark .skFacebook,
+.mspeakker.dark .skTwitter { background-image: image-url('/images/speakker/dark/sk-dark.png'); }
+.mspeakker.dark .skLeftBlock { background-image: image-url('/images/speakker/dark/sk-leftblock.png'); }
+.mspeakker.dark .skRightBlock { background-image: image-url('/images/speakker/dark/sk-rightblock.png'); }
+.mspeakker.dark .skControls { background-image: image-url('/images/speakker/dark/sk-controlbg.png'); }
+
+.mspeakker .skBackwards { background-position:  0 0; height: 32px; width: 20px; }
+.mspeakker .skBackwards:hover { background-position:  0 -32px; }
+.mspeakker .skForwards { background-position:  0 -64px; height: 32px; width: 20px; }
+.mspeakker .skForwards:hover { background-position:  0 -96px; }
+.mspeakker .skPause { background-position:  -50px -132px; height: 34px; width: 32px; }
+.mspeakker .skPause:hover { background-position:  -50px -167px; }
+.mspeakker .skPlay { background-position:  -82px -132px; height: 34px; width: 32px; }
+.mspeakker .skPlay:hover { background-position:  -82px -168px; }
+.mspeakker .skLoud { background-position:  0 -228px; height: 16px; width: 18px; }
+.mspeakker .skLoud:hover { background-position:  0 -245px; }
+.mspeakker .skMute { background-position:  0 -265px; height: 16px; width: 18px; }
+.mspeakker .skMute:hover { background-position:  0 -284px; }
+.mspeakker .skDownload { background-position:  -78px -207px; height: 33px; width: 26px; }
+.mspeakker .skDownload:hover { background-position:  -78px -241px; }
+.mspeakker .skFacebook { background-position:  -50px -64px; height: 33px; width: 28px; }
+.mspeakker .skFacebook:hover { background-position:  -50px -98px; }
+.mspeakker .skTwitter { background-position:  -78px -64px; height: 33px; width: 28px; }
+.mspeakker .skTwitter:hover { background-position:  -78px -98px; }

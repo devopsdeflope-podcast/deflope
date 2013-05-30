@@ -1,0 +1,15 @@
+---
+title: DevOps Дефлопе - Архив
+---
+
+- page_articles.group_by {|a| a.date.year }.each do |year, articles|
+  %div.archive-year 
+    %span 
+      %h2= year
+
+  %div.archive-article
+    - articles.each do |article|
+      %article
+        %h1
+          = link_to article.title, article
+          %time= Russian::strftime(article.date, '%B, %e')

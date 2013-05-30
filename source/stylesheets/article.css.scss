@@ -1,0 +1,68 @@
+#main article {
+  font-size: 16px;
+  line-height: 18px;
+  margin-bottom: 40px;
+
+  h1 {
+    margin: 0 0 20px;
+
+    a {
+      text-decoration: none;
+      color: #444;
+      margin-bottom: 10px;
+      display: inline-block;
+      font-size: 26px;
+      line-height: 29px;
+      border: none;
+
+      &:hover {
+        border: none;
+        color: #999;
+      }
+    }
+
+    time {
+      font-size: 12px;
+      line-height: 14px;
+      text-transform: uppercase;
+      display: block;
+      color: #888;
+    }
+  }
+
+  h2 {
+    font-size: 20px;
+    line-height: 22px;
+  }
+
+  ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 1em;
+    text-indent: -1em;
+
+    li:before {
+      content: "\00BB \0020";
+    }
+  }
+
+  .links {
+    .go-more {
+      float: left;
+    }
+
+    .go-comments {
+      float: right;
+    }
+  }
+  .player {
+    li:before {
+      content: '';
+    }
+
+    a {
+      border-bottom: none;
+    }
+  }
+}
+

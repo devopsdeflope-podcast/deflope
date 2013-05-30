@@ -1,0 +1,12 @@
+%nav{role: 'navigation'}
+  %ul{class: 'main-navigation'}
+    %li
+      = link_to 'Главная', '/'
+    %li
+      = link_to 'Архив выпусков', '/archive.html'
+    %li
+      = link_to 'О нас', '/about.html'
+    %li.search
+      .wrap
+        %form(action="/results.html")
+          <input type="text" placeholder="Поиск..." value="" class="" name="q">
