@@ -9,3 +9,5 @@ gem "redcarpet"
 gem "russian"
 gem "nokogiri"
 gem 'json', '~> 1.7.7'
+gem 'capistrano'
+gem 'fog'
