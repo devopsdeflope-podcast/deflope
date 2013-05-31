@@ -11,7 +11,7 @@ DevOps Дефлопе подкаст — это русскоязычный по
 «[Экспресс 42](http://express42.com)».
 
 <div>
-  <img src="/images/sample.jpg" title="Никита Борзых" />
+  <img src="/images/sample.png" title="Никита Борзых" />
   <img src="/images/brun.jpg" title="Иван Евтухович" />
 </div>
 
