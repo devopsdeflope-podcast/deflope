@@ -4,13 +4,28 @@ title: 001 — Понеслась
 date: 2013-06-07 09:42:00 +0400
 comments: true
 published: true
+subtitle: Первый выпуск — про наши планы
 ---
 
 ## Новости
-* [Один](/one)
+* [Полезен ли Chef для небольших проектов](http://time.to.pullthepl.ug/blog/2013/3/17/small-shop-chef-best-practices/)
+* [DevOps секурней, чем обычный IT](http://www.infoq.com/news/2013/03/devops-security)
+* [Непрерывный деплой в Etsy](http://www.slideshare.net/500startups/ross-synder-etsy-sxsw-lean-startup-2013)
 
 ## Обсуждение
 
-Самое изысканное DevOps блюдо совсем скоро совершенно бесплатно будет доступно всем инженерам. Начинаем готовить животики!
+### Тестирование
+* [Cookbook Integration Testing With Real Examples](http://jtimberman.housepub.org/blog/2012/12/13/cookbook-integration-testing-with-real-examples/)
+* [Устройство тестовой кухни](http://jtimberman.housepub.org/blog/2013/03/19/anatomy-of-a-test-kitchen-1-dot-0-cookbook-part-1/)
+* [Тестирование автоматизации](https://speakerdeck.com/nathenharvey/testing-your-automation)
 
+### DevOps на предприятиях
+* Серия статей о том, как внедряли DevOps в Enterprise: [часть первая](http://niek.bartholomeus.be/2013/01/28/introducing-a-devops-culture-in-a-traditional-enterprise/), [вторая](http://niek.bartholomeus.be/2013/02/20/a-closer-look-at-introducing-devops-in-a-traditional-enterprise/) и [третья](http://niek.bartholomeus.be/2013/03/24/first-steps-in-devopsifying-a-traditional-enterprise/) и [четвертая](http://niek.bartholomeus.be/2013/05/14/implementing-a-release-management-solution-in-a-traditonal-enterprise/)
+* [Привнести DevOps туда, где всегда был ITIL](https://www.scriptrock.com/blog/introducing-devops-itil-rules-enterprise-2/)
+* [IBM о DevOps](https://www.ibm.com/developerworks/community/blogs/devops/entry/adapting_to_the_pace_of_business_with_devops?lang=en)
 
+### DevOps по-русски
+
+* [HangOps_ru — русскоязычные интернет-встречи по DevOps](https://plus.google.com/communities/114229108523474610285)
+* [IRC-чатик для координации HangOps_ru](https://botbot.me/freenode/hangops_ru/)
+* [Русскоязычная рассылка по DevOps](https://groups.google.com/forum/?fromgroups#!forum/devopsru)
