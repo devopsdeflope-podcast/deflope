@@ -1,4 +1,4 @@
-xml.instruct! :xml, version: "1.0" 
+xml.instruct! :xml, version: "1.0"
 
 xml.rss "xmlns:itunes" => "http://www.itunes.com/dtds/podcast-1.0.dtd", :version => "2.0" do
 
@@ -9,7 +9,7 @@ xml.rss "xmlns:itunes" => "http://www.itunes.com/dtds/podcast-1.0.dtd", :version
     xml.language "ru-RU"
     xml.description feed_data[:description]
     xml.itunes :author, feed_data[:author]
-    xml.itunes :owner do 
+    xml.itunes :owner do
       xml.itunes :name, feed_data[:owner][:author]
       xml.itunes :email, feed_data[:owner][:email]
     end

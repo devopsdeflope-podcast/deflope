@@ -39,7 +39,9 @@ helpers do
   end
 
   def get_mp3_filename(article_title)
-    article_title.split(" ").last.downcase + ".mp3"
+    res = "deflope" + article_title.match(/^\d+/).to_s + ".mp3"
+    p res
+    res
   end
 
   def get_audio_duration(path)

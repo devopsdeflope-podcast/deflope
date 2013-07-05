@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 001 — Понеслась
-date: 2013-06-07 09:42:00 +0400
+date: 2013-07-05 09:42:00 +0400
 comments: true
 published: true
 subtitle: Первый выпуск — про наши планы
