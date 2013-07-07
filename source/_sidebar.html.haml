@@ -1,6 +1,8 @@
 .block
   %h2 Подписаться
   .subscribe
+    %a{href: "https://itunes.apple.com/ru/podcast/devops-deflope-podkast/id670175970", class: "itunes"}
+      = image_tag(image_path("/images/icons/itunes.png"), :alt => "iTunes")
     %a{href: "https://twitter.com/devopsdeflope", class: "twitter"}
       = image_tag(image_path("/images/icons/twitter.png"), :alt => "Twitter")
     %a{href: "/feeds/episodes.rss", class: "rss"}
