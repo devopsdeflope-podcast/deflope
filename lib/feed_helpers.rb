@@ -8,7 +8,7 @@ module FeedHelpers
       :author => "Никита Борзых и Иван Евтухович",
       :owner => {:author => "Никита Борзых и Иван Евтухович", :email => "evtuhovich@gmail.com"},
       :categories => {"Technology" => ["Podcasting", "Tech News"]},
-      :image => "#{site_url}/images/deflope.jpg",
+      :image => "#{site_url}/images/deflope-itunes.jpg",
       :explicit => "no"
     }
   end
@@ -16,7 +16,7 @@ module FeedHelpers
   def episode_data
     {
       :subtitle => "",
-      :image => "#{site_url}/images/deflope.jpg",
+      :image => "#{site_url}/images/deflope-itunes.jpg",
       :keywords => "DevOps, Chef, Puppet, CFEngine, AWS, Amazon, Cobbler, FAI"
     }
   end
