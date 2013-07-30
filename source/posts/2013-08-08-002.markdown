@@ -1,0 +1,22 @@
+---
+layout: article
+title: 002 — Неизменный сервер
+date: 2013-08-08 09:42:00 +0400
+comments: true
+published: true
+subtitle: Про неизменный сервер
+---
+
+## Новости
+
+* [Девопс шмевопс](http://techblog.outbrain.com/2013/07/devops-shmevops-we-call-it-ownership/)
+* [Инфраструктура как код](http://jenssegers.be/blog/44/infrastructure-as-code)
+* [Книга по Шефу](http://gettingstartedwithchef.com/index.html)
+* [LXC провайдер для Vagrant](http://fabiorehm.com/blog/2013/04/28/lxc-provider-for-vagrant/)
+* [Экс-инженер из Амазона отвечает на вопросы](http://www.reddit.com/r/IAmA/comments/1e5o4p/iaman_exaws_engineer_ask_me_anything_about_the/)
+* [Ненастоящие Девопсы](http://blog.lusis.org/blog/2013/06/04/devops-the-title-match/)
+
+## Обсуждение
+
+* [Неизменный сервер с Packer и Puppet](http://blog.james-carr.org/2013/07/24/immutable-servers-with-packer-and-puppet/)
+* [Что про это думает Мартин Фаулер](http://martinfowler.com/bliki/ImmutableServer.html)
