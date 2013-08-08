@@ -15,6 +15,9 @@ subtitle: Про неизменный сервер
 * [LXC провайдер для Vagrant](http://fabiorehm.com/blog/2013/04/28/lxc-provider-for-vagrant/)
 * [Экс-инженер из Амазона отвечает на вопросы](http://www.reddit.com/r/IAmA/comments/1e5o4p/iaman_exaws_engineer_ask_me_anything_about_the/)
 * [Ненастоящие Девопсы](http://blog.lusis.org/blog/2013/06/04/devops-the-title-match/)
+* [Отличная подборка ссылок от Равиля Байрамгалина](https://gist.github.com/brainopia/22cbdf2ea71526660f30)
+* [Как выкатывают изменения в Etsy](http://codeascraft.com/2013/08/02/infrastructure-upgrades-with-chef/)
+* [Как пользоваться librarian](http://habrahabr.ru/company/express42/blog/182264/)
 
 ## Обсуждение
 
