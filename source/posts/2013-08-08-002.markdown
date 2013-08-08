@@ -22,4 +22,4 @@ subtitle: Про неизменный сервер
 ## Обсуждение
 
 * [Неизменный сервер с Packer и Puppet](http://blog.james-carr.org/2013/07/24/immutable-servers-with-packer-and-puppet/)
-* [Что про это думает Мартин Фаулер](http://martinfowler.com/bliki/ImmutableServer.html)
+* [Что про это думают в блоге Мартина Фаулера](http://martinfowler.com/bliki/ImmutableServer.html)
