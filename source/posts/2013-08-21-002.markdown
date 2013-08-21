@@ -1,7 +1,7 @@
 ---
 layout: article
-title: 002 — Неизменный сервер
-date: 2013-08-22 09:42:00 +0400
+title: 002 — Только новости, потому что Никита в отпуске
+date: 2013-08-21 09:42:00 +0400
 comments: true
 published: true
 subtitle: Только новости, потому что Никита в отпуске
@@ -9,7 +9,6 @@ subtitle: Только новости, потому что Никита в от�
 
 ## Новости
 
-* [Девопс шмевопс](http://techblog.outbrain.com/2013/07/devops-shmevops-we-call-it-ownership/)
 * [Книга по Шефу](http://gettingstartedwithchef.com/index.html)
 * [LXC провайдер для Vagrant](http://fabiorehm.com/blog/2013/04/28/lxc-provider-for-vagrant/)
 * [Версия 0.5.0 vagrant-lxc](http://fabiorehm.com/blog/2013/08/07/vagrant-lxc-0-5-0-and-beyond/)
