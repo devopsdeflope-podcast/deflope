@@ -1,25 +1,27 @@
 ---
 layout: article
 title: 002 — Неизменный сервер
-date: 2013-08-08 09:42:00 +0400
+date: 2013-08-22 09:42:00 +0400
 comments: true
 published: true
-subtitle: Про неизменный сервер
+subtitle: Только новости, потому что Никита в отпуске
 ---
 
 ## Новости
 
 * [Девопс шмевопс](http://techblog.outbrain.com/2013/07/devops-shmevops-we-call-it-ownership/)
-* [Инфраструктура как код](http://jenssegers.be/blog/44/infrastructure-as-code)
 * [Книга по Шефу](http://gettingstartedwithchef.com/index.html)
 * [LXC провайдер для Vagrant](http://fabiorehm.com/blog/2013/04/28/lxc-provider-for-vagrant/)
+* [Версия 0.5.0 vagrant-lxc](http://fabiorehm.com/blog/2013/08/07/vagrant-lxc-0-5-0-and-beyond/)
 * [Экс-инженер из Амазона отвечает на вопросы](http://www.reddit.com/r/IAmA/comments/1e5o4p/iaman_exaws_engineer_ask_me_anything_about_the/)
 * [Ненастоящие Девопсы](http://blog.lusis.org/blog/2013/06/04/devops-the-title-match/)
 * [Отличная подборка ссылок от Равиля Байрамгалина](https://gist.github.com/brainopia/22cbdf2ea71526660f30)
 * [Как выкатывают изменения в Etsy](http://codeascraft.com/2013/08/02/infrastructure-upgrades-with-chef/)
 * [Как пользоваться librarian](http://habrahabr.ru/company/express42/blog/182264/)
+* [Книга DevOps for Developers](http://www.apress.com/9781430245698)
+* [Масштабирование Zabbix](http://blog.zabbix.com/scalable-zabbix-lessons-on-hitting-9400-nvps/2615/)
+* [Почему Дефлопе](http://www.youtube.com/watch?v=q4a1c3E402I)
 
 ## Обсуждение
 
-* [Неизменный сервер с Packer и Puppet](http://blog.james-carr.org/2013/07/24/immutable-servers-with-packer-and-puppet/)
-* [Что про это думают в блоге Мартина Фаулера](http://martinfowler.com/bliki/ImmutableServer.html)
+Никита Борзых в отпуске, так что в этот раз только новости.
