@@ -1,0 +1,15 @@
+---
+layout: article
+title: 003
+date: 2013-09-11 09:42:00 +0400
+comments: true
+published: true
+subtitle: 
+---
+
+## Новости
+
+* [Настоящая книга про Шеф](http://www.packtpub.com/chef-infrastructure-automation-cookbook/book)
+
+## Обсуждение
+
