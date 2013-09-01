@@ -13,3 +13,8 @@ subtitle:
 
 ## Обсуждение
 
+### Immutable Server
+
+* [Что про это думает Мартин Фаулер](http://martinfowler.com/bliki/ImmutableServer.html)
+* [Неизменный сервер с Packer и Puppet](http://blog.james-carr.org/2013/07/24/immutable-servers-with-packer-and-puppet/)
+* [Docker — это git для выкатки](http://blog.scoutapp.com/articles/2013/08/28/docker-git-for-deployment)
