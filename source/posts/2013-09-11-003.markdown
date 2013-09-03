@@ -10,6 +10,8 @@ subtitle:
 ## Новости
 
 * [Настоящая книга про Шеф](http://www.packtpub.com/chef-infrastructure-automation-cookbook/book)
+* Как начать пользоваться Шефом от Леопарда [часть 1](http://leopard.in.ua/2013/02/17/chef-server-getting-started-part-1/) и
+  [часть 2](http://leopard.in.ua/2013/09/01/chef-server-getting-started-part-2/)
 
 ## Обсуждение
 
