@@ -20,6 +20,7 @@ subtitle:
 * [Масштабируем Zabbix теперь на русском](http://habrahabr.ru/company/zabbix/blog/193472/)
 * [Как проводить постмортемы](http://www.slideshare.net/danmil30/how-to-run-a-postmortem-with-humans-not-robots-velocity-2013)
 * [Провайдер по-умолчанию в Vagrant](http://fabiorehm.com/blog/2013/11/12/set-the-default-vagrant-provider-from-your-vagrantfile/)
+* [Провайдер для Parallels](https://github.com/yshahin/vagrant-parallels)
 * [12 антипаттернов в DevOps](http://blog.devopsguys.com/2013/02/20/twelve-devops-anti-patterns/)
 
 ## Обсуждение
