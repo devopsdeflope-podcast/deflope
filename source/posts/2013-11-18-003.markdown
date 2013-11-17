@@ -14,9 +14,9 @@ subtitle:
 * Как начать пользоваться Шефом от Леопарда [часть 1](http://leopard.in.ua/2013/02/17/chef-server-getting-started-part-1/) и
   [часть 2](http://leopard.in.ua/2013/09/01/chef-server-getting-started-part-2/)
 * [IBM тоже делает DevOps](http://www.ibm.com/ibm/devops/us/en/), [видео про это](http://www.youtube.com/watch?v=v5omfd2E5eQ).
+* [Плагин Sahara для Vagrant](https://github.com/jedi4ever/sahara)
 * [Еще один фреймворк для тестирования кукбуков — Foodtaster](https://github.com/mlapshin/foodtaster) и
   [примеры использования](https://github.com/mlapshin/foodtaster-example)
-* [Плагин Sahara для Vagrant](https://github.com/jedi4ever/sahara)
 * [Масштабируем Zabbix теперь на русском](http://habrahabr.ru/company/zabbix/blog/193472/)
 * [Как проводить постмортемы](http://www.slideshare.net/danmil30/how-to-run-a-postmortem-with-humans-not-robots-velocity-2013)
 * [Провайдер по-умолчанию в Vagrant](http://fabiorehm.com/blog/2013/11/12/set-the-default-vagrant-provider-from-your-vagrantfile/)
