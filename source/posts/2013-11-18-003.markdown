@@ -31,3 +31,5 @@ subtitle:
 * [Неизменный сервер с Packer и Puppet](http://blog.james-carr.org/2013/07/24/immutable-servers-with-packer-and-puppet/)
 * [Docker — это git для выкатки](http://blog.scoutapp.com/articles/2013/08/28/docker-git-for-deployment)
 * [Выступление Митчелла Хашимото в Москве](http://express42.com/blog/2013-11-15-highload-results.html)
+* [CoreOS](http://coreos.com/)
+* [DevOps митап в Москве](http://www.meetup.com/DevOps-Moscow-in-Russian/events/150464912/)
