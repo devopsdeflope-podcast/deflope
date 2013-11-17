@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 003
-date: 2013-09-11 09:42:00 +0400
+date: 2013-11-18 09:42:00 +0400
 comments: true
 published: true
 subtitle: 
@@ -9,15 +9,18 @@ subtitle:
 
 ## Новости
 
-* [Настоящая книга про Шеф](http://www.packtpub.com/chef-infrastructure-automation-cookbook/book)
+* [Настоящая книга про Шеф](http://www.packtpub.com/chef-infrastructure-automation-cookbook/book) и [интервью с автором
+  книги](http://www.infoq.com/articles/chef-infra-automation-cookbook)
 * Как начать пользоваться Шефом от Леопарда [часть 1](http://leopard.in.ua/2013/02/17/chef-server-getting-started-part-1/) и
   [часть 2](http://leopard.in.ua/2013/09/01/chef-server-getting-started-part-2/)
-* [IBM тоже делает DevOps](http://www.ibm.com/ibm/devops/us/en/)
+* [IBM тоже делает DevOps](http://www.ibm.com/ibm/devops/us/en/), [видео про это](http://www.youtube.com/watch?v=v5omfd2E5eQ).
 * [Еще один фреймворк для тестирования кукбуков — Foodtaster](https://github.com/mlapshin/foodtaster) и
   [примеры использования](https://github.com/mlapshin/foodtaster-example)
 * [Плагин Sahara для Vagrant](https://github.com/jedi4ever/sahara)
 * [Масштабируем Zabbix теперь на русском](http://habrahabr.ru/company/zabbix/blog/193472/)
 * [Как проводить постмортемы](http://www.slideshare.net/danmil30/how-to-run-a-postmortem-with-humans-not-robots-velocity-2013)
+* [Провайдер по-умолчанию в Vagrant](http://fabiorehm.com/blog/2013/11/12/set-the-default-vagrant-provider-from-your-vagrantfile/)
+* [12 антипаттернов в DevOps](http://blog.devopsguys.com/2013/02/20/twelve-devops-anti-patterns/)
 
 ## Обсуждение
 
@@ -26,3 +29,4 @@ subtitle:
 * [Что про это думает Мартин Фаулер](http://martinfowler.com/bliki/ImmutableServer.html)
 * [Неизменный сервер с Packer и Puppet](http://blog.james-carr.org/2013/07/24/immutable-servers-with-packer-and-puppet/)
 * [Docker — это git для выкатки](http://blog.scoutapp.com/articles/2013/08/28/docker-git-for-deployment)
+* [Выступление Митчелла Хашимото в Москве](http://express42.com/blog/2013-11-15-highload-results.html)
