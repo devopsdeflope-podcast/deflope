@@ -1,0 +1,17 @@
+---
+layout: article
+title: 004 — 
+date: 2013-12-12 08:31:00 +0400
+comments: true
+published: true
+subtitle: 
+---
+
+## Новости
+
+* [Тестовая кухня набирает обороты], [официальный сайт](http://kitchen.ci/)
+* [Опскод переименовался в шеф](http://www.getchef.com/blog/2013/12/09/chef-the-company-formerly-known-as-opscode/),
+  новость была бы не полной без [цифры инвестиций](http://www.getchef.com/blog/2013/12/09/big-day-for-chef/)
+
+## Обсуждение
+
