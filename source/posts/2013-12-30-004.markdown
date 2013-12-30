@@ -1,15 +1,15 @@
 ---
 layout: article
-title: 004 — 
-date: 2013-12-12 08:31:00 +0400
+title: 004 — Локомотив DevOps движения
+date: 2013-12-30 18:31:00 +0400
 comments: true
 published: true
-subtitle: 
+subtitle: С Новым Годом, а у нас в гостях Александр Титов из «Экспресс 42»
 ---
 
 ## Новости
 
-* [Тестовая кухня набирает обороты], [официальный сайт](http://kitchen.ci/) и [релиз 1.0.0](http://www.getchef.com/blog/2013/12/03/announcing-the-release-of-test-kitchen-1-0-0/)
+* Тестовая кухня набирает обороты: [официальный сайт](http://kitchen.ci/) и [релиз 1.0.0](http://www.getchef.com/blog/2013/12/03/announcing-the-release-of-test-kitchen-1-0-0/)
 * [Опскод переименовался в шеф](http://www.getchef.com/blog/2013/12/09/chef-the-company-formerly-known-as-opscode/),
   новость была бы не полной без [цифры инвестиций](http://www.getchef.com/blog/2013/12/09/big-day-for-chef/)
 * [Разработка кукбуков по TDD](http://leopard.in.ua/2013/12/01/chef-and-tdd/)
@@ -22,6 +22,8 @@ subtitle:
 * [На чем работает StackOverflow](http://nickcraver.com/blog/2013/11/22/what-it-takes-to-run-stack-overflow/)
 * [Мысли по прочтению книги «Проект Феникс»](http://www.agilesysadmin.net/phoenix-project-thoughts)
 * [Роли не злы](http://www.getchef.com/blog/2013/11/19/chef-roles-arent-evil/)
+* [Обзорная статья про Vagrant и его окружение на русском](http://habrahabr.ru/company/express42/blog/206768/)
 
 ## Обсуждение
 
+### У нас в гостях Александр Титов
