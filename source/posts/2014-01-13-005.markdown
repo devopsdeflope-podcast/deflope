@@ -1,0 +1,16 @@
+---
+layout: article
+title: 005 — 
+date: 2014-01-13 14:19:00 +0400
+comments: true
+published: true
+subtitle: 
+---
+
+## Новости
+
+
+## Обсуждение
+
+* Книга про вагрант «[Creating Development Environments with Vagrant](http://www.packtpub.com/creating-development-environments-with-vagrant/book)»
+
