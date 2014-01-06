@@ -9,6 +9,7 @@ subtitle:
 
 ## Новости
 
+* [Плагин vagrant-serverspec](https://github.com/jvoorhis/vagrant-serverspec)
 
 ## Обсуждение
 
