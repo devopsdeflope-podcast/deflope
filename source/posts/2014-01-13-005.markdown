@@ -18,6 +18,7 @@ subtitle:
 * [Автоматизация без любви — страшный грех](http://kief.com/infrastructure-as-code-versus-automation.html)
 * [Zookeepr, Doozer, etcd](http://devo.ps/blog/2013/09/11/zookeeper-vs-doozer-vs-etcd.html)
 * [Когда использовать аттрибуты и датабаги](http://www.getchef.com/blog/2014/01/23/attributes-or-data-bags-what-should-i-use/)
+* [Девопс в крупных организациях](http://www.getchef.com/blog/2014/01/23/enterprise-it-devops-youre-not-a-beautiful-and-unique-snowflake/)
 
 ## Обсуждение
 
