@@ -10,6 +10,13 @@ subtitle:
 ## Новости
 
 * [Плагин vagrant-serverspec](https://github.com/jvoorhis/vagrant-serverspec)
+* [Как померять покрытие тестами у рецептов](https://sethvargo.com/chef-recipe-code-coverage/)
+* [Плохой, хороший, злой — паттерны девопса](http://www.opsbs.com/2013/01/good-and-bad-patterns-in-development-and-operations/)
+* [Бесконечный меркуриал](https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook/)
+* [Будущее vagrant berkshelf туманно](https://sethvargo.com/the-future-of-vagrant-berkshelf/)
+* [Автоматизация без любви — страшный грех](http://kief.com/infrastructure-as-code-versus-automation.html)
+* [Zookeepr, Doozer, etcd](http://devo.ps/blog/2013/09/11/zookeeper-vs-doozer-vs-etcd.html)
+* [Когда использовать аттрибуты и датабаги](http://www.getchef.com/blog/2014/01/23/attributes-or-data-bags-what-should-i-use/)
 
 ## Обсуждение
 
