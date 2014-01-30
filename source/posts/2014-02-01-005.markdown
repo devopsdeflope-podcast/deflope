@@ -29,6 +29,7 @@ subtitle: Девопс в Яндексе, 4 видеозаписи выступ�
 * [Выступление Ивана Евтуховича про librarian-chef и berkshelf](http://tech.yandex.ru/events/yagosti/devops/talks/1597/)
 * [Выстулпение Андрея Смирнова про aptly](http://tech.yandex.ru/events/yagosti/devops/talks/1598/)
 * [Сайт aptly](http://www.aptly.info/)
+* [Статья про splunk-cookbook](http://www.getchef.com/blog/2014/01/28/chefs-splunk-cookbook-2/)
 * [Выступление Андрея Горячева про Docker](http://tech.yandex.ru/events/yagosti/devops/talks/1600/)
 * [Гугловое комьюнити HangOps\_ru](https://plus.google.com/communities/114229108523474610285)
 * [Гугловая рассылка devopsru](https://groups.google.com/forum/#!forum/devopsru)
