@@ -14,7 +14,7 @@ task :habr do
   bc = BlueCloth.new data
   res = bc.to_html
   name = file.split('-').last.split('.').first
-  url = "http://devopsdeflope.ru/posts/2013/#{name}.html"
+  url = "http://devopsdeflope.ru/posts/2014/#{name}.html"
   res = %Q[Ссылка на выпуск подкаста: <a href="#{url}">#{url}</a>\n\n] + res
   res.sub!(/<\/ul>/, "</ul>\n<habracut>\n")
 
