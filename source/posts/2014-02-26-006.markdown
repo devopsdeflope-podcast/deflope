@@ -1,0 +1,20 @@
+---
+layout: article
+title: 006 — 
+date: 2014-02-26 14:37:00 +0400
+comments: true
+published: true
+subtitle: 
+---
+
+## Новости
+* [Релиз Chef 11.10.0](http://www.getchef.com/blog/2014/02/06/chef-client-11-10-0-release/)
+* [Статья про packer.io на русском](http://habrahabr.ru/company/express42/blog/212085/)
+
+## Обсуждение
+
+### Ansible
+* [Ansible](http://www.ansible.com/home)
+
+### Обо всем
+* [DevOps митап в марте в офисе Parallels](http://www.meetup.com/DevOps-Moscow-in-Russian/events/165700122/)
