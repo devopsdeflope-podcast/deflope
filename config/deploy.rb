@@ -9,9 +9,9 @@ namespace :deploy do
     storages = [
             {
               :provider => 'AWS',
-              :host => "storage.io",
-              :aws_access_key_id => ENV['ES3_ACCESS_KEY'],
-              :aws_secret_access_key => ENV['ES3_SECRET_KEY']
+              :region => 'eu-west-1',
+              :aws_access_key_id => ENV['S3_ACCESS_KEY'],
+              :aws_secret_access_key => ENV['S3_SECRET_KEY']
             }
     ]
 
@@ -19,14 +19,13 @@ namespace :deploy do
 
     Dir.chdir("build")
 
+    Fog.credentials = { path_style: true }
+
     storages.each do |storage|
       connection = Fog::Storage.new(storage)
       puts "Deploying to bucket: #{aws_bucket}"
 
-      directory = connection.directories.create(
-        :key    => aws_bucket,
-        :public => true
-      )
+      directory = connection.directories.get(aws_bucket)
 
       connection.put_bucket_website( aws_bucket, "index.html", :key => "404.html" )
 
