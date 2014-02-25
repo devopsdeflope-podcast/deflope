@@ -14,3 +14,5 @@
 /.sass-cache
 /source/mp3
 .rvmrc
+.ruby-version
+.vim
