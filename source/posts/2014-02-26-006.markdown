@@ -21,6 +21,7 @@ subtitle:
 * [Chef уже и в IBM](https://www-304.ibm.com/software/brandcatalog/ismlibrary/details?catalog.label=1TW10SO14#tab-details)
 * [Плагин Vagrant-foodshow](http://foodshow.io)
 * [Vagrant Share](http://www.vagrantup.com/blog/feature-preview-vagrant-1-5-share.html)
+* [Статья про мониторинг buy vs build](http://www.morethanseven.net/2014/02/16/buy-vs-build-your-monitoring-system)
 
 ## Обсуждение
 
