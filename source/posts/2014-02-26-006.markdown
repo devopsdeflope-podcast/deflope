@@ -8,7 +8,7 @@ subtitle:
 ---
 
 ## Новости
-* [Релиз Chef 11.10.0](http://www.getchef.com/blog/2014/02/06/chef-client-11-10-0-release/)
+* [Релиз Chef 11.10.0](http://www.getchef.com/blog/2014/02/06/chef-client-11-10-0-release/) и [Chef 11.10.2](http://www.getchef.com/blog/2014/02/18/chef-client-release-11-10-2-10-30-4/) 11.10.2](http://www.getchef.com/blog/2014/02/18/chef-client-release-11-10-2-10-30-4/)
 * [Статья про packer.io на русском](http://habrahabr.ru/company/express42/blog/212085/)
 * [Плагин Vagrant-foodshow](http://foodshow.io)
 * [Распределенное конфигурирование с помощью etcd](http://sysadvent.blogspot.ru/2013/12/day-20-distributed-configuration-data.html)
