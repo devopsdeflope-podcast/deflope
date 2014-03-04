@@ -10,18 +10,18 @@ subtitle:
 ## Новости
 * [Релиз Chef 11.10.0](http://www.getchef.com/blog/2014/02/06/chef-client-11-10-0-release/)
 * [Статья про packer.io на русском](http://habrahabr.ru/company/express42/blog/212085/)
+* [Плагин Vagrant-foodshow](http://foodshow.io)
 * [Распределенное конфигурирование с помощью etcd](http://sysadvent.blogspot.ru/2013/12/day-20-distributed-configuration-data.html)
+* [Vagrant Share](http://www.vagrantup.com/blog/feature-preview-vagrant-1-5-share.html)
 * [Docker 0.8](http://blog.docker.io/2014/02/docker-0-8-quality-new-builder-features-btrfs-storage-osx-support/)
+* [Статья про мониторинг buy vs build](http://www.morethanseven.net/2014/02/16/buy-vs-build-your-monitoring-system)
 * [Индексирование 7 миллионов книг](http://www.hathitrust.org/print/537)
-* [Образа машин как артефакты](http://peter.gillardmoss.me.uk/blog/2013/12/20/machine-images-as-build-artefacts/)
 * [10 вещей, который забывают добавить в мониторинг](http://word.bitly.com/post/74839060954/ten-things-to-monitor)
+* [Образа машин как артефакты](http://peter.gillardmoss.me.uk/blog/2013/12/20/machine-images-as-build-artefacts/)
 * [И еще раз про Docker](https://www.openshift.com/blogs/day-21-docker-the-missing-tutorial)
 * [Docker и Serf](http://www.centurylinklabs.com/decentralizing-docker-how-to-use-serf-with-docker/)
 * [chef-client -z](http://www.getchef.com/blog/2013/10/31/chef-client-z-from-zero-to-chef-in-8-5-seconds/)
 * [Chef уже и в IBM](https://www-304.ibm.com/software/brandcatalog/ismlibrary/details?catalog.label=1TW10SO14#tab-details)
-* [Плагин Vagrant-foodshow](http://foodshow.io)
-* [Vagrant Share](http://www.vagrantup.com/blog/feature-preview-vagrant-1-5-share.html)
-* [Статья про мониторинг buy vs build](http://www.morethanseven.net/2014/02/16/buy-vs-build-your-monitoring-system)
 
 ## Обсуждение
 
