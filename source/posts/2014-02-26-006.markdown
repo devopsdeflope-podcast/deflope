@@ -1,10 +1,10 @@
 ---
 layout: article
-title: 006 — 
+title: 006 — Ansible
 date: 2014-02-26 14:37:00 +0400
 comments: true
 published: true
-subtitle: 
+subtitle: Про Ansible, свежий Brainwashing, митап про Vagrant в Parallels
 ---
 
 ## Новости
@@ -27,6 +27,10 @@ subtitle:
 
 ### Ansible
 * [Ansible](http://www.ansible.com/home)
+* [Ansible Galaxy](https://galaxy.ansible.com/) — сайт для публикации своих ролей в Ansible
 
 ### Обо всем
 * [DevOps митап в марте в офисе Parallels](http://www.meetup.com/DevOps-Moscow-in-Russian/events/165700122/)
+* [Мастер-класс по DevOps](http://brainwashing.pro/devops)
+* [Фильм  «Белоснежка» Пабло Бергера](http://www.kinopoisk.ru/film/586903/) и [рецензия Голубицкого на него](http://www.computerra.ru/68823/golubyatnya-belosnezhka/)
+* [Новый Евангелион](http://ru.wikipedia.org/wiki/Rebuild_of_Evangelion)
