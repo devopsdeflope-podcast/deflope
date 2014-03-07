@@ -17,7 +17,7 @@ subtitle: Интервью со Станиславом Богатыревым п
 * [Статья про мониторинг buy vs build](http://www.morethanseven.net/2014/02/16/buy-vs-build-your-monitoring-system)
 * [Индексирование 7 миллионов книг](http://www.hathitrust.org/print/537)
 * [10 вещей, который забывают добавить в мониторинг](http://word.bitly.com/post/74839060954/ten-things-to-monitor)
-* [Образа машин как артефакты](http://peter.gillardmoss.me.uk/blog/2013/12/20/machine-images-as-build-artefacts/)
+* [Образы машин как артефакты](http://peter.gillardmoss.me.uk/blog/2013/12/20/machine-images-as-build-artefacts/)
 * [И еще раз про Docker](https://www.openshift.com/blogs/day-21-docker-the-missing-tutorial)
 * [Docker и Serf](http://www.centurylinklabs.com/decentralizing-docker-how-to-use-serf-with-docker/)
 * [chef-client -z](http://www.getchef.com/blog/2013/10/31/chef-client-z-from-zero-to-chef-in-8-5-seconds/)
@@ -27,6 +27,8 @@ subtitle: Интервью со Станиславом Богатыревым п
 
 ### Интервью со Станиславом Богатыревым
 
+* [Профиль на Гитхабе](http://github.com/realloc/)
+* [Блог Станислава](http://realloc.livejournal.com/)
 * [Clodo](http://www.clodo.ru/)
 * [Serf](http://www.serfdom.io/)
 
