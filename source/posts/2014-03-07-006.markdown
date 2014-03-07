@@ -1,10 +1,10 @@
 ---
 layout: article
-title: 006 — Ansible
-date: 2014-02-26 14:37:00 +0400
+title: 006 — Про Serf и про Ansible
+date: 2014-03-26 14:37:00 +0400
 comments: true
 published: true
-subtitle: Про Ansible, свежий Brainwashing, митап про Vagrant в Parallels
+subtitle: Интервью со Станиславом Богатыревым про Serf, рассказ про Ansible, свежий Brainwashing, митап про Vagrant в Parallels
 ---
 
 ## Новости
@@ -24,6 +24,11 @@ subtitle: Про Ansible, свежий Brainwashing, митап про Vagrant �
 * [Chef уже и в IBM](https://www-304.ibm.com/software/brandcatalog/ismlibrary/details?catalog.label=1TW10SO14#tab-details)
 
 ## Обсуждение
+
+### Интервью со Станиславом Богатыревым
+
+* [Clodo](http://www.clodo.ru/)
+* [Serf](http://www.serfdom.io/)
 
 ### Ansible
 * [Ansible](http://www.ansible.com/home)
