@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 006 — Про Serf и про Ansible
-date: 2014-03-26 14:37:00 +0400
+date: 2014-03-07 14:37:00 +0400
 comments: true
 published: true
 subtitle: Интервью со Станиславом Богатыревым про Serf, рассказ про Ansible, свежий Brainwashing, митап про Vagrant в Parallels
