@@ -10,6 +10,7 @@ subtitle:
 ## Новости
 * [Chef metal](http://www.getchef.com/blog/2014/03/04/chef-metal-0-2-release/)
 * [Vagrant 1.5 Feature Preview](http://www.vagrantup.com/blog/feature-preview-vagrant-1-5-hyperv.html)
+* [Chef Sugars](https://sethvargo.com/delicious-new-chef-sugars/)
 
 ## Обсуждение
 
