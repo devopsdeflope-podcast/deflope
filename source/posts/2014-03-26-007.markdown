@@ -11,6 +11,7 @@ subtitle:
 * [Vagrant 1.5 и Vagrant Cloud] (http://www.vagrantup.com/blog/vagrant-1-5-and-vagrant-cloud.html) много вкусного!
 * [Chef metal](http://www.getchef.com/blog/2014/03/04/chef-metal-0-2-release/)
 * [Chef Sugars](https://sethvargo.com/delicious-new-chef-sugars/)
+* [Vagrant Parallels](http://parallels.github.io/vagrant-parallels/)
 
 ## Обсуждение
 
