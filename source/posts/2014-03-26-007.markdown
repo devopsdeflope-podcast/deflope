@@ -12,6 +12,7 @@ subtitle:
 * [Chef metal](http://www.getchef.com/blog/2014/03/04/chef-metal-0-2-release/)
 * [Chef Sugars](https://sethvargo.com/delicious-new-chef-sugars/)
 * [Vagrant Parallels](http://parallels.github.io/vagrant-parallels/)
+* [Getting Started with Docker](http://serversforhackers.com/articles/2014/03/20/getting-started-with-docker/)
 
 ## Обсуждение
 
