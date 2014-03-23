@@ -1,20 +1,27 @@
 ---
 layout: article
-title: 007 — 
+title: 007 — DevOps митап в Parallels
 date: 2014-03-26 19:00:00 +0400
 comments: true
 published: false
-subtitle: 
+subtitle: Свежий сочный Vagrant, сахар и металл
 ---
 
 ## Новости
-* [Vagrant 1.5 и Vagrant Cloud] (http://www.vagrantup.com/blog/vagrant-1-5-and-vagrant-cloud.html) много вкусного!
+* [Vagrant 1.5 и Vagrant Cloud](http://www.vagrantup.com/blog/vagrant-1-5-and-vagrant-cloud.html) принес нам много вкусного!
+* [6 марта зарелизился LXC 1.0.1](https://linuxcontainers.org/news/), по этому поводу вышла [серия из 10 статей](https://www.stgraber.org/2013/12/20/lxc-1-0-blog-post-series/)
 * [Chef metal](http://www.getchef.com/blog/2014/03/04/chef-metal-0-2-release/)
+* [Мысли о NixOS](https://www.domenkozar.com/2014/03/11/why-puppet-chef-ansible-arent-good-enough-and-we-can-do-better/)
 * [Chef Sugars](https://sethvargo.com/delicious-new-chef-sugars/)
+* [Закон Паркинсона и DevOps](http://goatcan.wordpress.com/2014/02/19/you-build-kingdoms-because-your-mother-didnt-love-you/)
 * [Vagrant Parallels](http://parallels.github.io/vagrant-parallels/)
+* [«Не тот» Go стал бесплатным](http://www.thoughtworks.com/news/go-continuous-delivery-now-available-as-free-open-source)
 * [Getting Started with Docker](http://serversforhackers.com/articles/2014/03/20/getting-started-with-docker/)
+* [Почему я не перестану использовать Nagios](https://laur.ie/blog/2014/02/why-ill-be-letting-nagios-live-on-a-bit-longer-thank-you-very-much/) от инженера из Etsy
+* [Непрерывная интеграция с Jenkins и Docker](http://www.activestate.com/blog/2014/01/using-docker-run-ruby-rspec-ci-jenkins)
 
 ## Обсуждение
 
+### Интервью с Олегом из Кёльна
 
-### Обо всем
+### DevOps-митап в Parallels
