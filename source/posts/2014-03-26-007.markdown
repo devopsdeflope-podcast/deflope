@@ -29,3 +29,4 @@ subtitle: Свежий сочный Vagrant, сахар и металл, а та
 * [Видео](http://t.co/ePP9mcNatt) доклада про использование Vagrant в Express 42
 * [Видео](http://bit.ly/1iDO2oP) доклада про Vagrant для [Parallels Desktop](http://www.parallels.com/products/desktop/)
 * [Видео](http://t.co/YHKYBuvPrt) с мастер-класса
+* [Сайт митапа](http://www.meetup.com/DevOps-Moscow-in-Russian/), материалы появятся позже
