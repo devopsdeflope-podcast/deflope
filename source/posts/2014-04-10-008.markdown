@@ -9,6 +9,7 @@ subtitle: <TODO>
 
 ## Новости
  [Chef Supermarket](http://lists.opscode.com/sympa/arc/chef/2014-03/msg00329.html)
+ [Новая консоль в Hosted Enterprise Chef](http://www.getchef.com/blog/2014/04/02/chef-management-console-released-to-hosted-enterprise-chef)
 ## Обсуждение
 
 ### Новый супермаркет
