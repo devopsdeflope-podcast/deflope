@@ -19,6 +19,7 @@ subtitle: <TODO>
 * [Сборник статей по администрированию nginx](http://nginx.com/admin-guide/)
 * [Анализ логов nginx с помощью Python](http://nbviewer.ipython.org/github/grokcode/ipython-notebooks/blob/master/nginx-log-analysis.ipynb)
 * [Управление конфигурацией — это сложно](http://blog.hatofmonkeys.com/blog/2014/03/15/configuration-management-isnt-stupid/)
+* [Для тех, кто еще нет. heartbleed.com](http://heartbleed.com)
 
 ## Обсуждение
 
