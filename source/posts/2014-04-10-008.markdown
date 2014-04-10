@@ -9,15 +9,15 @@ subtitle: <TODO>
 
 ## Новости
 * [Chef Supermarket](http://lists.opscode.com/sympa/arc/chef/2014-03/msg00329.html)
-* [Новая консоль в Hosted Enterprise Chef](http://www.getchef.com/blog/2014/04/02/chef-management-console-released-to-hosted-enterprise-chef)
-* [DevOps проекты в Microsoft](http://msopentech.com/blog/project-categories/devops/): [Windows Management
-  Framework](http://blogs.technet.com/b/windowsserver/archive/2014/04/03/windows-management-framework-v5-preview.aspx),
-  [Vagrant box для HyperV](http://vagrantbox.msopentech.com/) и другие
-* [Шеф в ажуре](http://www.getchef.com/blog/2014/04/03/chef-delivers-devops-automation-for-windows-and-microsoft-azure/)
-* [Puppet тоже в ажуре](http://puppetlabs.com/blog/new-integrations-windows-azure-and-visual-studio)
 * [Sysdig](http://draios.com/announcing-sysdig/) — strace, tcpdump и lsof в одном флаконе, [оффициальный сайт](http://www.sysdig.org/)
-* [Сборник статей по администрированию nginx](http://nginx.com/admin-guide/)
+* [Новая консоль в Hosted Enterprise Chef](http://www.getchef.com/blog/2014/04/02/chef-management-console-released-to-hosted-enterprise-chef)
+* [DevOps проекты в Microsoft](http://msopentech.com/blog/project-categories/devops/)
+* [Windows Management Framework](http://blogs.technet.com/b/windowsserver/archive/2014/04/03/windows-management-framework-v5-preview.aspx),
+* [Шеф в ажуре](http://www.getchef.com/blog/2014/04/03/chef-delivers-devops-automation-for-windows-and-microsoft-azure/)
+* [Vagrant box для HyperV](http://vagrantbox.msopentech.com/)
+* [Puppet тоже в ажуре](http://puppetlabs.com/blog/new-integrations-windows-azure-and-visual-studio)
 * [Анализ логов nginx с помощью Python](http://nbviewer.ipython.org/github/grokcode/ipython-notebooks/blob/master/nginx-log-analysis.ipynb)
+* [Сборник статей по администрированию nginx](http://nginx.com/admin-guide/)
 * [Управление конфигурацией — это сложно](http://blog.hatofmonkeys.com/blog/2014/03/15/configuration-management-isnt-stupid/)
 * [Для тех, кто еще нет. heartbleed.com](http://heartbleed.com)
 
