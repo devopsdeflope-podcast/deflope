@@ -13,6 +13,7 @@ subtitle: <TODO>
 * [Новая консоль в Hosted Enterprise Chef](http://www.getchef.com/blog/2014/04/02/chef-management-console-released-to-hosted-enterprise-chef)
 * [DevOps проекты в Microsoft](http://msopentech.com/blog/project-categories/devops/)
 * [Windows Management Framework](http://blogs.technet.com/b/windowsserver/archive/2014/04/03/windows-management-framework-v5-preview.aspx),
+* [Chocolatey](https://chocolatey.org/), аналог ports или brew
 * [Шеф в ажуре](http://www.getchef.com/blog/2014/04/03/chef-delivers-devops-automation-for-windows-and-microsoft-azure/)
 * [Vagrant box для HyperV](http://vagrantbox.msopentech.com/)
 * [Puppet тоже в ажуре](http://puppetlabs.com/blog/new-integrations-windows-azure-and-visual-studio)
