@@ -24,4 +24,4 @@ subtitle: <TODO>
 ## Обсуждение
 
 * Новый супермаркет
-* * Для тех, кто еще нет [The Heartbleed Bug](http://heartbleed.com)
+* Для тех, кто еще нет [The Heartbleed Bug](http://heartbleed.com)
