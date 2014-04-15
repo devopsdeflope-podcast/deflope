@@ -29,4 +29,4 @@ subtitle: Про Puppet под Windows, Сидней, Австралию и по
 
 ### Интервью с Александром
 
-* [Плагины Сашы для Puppet](http://forge.puppetlabs.com/noma4i)
+* [Плагины Саши для Puppet](http://forge.puppetlabs.com/noma4i)
