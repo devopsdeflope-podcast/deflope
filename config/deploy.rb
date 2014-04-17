@@ -6,6 +6,12 @@ namespace :deploy do
 
   task :default do
 
+    if File.exists?("export.yml")
+      key_file = YAML.load(File.read("export.yml"))
+      ENV['S3_ACCESS_KEY'] = key_file['S3_ACCESS_KEY']
+      ENV['S3_SECRET_KEY'] = key_file['S3_SECRET_KEY']
+    end
+
     storages = [
             {
               :provider => 'AWS',
@@ -14,6 +20,7 @@ namespace :deploy do
               :aws_secret_access_key => ENV['S3_SECRET_KEY']
             }
     ]
+
 
     raise "Eerro while building site" if not system "bundle exec middleman build"
 
