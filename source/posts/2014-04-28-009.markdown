@@ -19,6 +19,7 @@ subtitle: Jenkins, Стачка, Америка и ChefConf'2014
 * [Раскраска про SELinux](https://github.com/mairin/selinux-coloring-book)
 * [Подсказки админам в
   мониторинге](http://riltsken.github.io/devops/infrastructure/monitoring/2014/04/19/making-runbooks-more-useful-by-exposing-them-through-monitoring.html)
+* [Chef DK](http://www.getchef.com/downloads/chef-dk/mac/)
 
 ## Обсуждение
 
