@@ -1,10 +1,10 @@
 ---
 layout: article
-title: 009 — 
+title: 009 — Итоги ChefConf'2014
 date: 2014-04-28 19:00:00 +0400
 comments: true
 published: false
-subtitle: 
+subtitle: Jenkins, Стачка, Америка и ChefConf'2014
 ---
 
 ## Новости
