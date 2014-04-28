@@ -12,6 +12,13 @@ subtitle:
 * [Как девопс убивает разработчиков](http://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/)
 * [Разработчик мертв, до здравствует разработчик](http://www.paperplanes.de/2014/4/17/the-developer-is-dead.html)
 * [Arrays and Chef Attributes](https://coderanger.net/2013/06/arrays-and-chef/)
+* [Управление конвеером поставки с помощью Jenkins](http://www.infoq.com/articles/orch-pipelines-jenkins)
+* [Почему Jenkins не подходят для Continious Delivery](http://www.cloudsidekick.com/blog/stretch-armstrong.html)
+* [Исходники go открыты](http://www.go.cd/)
+* [Выкатка с Ansible и облачным балансировщиком](http://developer.rackspace.com/blog/rolling-deployments-with-ansible-and-cloud-load-balancers.html)
+* [Раскраска про SELinux](https://github.com/mairin/selinux-coloring-book)
+* [Подсказки админам в
+  мониторинге](http://riltsken.github.io/devops/infrastructure/monitoring/2014/04/19/making-runbooks-more-useful-by-exposing-them-through-monitoring.html)
 
 ## Обсуждение
 
