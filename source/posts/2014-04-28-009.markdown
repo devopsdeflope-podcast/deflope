@@ -15,11 +15,11 @@ subtitle: Jenkins, Стачка, Америка и ChefConf'2014
 * [Управление конвеером поставки с помощью Jenkins](http://www.infoq.com/articles/orch-pipelines-jenkins)
 * [Почему Jenkins не подходят для Continious Delivery](http://www.cloudsidekick.com/blog/stretch-armstrong.html)
 * [Исходники go открыты](http://www.go.cd/)
+* [Chef DK](http://www.getchef.com/downloads/chef-dk/mac/)
 * [Выкатка с Ansible и облачным балансировщиком](http://developer.rackspace.com/blog/rolling-deployments-with-ansible-and-cloud-load-balancers.html)
 * [Раскраска про SELinux](https://github.com/mairin/selinux-coloring-book)
 * [Подсказки админам в
   мониторинге](http://riltsken.github.io/devops/infrastructure/monitoring/2014/04/19/making-runbooks-more-useful-by-exposing-them-through-monitoring.html)
-* [Chef DK](http://www.getchef.com/downloads/chef-dk/mac/)
 * [Chef + Docker: Automating Container Workflows](http://www.getchef.com/blog/2014/04/23/chef-docker-automating-container-workflows/)
 
 ## Обсуждение
