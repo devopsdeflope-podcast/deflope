@@ -11,6 +11,7 @@ subtitle:
 * [Новая команда global-status в Vagrant 1.6](http://www.vagrantup.com/blog/feature-preview-vagrant-1-6-global-status.html)
 * [Как девопс убивает разработчиков](http://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/)
 * [Разработчик мертв, до здравствует разработчик](http://www.paperplanes.de/2014/4/17/the-developer-is-dead.html)
+* [Arrays and Chef Attributes](https://coderanger.net/2013/06/arrays-and-chef/)
 
 ## Обсуждение
 
