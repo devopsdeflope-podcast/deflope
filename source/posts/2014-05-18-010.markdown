@@ -1,0 +1,15 @@
+---
+layout: article
+title: 008
+date: 2014-05-18 17:21:00 +0400
+comments: true
+published: false
+subtitle: TODO
+---
+
+## Новости
+* [Как внедряют DevOps в RedHat](http://developerblog.redhat.com/2014/03/05/rh-devops-journey-harder/)
+* [Чатопсы и доктор Манхеттен](http://blog.librato.com/posts/confessions-of-a-chatbot)
+
+## Обсуждение
+
