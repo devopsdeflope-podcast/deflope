@@ -13,6 +13,7 @@ subtitle: TODO
 * [Музыкальный альбом как модуль к ядру](https://github.com/usrbinnc/netcat-cpi-kernel-module)
 * [Open Source Chef Server 11.1.0](http://www.getchef.com/blog/2014/05/14/open-source-chef-server-11-1-0/)
 * [Berkshelf Workflow](http://www.getchef.com/blog/2014/05/27/10909/)
+* [Open-Source Service Discovery](http://jasonwilder.com/blog/2014/02/04/service-discovery-in-the-cloud/)
 
 ## Обсуждение
 
