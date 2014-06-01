@@ -8,6 +8,7 @@ subtitle: TODO
 ---
 
 ## Новости
+
 * [Как внедряют DevOps в RedHat](http://developerblog.redhat.com/2014/03/05/rh-devops-journey-harder/)
 * [Чатопсы и доктор Манхеттен](http://blog.librato.com/posts/confessions-of-a-chatbot)
 * [Музыкальный альбом как модуль к ядру](https://github.com/usrbinnc/netcat-cpi-kernel-module)
@@ -15,6 +16,7 @@ subtitle: TODO
 * [Berkshelf Workflow](http://www.getchef.com/blog/2014/05/27/10909/)
 * [Open-Source Service Discovery](http://jasonwilder.com/blog/2014/02/04/service-discovery-in-the-cloud/)
 * [Alert Design](http://ryanfrantz.com/posts/alert-design/)
+
 ## Обсуждение
 
 * [CitusDB](http://www.citusdata.com/blog/76-postgresql-columnar-store-for-analytics)
