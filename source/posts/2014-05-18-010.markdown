@@ -11,6 +11,8 @@ subtitle: TODO
 * [Как внедряют DevOps в RedHat](http://developerblog.redhat.com/2014/03/05/rh-devops-journey-harder/)
 * [Чатопсы и доктор Манхеттен](http://blog.librato.com/posts/confessions-of-a-chatbot)
 * [Музыкальный альбом как модуль к ядру](https://github.com/usrbinnc/netcat-cpi-kernel-module)
+* [Open Source Chef Server 11.1.0](http://www.getchef.com/blog/2014/05/14/open-source-chef-server-11-1-0/)
+* [Berkshelf Workflow](http://www.getchef.com/blog/2014/05/27/10909/)
 
 ## Обсуждение
 
