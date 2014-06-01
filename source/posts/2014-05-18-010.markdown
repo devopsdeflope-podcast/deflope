@@ -18,6 +18,7 @@ subtitle: TODO
 * [Consul от Hashcorp](http://www.hashicorp.com/blog/consul.html)
 * [Alert Design](http://ryanfrantz.com/posts/alert-design/)
 * [Мониторинг на основе данных](http://habrahabr.ru/company/webzilla/blog/220707/)
+
 ## Обсуждение
 
 * [CitusDB](http://www.citusdata.com/blog/76-postgresql-columnar-store-for-analytics)
