@@ -14,7 +14,7 @@ subtitle: TODO
 * [Open Source Chef Server 11.1.0](http://www.getchef.com/blog/2014/05/14/open-source-chef-server-11-1-0/)
 * [Berkshelf Workflow](http://www.getchef.com/blog/2014/05/27/10909/)
 * [Open-Source Service Discovery](http://jasonwilder.com/blog/2014/02/04/service-discovery-in-the-cloud/)
-
+* [Alert Design](http://ryanfrantz.com/posts/alert-design/)
 ## Обсуждение
 
 * [CitusDB](http://www.citusdata.com/blog/76-postgresql-columnar-store-for-analytics)
