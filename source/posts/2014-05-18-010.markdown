@@ -1,10 +1,10 @@
 ---
 layout: article
-title: 008
+title: 010 - Секретный девопс из недр Undev
 date: 2014-05-18 17:21:00 +0400
 comments: true
 published: false
-subtitle: TODO
+subtitle: Колоночные хранилища, интервью с Дмитрием Васильевым из Undev, а также новости про Консула, Красную Шапочку и Сетевого Кота
 ---
 
 ## Новости
@@ -24,3 +24,13 @@ subtitle: TODO
 * [CitusDB](http://www.citusdata.com/blog/76-postgresql-columnar-store-for-analytics)
 * [Обсуждение Citus на hackernews](https://news.ycombinator.com/item?id=7523950)
 * [Сравнение Citus и MonetDB](http://www.monetdb.org/content/citusdb-postgresql-column-store-vs-monetdb-tpc-h-shootout)
+* [VoltDB](http://voltdb.com/)
+* [Vertica](http://www.vertica.com/)
+
+### Интервью с Дмитрием Васильевым из Undev
+
+* [Поддержка erb в ролях, кастомный chef formater, deb-хелперы для ruby](https://github.com/vadv/devops_deflope_examples)
+* [Riemann сервер Сталин](https://github.com/vadv/stalin)
+* [Riemann клиент Курчатов](https://github.com/vadv/kurchatov)
+* [Обновление автоматических атрибутов ноды без chef-client (эдакий ocs inventory)](https://github.com/vadv/collect-agent)
+* Для интересующихся реализацией chef-server можно глянуть [тут](https://github.com/ctdk/goiardi). Но это достаточно увесистый chef-server, неудобный тем что данные хранит либо в файле с go-серилизацией либо в mysql
