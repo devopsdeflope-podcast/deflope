@@ -1,0 +1,18 @@
+---
+layout: article
+title: 011 - 
+date: 2014-06-28 10:21:00 +0400
+comments: true
+published: false
+subtitle:
+---
+
+## Новости
+
+* [Не планируйте, не собирайте, не запускайте](http://www.getchef.com/blog/2014/04/29/plan-build-run-please-dont/)
+* [Нож ХаПэ](http://www.getchef.com/blog/2014/05/29/announcing-chef-support-for-hp-helion/)
+* [Книга про Chef от Леопарда](http://chef.leopard.in.ua/)
+* [Две мысли с Мониторамы](http://fractio.nl/2014/05/10/rethinking-monitoring/)
+
+## Обсуждение
+
