@@ -13,6 +13,8 @@ subtitle:
 * [Нож ХаПэ](http://www.getchef.com/blog/2014/05/29/announcing-chef-support-for-hp-helion/)
 * [Книга про Chef от Леопарда](http://chef.leopard.in.ua/)
 * [Две мысли с Мониторамы](http://fractio.nl/2014/05/10/rethinking-monitoring/)
+* [Шефезируй тестирование
+  шефа](http://erichelgeson.github.io/blog/2014/05/10/automating-your-automation-federated-jenkins-with-chef/)
 
 ## Обсуждение
 
