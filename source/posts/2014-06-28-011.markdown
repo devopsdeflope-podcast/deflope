@@ -19,5 +19,6 @@ subtitle:
 * [с Chef Solo на Chef Zero](http://www.getchef.com/blog/2014/06/24/from-solo-to-zero-migrating-to-chef-client-local-mode/)
 * [ChefDK and Ruby](http://jtimberman.housepub.org/blog/2014/04/30/chefdk-and-ruby/)
 * [Soft-Opening the Supermarket](http://www.getchef.com/blog/2014/06/17/soft-opening-the-supermarket/)
+
 ## Обсуждение
 
