@@ -10,15 +10,15 @@ subtitle:
 ## Новости
 
 * [Не планируйте, не собирайте, не запускайте](http://www.getchef.com/blog/2014/04/29/plan-build-run-please-dont/)
+* [С Chef Solo на Chef Zero](http://www.getchef.com/blog/2014/06/24/from-solo-to-zero-migrating-to-chef-client-local-mode/)
 * [Нож ХаПэ](http://www.getchef.com/blog/2014/05/29/announcing-chef-support-for-hp-helion/)
+* [ChefDK and Ruby](http://jtimberman.housepub.org/blog/2014/04/30/chefdk-and-ruby/)
 * [Книга про Chef от Леопарда](http://chef.leopard.in.ua/)
+* [Soft-Opening the Supermarket](http://www.getchef.com/blog/2014/06/17/soft-opening-the-supermarket/)
 * [Две мысли с Мониторамы](http://fractio.nl/2014/05/10/rethinking-monitoring/)
 * [Шефезируй тестирование
   шефа](http://erichelgeson.github.io/blog/2014/05/10/automating-your-automation-federated-jenkins-with-chef/)
 * [Недопонимание Docker](https://devopsu.com/blog/docker-misconceptions/)
-* [с Chef Solo на Chef Zero](http://www.getchef.com/blog/2014/06/24/from-solo-to-zero-migrating-to-chef-client-local-mode/)
-* [ChefDK and Ruby](http://jtimberman.housepub.org/blog/2014/04/30/chefdk-and-ruby/)
-* [Soft-Opening the Supermarket](http://www.getchef.com/blog/2014/06/17/soft-opening-the-supermarket/)
 
 ## Обсуждение
 
