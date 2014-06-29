@@ -16,6 +16,7 @@ subtitle:
 * [Шефезируй тестирование
   шефа](http://erichelgeson.github.io/blog/2014/05/10/automating-your-automation-federated-jenkins-with-chef/)
 * [Недопонимание Docker](https://devopsu.com/blog/docker-misconceptions/)
+* [с Chef Solo на Chef Zero](http://www.getchef.com/blog/2014/06/24/from-solo-to-zero-migrating-to-chef-client-local-mode/)
 
 ## Обсуждение
 
