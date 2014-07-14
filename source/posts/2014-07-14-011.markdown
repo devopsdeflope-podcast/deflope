@@ -1,10 +1,10 @@
 ---
 layout: article
-title: 011 - 
-date: 2014-06-28 10:21:00 +0400
+title: 011 - Андрей Смирнов и aptly
+date: 2014-07-14 10:21:00 +0400
 comments: true
-published: false
-subtitle:
+published: true
+subtitle: Aptly, Андрей Смирнов, мастер-класс по высоконагруженным системам и смерть шеф-соло
 ---
 
 ## Новости
@@ -13,12 +13,18 @@ subtitle:
 * [С Chef Solo на Chef Zero](http://www.getchef.com/blog/2014/06/24/from-solo-to-zero-migrating-to-chef-client-local-mode/)
 * [Нож ХаПэ](http://www.getchef.com/blog/2014/05/29/announcing-chef-support-for-hp-helion/)
 * [ChefDK and Ruby](http://jtimberman.housepub.org/blog/2014/04/30/chefdk-and-ruby/)
+* [Две мысли с Мониторамы](http://fractio.nl/2014/05/10/rethinking-monitoring/)
 * [Книга про Chef от Леопарда](http://chef.leopard.in.ua/)
 * [Soft-Opening the Supermarket](http://www.getchef.com/blog/2014/06/17/soft-opening-the-supermarket/)
-* [Две мысли с Мониторамы](http://fractio.nl/2014/05/10/rethinking-monitoring/)
 * [Шефезируй тестирование
   шефа](http://erichelgeson.github.io/blog/2014/05/10/automating-your-automation-federated-jenkins-with-chef/)
 * [Недопонимание Docker](https://devopsu.com/blog/docker-misconceptions/)
 
 ## Обсуждение
 
+### У нас в гостях Андрей Смирнов
+
+* [Блог Андрея](http://smira.ru/)
+* [Твиттер Андрея](https://twitter.com/smira)
+* [Мастер-класс Андрея](smira.highload.ru)
+* [Сайт проекта aptly](aptly.info)
