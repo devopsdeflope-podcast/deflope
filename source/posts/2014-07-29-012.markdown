@@ -9,6 +9,11 @@ subtitle: Год в эфире
 
 ## Новости
 
+* [NixOS и Хаскель](http://fuuzetsu.co.uk/blog/posts/2014-06-28-My-experience-with-NixOS.html)
+* [Стоит ли учить Chef под Windows](http://www.getchef.com/blog/2014/07/14/is-the-chef-learning-curve-worth-it/)
+* [Так ли надежен ElasticSearch](http://aphyr.com/posts/317-call-me-maybe-elasticsearch)
+* [Отчет PuppetLabs о полезности DevOps](http://puppetlabs.com/sites/default/files/2014-state-of-devops-report.pdf)
+
 ## Обсуждение
 
 ### Год в эфире
