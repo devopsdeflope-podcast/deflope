@@ -15,6 +15,7 @@ subtitle: Год в эфире
 * [Отчет PuppetLabs о полезности DevOps](http://puppetlabs.com/sites/default/files/2014-state-of-devops-report.pdf)
 * [Windows PowerShell DSC в
   Linux](http://blogs.msdn.com/b/powershell/archive/2014/05/19/announcing-windows-powershell-desired-state-configuration-for-linux.aspx)
+* [Кукбук dsc](http://www.getchef.com/blog/2014/07/24/getting-ready-for-chef-powershell-dsc/)
 * [Навигатор log файлов](http://lnav.org/)
 * [Вышел ChefDK 0.2.0](http://www.getchef.com/blog/2014/07/15/release-chef-development-kit-0-2-0/)
 * [Список инструментов Прикольный Сисадмин](https://github.com/kahun/awesome-sysadmin)
