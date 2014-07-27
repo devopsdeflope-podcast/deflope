@@ -10,20 +10,22 @@ subtitle: Год в эфире
 ## Новости
 
 * [NixOS и Хаскель](http://fuuzetsu.co.uk/blog/posts/2014-06-28-My-experience-with-NixOS.html)
+* [Навигатор log файлов](http://lnav.org/)
 * [Стоит ли учить Chef под Windows](http://www.getchef.com/blog/2014/07/14/is-the-chef-learning-curve-worth-it/)
+* [Бета-релиз chef-container](http://www.getchef.com/blog/2014/07/15/release-chef-container-0-2-0-beta/)
 * [Так ли надежен ElasticSearch](http://aphyr.com/posts/317-call-me-maybe-elasticsearch)
 * [Отчет PuppetLabs о полезности DevOps](http://puppetlabs.com/sites/default/files/2014-state-of-devops-report.pdf)
+* [Вышел ChefDK 0.2.0](http://www.getchef.com/blog/2014/07/15/release-chef-development-kit-0-2-0/)
 * [Windows PowerShell DSC в
   Linux](http://blogs.msdn.com/b/powershell/archive/2014/05/19/announcing-windows-powershell-desired-state-configuration-for-linux.aspx)
-* [Кукбук dsc](http://www.getchef.com/blog/2014/07/24/getting-ready-for-chef-powershell-dsc/)
-* [Навигатор log файлов](http://lnav.org/)
-* [Вышел ChefDK 0.2.0](http://www.getchef.com/blog/2014/07/15/release-chef-development-kit-0-2-0/)
+* [Кукбук DSC](http://www.getchef.com/blog/2014/07/24/getting-ready-for-chef-powershell-dsc/)
 * [Список инструментов Прикольный Сисадмин](https://github.com/kahun/awesome-sysadmin)
-* [Бета-релиз chef-container](http://www.getchef.com/blog/2014/07/15/release-chef-container-0-2-0-beta/)
 * [Убивает ли DevOps кого-нибудь?](http://cfengine.com/company/blog-detail/devops-killing/)
 * [Тестирование кукбуков в цифровом океане](http://www.slideshare.net/someara/chefnyc-june2014-testing-cookbooks-on-digital-ocean)
 
 ## Обсуждение
+
+### У нас в гостях Тимур Батыршин
 
 ### Год в эфире
 
