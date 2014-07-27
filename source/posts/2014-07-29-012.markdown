@@ -21,6 +21,7 @@ subtitle: Год в эфире
 * [Список инструментов Прикольный Сисадмин](https://github.com/kahun/awesome-sysadmin)
 * [Бета-релиз chef-container](http://www.getchef.com/blog/2014/07/15/release-chef-container-0-2-0-beta/)
 * [Убивает ли DevOps кого-нибудь?](http://cfengine.com/company/blog-detail/devops-killing/)
+* [Тестирование кукбуков в цифровом океане](http://www.slideshare.net/someara/chefnyc-june2014-testing-cookbooks-on-digital-ocean)
 
 ## Обсуждение
 
