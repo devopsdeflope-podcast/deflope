@@ -4,7 +4,7 @@ title: 012 - Юбилей
 date: 2014-07-29 11:11:00 +0400
 comments: true
 published: true
-subtitle: Год в эфире
+subtitle: Год в эфире, Тимур Батыршин, крутая крутость и немножко про обучение
 ---
 
 ## Новости
@@ -25,7 +25,12 @@ subtitle: Год в эфире
 
 ## Обсуждение
 
-### У нас в гостях Тимур Батыршин
-
 ### Год в эфире
 
+* [Крутая крутость](https://github.com/bayandin/awesome-awesomeness)
+
+### У нас в гостях Тимур Батыршин
+
+* [Блог Тимура](http://erthad.name)
+* [Твиттер Тимура](https://twitter.com/erthad)
+* [Github Тимура](https://github.com/timurb)
