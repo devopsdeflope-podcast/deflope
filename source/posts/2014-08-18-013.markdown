@@ -1,13 +1,17 @@
 ---
 layout: article
-title: 013 -
-date: 2014-08-18 11:11:00 +0400
+title: 013 - Счастливый выпуск
+date: 2014-08-28 11:11:00 +0400
 comments: true
-published: true
-subtitle:
+published: false
+subtitle: 
 ---
 
 ## Новости
 
+* [Terraform от Хашимото](http://www.terraform.io)
+
 ## Обсуждение
 
+
+### У нас в гостях <человек>
