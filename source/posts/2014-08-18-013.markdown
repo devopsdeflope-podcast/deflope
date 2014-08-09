@@ -10,6 +10,9 @@ subtitle:
 ## Новости
 
 * [Terraform от Хашимото](http://www.terraform.io)
+* [Практична ли неизменяемая
+  инфраструктура](http://www.getchef.com/blog/2014/06/23/immutable-infrastructure-practical-or-not/)
+* [Так ли надежен RabbitMQ](http://aphyr.com/posts/315-call-me-maybe-rabbitmq)
 
 ## Обсуждение
 
