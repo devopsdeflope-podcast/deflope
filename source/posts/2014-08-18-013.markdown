@@ -14,6 +14,7 @@ subtitle:
   инфраструктура](http://www.getchef.com/blog/2014/06/23/immutable-infrastructure-practical-or-not/)
 * [Так ли надежен RabbitMQ](http://aphyr.com/posts/315-call-me-maybe-rabbitmq)
 * [Cleanroom от Seth Vargo](https://github.com/sethvargo/cleanroom)
+* [Docker 1.2.0](https://blog.docker.com/2014/08/announcing-docker-1-2-0/)
 
 ## Обсуждение
 
