@@ -18,8 +18,11 @@ subtitle:
 * [Записки о Logstash и Graylog2](http://jpmens.net/2012/08/06/my-logstash-and-graylog2-notes/)
 * [MDD — metrics driven development](http://blog.librato.com/posts/2014/7/16/metrics-driven-development)
 * [Шеф сервер на Go](https://github.com/ctdk/goiardi)
+* [Rundeck и ограничение операций](http://www.ixis.co.uk/blog/restricted-operations-using-rundeck)
+* [Posh-SSH](http://www.powershellmagazine.com/2014/07/03/posh-ssh-open-source-ssh-powershell-module/)
 
 ## Обсуждение
 
+* [Rundeck](http://rundeck.org/)
 
 ### У нас в гостях <человек>
