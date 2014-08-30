@@ -15,6 +15,9 @@ subtitle:
 * [Так ли надежен RabbitMQ](http://aphyr.com/posts/315-call-me-maybe-rabbitmq)
 * [Cleanroom от Seth Vargo](https://github.com/sethvargo/cleanroom)
 * [Docker 1.2.0](https://blog.docker.com/2014/08/announcing-docker-1-2-0/)
+* [Записки о Logstash и Graylog2](http://jpmens.net/2012/08/06/my-logstash-and-graylog2-notes/)
+* [MDD — metrics driven development](http://blog.librato.com/posts/2014/7/16/metrics-driven-development)
+* [Шеф сервер на Go](https://github.com/ctdk/goiardi)
 
 ## Обсуждение
 
