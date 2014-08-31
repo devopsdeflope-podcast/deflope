@@ -23,6 +23,11 @@ subtitle:
 
 ## Обсуждение
 
+* [Статья Сета Варго об уходе из Шефа](https://sethvargo.com/leaving-chef/)
+* [Реакция компании Chef на уход Варго](http://www.getchef.com/blog/2014/08/27/behaving-responsibly-in-the-chef-community/)
 * [Rundeck](http://rundeck.org/)
+* [Strano](https://github.com/express42/strano)
+* [Sasmson](https://github.com/zendesk/samson)
+* [Terraform](http://www.terraform.io)
 
 ### У нас в гостях <человек>
