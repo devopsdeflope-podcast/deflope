@@ -6,6 +6,7 @@ activate :blog do |blog|
   blog.permalink = ':year/:title.html'
   blog.paginate = true
   blog.per_page = 3
+  blog.summary_length = 4_000
 end
 
 activate :cache_buster

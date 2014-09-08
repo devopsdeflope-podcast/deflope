@@ -36,6 +36,8 @@ subtitle: Год в эфире, Тимур Батыршин, крутая кру
 * [Github Тимура](https://github.com/timurb)
 * [Ссылки от Тимура](https://app.likeastore.com/u/erthad)
 
+READMORE
+
 ## Расшифровка
 
 **И.Е.** : Здравствуйте. В эфире 12й выпуск подкаста DevOps Deflope, с вами постоянные шеф-повара Никита Борзых и...
