@@ -22,9 +22,9 @@
 }
 
 a {
-  text-decoration: none;
+  text-decoration: underline;
   color: #1D95CB;
-  border-bottom: 1px #FFF dashed;
+  line-height: 1.5em;
 
   &:hover {
     border-bottom: 1px dashed;
