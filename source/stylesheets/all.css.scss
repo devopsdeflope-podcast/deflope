@@ -25,9 +25,10 @@ a {
   text-decoration: underline;
   color: #1D95CB;
   line-height: 1.5em;
+  border-bottom: 1px dashed #FFF;
 
   &:hover {
-    border-bottom: 1px dashed;
+    border-bottom: 1px dashed #1D95CB;
   }
 
   &:visited {
