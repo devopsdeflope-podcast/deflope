@@ -33,6 +33,8 @@ subtitle:
 ### У нас в гостях Константин Назаров и Михаил Жолобов
 
 * [Twitter Константина](https://twitter.com/racktear)
+* [Константин на LinkedIn](http://ru.linkedin.com/in/racktear)
+* [Гитхаб Константина](http://github.com/racktear)
 * [Twitter Михаила](https://twitter.com/legal_90)
 * [Гитхаб Михаила](https://github.com/legal90)
 * [Видео с DevOps митапа в Parallels про Vagrant](http://www.youtube.com/watch?v=jgtbp3I3uGE)
