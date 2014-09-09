@@ -13,7 +13,7 @@ subtitle:
   инфраструктура](http://www.getchef.com/blog/2014/06/23/immutable-infrastructure-practical-or-not/)
 * [Terraform](http://www.terraform.io) и [Terraform 0.2](http://www.hashicorp.com/blog/terraform-0-2.html)
 * [Так ли надежен RabbitMQ](http://aphyr.com/posts/315-call-me-maybe-rabbitmq)
-* [Cleanroom от Seth Vargo](https://github.com/sethvargo/cleanroom)
+* [Вышел релиз-кандидат Шеф-сервера 12](http://www.getchef.com/blog/2014/09/07/chef-12-release-candidate/)
 * [Записки о Logstash и Graylog2](http://jpmens.net/2012/08/06/my-logstash-and-graylog2-notes/)
 * [Docker 1.2.0](https://blog.docker.com/2014/08/announcing-docker-1-2-0/)
 * [MDD — metrics driven development](http://blog.librato.com/posts/2014/7/16/metrics-driven-development)
@@ -30,4 +30,16 @@ subtitle:
 * [Sasmson](https://github.com/zendesk/samson)
 * [Terraform](http://www.terraform.io)
 
-### У нас в гостях <человек>
+### У нас в гостях Константин Назаров и Михаил Жолобов
+
+* [Twitter Константина](https://twitter.com/racktear)
+* [Twitter Михаила](https://twitter.com/legal_90)
+* [Гитхаб Михаила](https://github.com/legal90)
+* [Видео с DevOps митапа в Parallels про Vagrant](http://www.youtube.com/watch?v=jgtbp3I3uGE)
+* [Плагин vagrant-parallels](https://github.com/Parallels/vagrant-parallels)
+* [Это наша библиотека про Artifactory](https://github.com/Parallels/artifactory)
+* [Vagrant box для boot2docker](https://github.com/Parallels/boot2docker-vagrant-box)
+
+READMORE
+
+## Расшифровка
