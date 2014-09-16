@@ -14,7 +14,7 @@ xml.rss version: "2.0" do
         xml.link site_url + article.url
         xml.guid site_url + article.url
         xml.enclosure({
-          :url => "http://dl.devopsdeflope.ru/mp3/#{get_mp3_filename(article.title)}",
+          :url => "http://devopsdeflope.ru/mp3/#{get_mp3_filename(article.title)}",
           :length => get_audio_size("./source/mp3/#{get_mp3_filename(article.title)}"),
           :type => "audio/mpeg"
         }) if mp3file_exist?(article.title)

@@ -39,7 +39,7 @@ xml.rss "xmlns:itunes" => "http://www.itunes.com/dtds/podcast-1.0.dtd", :version
 
           xml.itunes :duration, get_audio_duration("./source/mp3/#{get_mp3_filename(article.title)}")
             xml.enclosure({
-              :url => "http://dl.devopsdeflope.ru/mp3/#{get_mp3_filename(article.title)}",
+              :url => "http://devopsdeflope.ru/mp3/#{get_mp3_filename(article.title)}",
               :length => get_audio_size("./source/mp3/#{get_mp3_filename(article.title)}"),
               :type => "audio/mpeg"
             })

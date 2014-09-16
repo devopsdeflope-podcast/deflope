@@ -36,9 +36,9 @@
           .body{itemprop: 'articleBody'}
             -if mp3file_exist?(data.page.title)
               .mp3
-                %a(href="http://dl.devopsdeflope.ru/mp3/#{get_mp3_filename(data.page.title)}") скачать mp3
+                %a(href="http://devopsdeflope.ru/mp3/#{get_mp3_filename(data.page.title)}") скачать mp3
               .player
-                = partial 'player', :locals => { :title => data.page.title, :file => "http://dl.devopsdeflope.ru/mp3/#{get_mp3_filename(data.page.title)}"}
+                = partial 'player', :locals => { :title => data.page.title, :file => "http://devopsdeflope.ru/mp3/#{get_mp3_filename(data.page.title)}"}
 
             = yield
         #disqus_thread
