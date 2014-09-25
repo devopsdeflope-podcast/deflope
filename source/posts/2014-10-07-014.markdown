@@ -1,0 +1,23 @@
+---
+layout: article
+title: 014 -
+date: 2014-10-14 08:13:00 +0400
+comments: true
+published: false
+subtitle:
+---
+
+## Новости
+
+* [Книга Customizing Chef](http://shop.oreilly.com/product/0636920032984.do)
+* []()
+
+## Обсуждение
+
+
+### Гость
+
+
+READMORE
+
+## Расшифровка
