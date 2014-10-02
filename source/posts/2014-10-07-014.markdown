@@ -13,10 +13,11 @@ subtitle:
 * [Using Chef to manage your container workflow](https://speakerdeck.com/tduffield/using-chef-to-manage-your-container-workflow)
 * [Seth Vargo теперь в Hahicorp](https://hashicorp.com/blog/seth-joins-hashicorp.html)
 * []()
-* []()
+* [ChefDK 0.3.0](https://www.getchef.com/blog/2014/10/02/chefdk-0-3-0-released-introducing-policyfiles/)
 
 ## Обсуждение
 
+Policyfile
 
 ### Гость
 
