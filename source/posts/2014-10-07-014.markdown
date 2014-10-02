@@ -10,6 +10,9 @@ subtitle:
 ## Новости
 
 * [Книга Customizing Chef](http://shop.oreilly.com/product/0636920032984.do)
+* [Using Chef to manage your container workflow](https://speakerdeck.com/tduffield/using-chef-to-manage-your-container-workflow)
+* [Seth Vargo теперь в Hahicorp](https://hashicorp.com/blog/seth-joins-hashicorp.html)
+* []()
 * []()
 
 ## Обсуждение
