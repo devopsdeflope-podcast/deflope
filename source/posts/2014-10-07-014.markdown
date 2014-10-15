@@ -14,7 +14,7 @@ subtitle:
 * [Seth Vargo теперь в Hahicorp](https://hashicorp.com/blog/seth-joins-hashicorp.html)
 * [Azure support for Docker](http://azure.microsoft.com/blog/2014/10/15/new-windows-server-containers-and-azure-support-for-docker/)
 * [ChefDK 0.3.0. Policyfile.](https://www.getchef.com/blog/2014/10/02/chefdk-0-3-0-released-introducing-policyfiles/)
-*[Using Terraform](http://www.slideshare.net/sjourdan/terraform-human-talks)
+* [Using Terraform](http://www.slideshare.net/sjourdan/terraform-human-talks)
 
 ## Обсуждение
 
