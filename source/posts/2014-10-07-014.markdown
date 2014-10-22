@@ -17,6 +17,10 @@ subtitle:
 * [Using Terraform](http://www.slideshare.net/sjourdan/terraform-human-talks)
 * [Docker в DigitalOcean](https://www.digitalocean.com/features/one-click-apps/docker/)
 * [Docker 1.3](https://blog.docker.com/2014/10/docker-1-3-signed-images-process-injection-security-options-mac-shared-directories/)
+* [Непрерывная поставка ПО в SAP](http://www.jfokus.se/jfokus13/preso/jf13_ContinuousDelivery.pdf)
+* [Как запустить DSC в Amazon](https://aws.amazon.com/blogs/aws/powershell-dsc-setup-quick-ref/)
+* [Зачем нужно использовать Chef и DSC вместе](https://www.getchef.com/blog/2014/09/03/why-chef-dsc-revisited/)
+* [Масштабирование с ZooKeeper](http://yellerapp.com/posts/2014-05-14-zookeeper-feature-flags.html)
 
 ## Обсуждение
 
