@@ -16,7 +16,8 @@ subtitle: Интервью с Львом Поповым из Spotify, policyfile
 * [Как запустить DSC в Amazon](https://aws.amazon.com/blogs/aws/powershell-dsc-setup-quick-ref/)
 * [Azure support for Docker](http://azure.microsoft.com/blog/2014/10/15/new-windows-server-containers-and-azure-support-for-docker/)
 * [Зачем нужно использовать Chef и DSC вместе](https://www.getchef.com/blog/2014/09/03/why-chef-dsc-revisited/)
-* [ChefDK 0.3.0. Policyfile.](https://www.getchef.com/blog/2014/10/02/chefdk-0-3-0-released-introducing-policyfiles/)
+* [ChefDK 0.3.0. Policyfile](https://www.getchef.com/blog/2014/10/02/chefdk-0-3-0-released-introducing-policyfiles/)
+* [Могущественная скорлупа](http://evtuhovich.ru/blog/2014/10/23/powershell/)
 * [Using Terraform](http://www.slideshare.net/sjourdan/terraform-human-talks)
 * [Масштабирование с ZooKeeper](http://yellerapp.com/posts/2014-05-14-zookeeper-feature-flags.html)
 * [Docker в DigitalOcean](https://www.digitalocean.com/features/one-click-apps/docker/)
@@ -24,7 +25,7 @@ subtitle: Интервью с Львом Поповым из Spotify, policyfile
 
 ## Обсуждение
 
-Policyfiles
+### Policyfiles
 
 ### У нас в гостях Лев Попов из Spotify
 
@@ -65,7 +66,11 @@ READMORE
 * [Как запустить DSC в Amazon](https://aws.amazon.com/blogs/aws/powershell-dsc-setup-quick-ref/)
 * [Azure support for Docker](http://azure.microsoft.com/blog/2014/10/15/new-windows-server-containers-and-azure-support-for-docker/)
 * [Зачем нужно использовать Chef и DSC вместе](https://www.getchef.com/blog/2014/09/03/why-chef-dsc-revisited/)
-* [ChefDK 0.3.0. Policyfile.](https://www.getchef.com/blog/2014/10/02/chefdk-0-3-0-released-introducing-policyfiles/)
+* [ChefDK 0.3.0. Policyfile](https://www.getchef.com/blog/2014/10/02/chefdk-0-3-0-released-introducing-policyfiles/)
+* [Могущественная скорлупа](http://evtuhovich.ru/blog/2014/10/23/powershell/)
+
+**И.Е.**:
+
 * [Using Terraform](http://www.slideshare.net/sjourdan/terraform-human-talks)
 * [Масштабирование с ZooKeeper](http://yellerapp.com/posts/2014-05-14-zookeeper-feature-flags.html)
 * [Docker в DigitalOcean](https://www.digitalocean.com/features/one-click-apps/docker/)
