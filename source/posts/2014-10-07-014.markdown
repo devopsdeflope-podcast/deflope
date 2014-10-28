@@ -9,23 +9,25 @@ subtitle: Интервью с Львом Поповым из Spotify, policyfile
 
 ## Новости
 
-* [Книга Customizing Chef](http://shop.oreilly.com/product/0636920032984.do)
-* [Using Chef to manage your container workflow](https://speakerdeck.com/tduffield/using-chef-to-manage-your-container-workflow)
 * [Непрерывная поставка ПО в SAP](http://www.jfokus.se/jfokus13/preso/jf13_ContinuousDelivery.pdf)
+* [Using Chef to manage your container workflow](https://speakerdeck.com/tduffield/using-chef-to-manage-your-container-workflow)
+* [Книга Customizing Chef](http://shop.oreilly.com/product/0636920032984.do)
 * [Seth Vargo теперь в Hahicorp](https://hashicorp.com/blog/seth-joins-hashicorp.html)
 * [Как запустить DSC в Amazon](https://aws.amazon.com/blogs/aws/powershell-dsc-setup-quick-ref/)
 * [Azure support for Docker](http://azure.microsoft.com/blog/2014/10/15/new-windows-server-containers-and-azure-support-for-docker/)
 * [Зачем нужно использовать Chef и DSC вместе](https://www.getchef.com/blog/2014/09/03/why-chef-dsc-revisited/)
 * [ChefDK 0.3.0. Policyfile](https://www.getchef.com/blog/2014/10/02/chefdk-0-3-0-released-introducing-policyfiles/)
-* [Могущественная скорлупа](http://evtuhovich.ru/blog/2014/10/23/powershell/)
-* [Using Terraform](http://www.slideshare.net/sjourdan/terraform-human-talks)
 * [Масштабирование с ZooKeeper](http://yellerapp.com/posts/2014-05-14-zookeeper-feature-flags.html)
+* [Using Terraform](http://www.slideshare.net/sjourdan/terraform-human-talks)
+* [Могущественная скорлупа](http://evtuhovich.ru/blog/2014/10/23/powershell/)
 * [Docker в DigitalOcean](https://www.digitalocean.com/features/one-click-apps/docker/)
 * [Docker 1.3](https://blog.docker.com/2014/10/docker-1-3-signed-images-process-injection-security-options-mac-shared-directories/)
 
 ## Обсуждение
 
 ### Policyfiles
+
+* [Policyfile](https://www.getchef.com/blog/2014/10/02/chefdk-0-3-0-released-introducing-policyfiles/)
 
 ### У нас в гостях Лев Попов из Spotify
 
@@ -42,6 +44,16 @@ READMORE
 
 **И.Е.**: Новости.
 
+* [Непрерывная поставка ПО в SAP](http://www.jfokus.se/jfokus13/preso/jf13_ContinuousDelivery.pdf)
+
+**И.Е.**: Даррен Хэгью из компания SAP, да-да, той самой SAP, которая самый настоящий энтерпрайз, уже почти два года назад сделал
+презентацию "Непрерывная поставка: от динозавров к космическим кораблям за 2 года". В ней он красочно описывает, как от
+почти полностью водопадного процесса они перешли к Agile подходу, как в инструментах, так и в командных отношениях.
+Им удалось за этот срок перейти от месячного релизного цикла к двум релизам в неделю, полностью автоматизировать
+создание любых окружений, сделать Blue-Green выкатку. История очень увлекательная, всем рекомендую прочитать.
+
+* [Using Chef to manage your container workflow](https://speakerdeck.com/tduffield/using-chef-to-manage-your-container-workflow)
+
 * [Книга Customizing Chef](http://shop.oreilly.com/product/0636920032984.do)
 
 **И.Е.**: В августе этого года в издательстве O'Reilly вышла книга Джона Кови из Etsy под названием: «Customizing Chef».
@@ -52,26 +64,21 @@ READMORE
 (hwrp) и легковесный провайдеры (lwrp), про создание плагинов для knife и про API chef-сервера. Если вы всерьез собираетесь
 покопаться в кишках Chef, то эта книга может вам очень пригодиться.
 
-* [Using Chef to manage your container workflow](https://speakerdeck.com/tduffield/using-chef-to-manage-your-container-workflow)
-
-* [Непрерывная поставка ПО в SAP](http://www.jfokus.se/jfokus13/preso/jf13_ContinuousDelivery.pdf)
-
-**И.Е.**: Даррен Хэгью из компания SAP, да-да, той самой SAP, которая самый настоящий энтерпрайз, уже почти два года назад сделал
-презентацию "Непрерывная поставка: от динозавров к космическим кораблям за 2 года". В ней он красочно описывает, как от
-почти полностью водопадного процесса они перешли к Agile подходу, как в инструментах, так и в командных отношениях.
-Им удалось за этот срок перейти от месячного релизного цикла к двум релизам в неделю, полностью автоматизировать
-создание любых окружений, сделать Blue-Green выкатку. История очень увлекательная, всем рекомендую прочитать.
-
 * [Seth Vargo теперь в Hahicorp](https://hashicorp.com/blog/seth-joins-hashicorp.html)
 * [Как запустить DSC в Amazon](https://aws.amazon.com/blogs/aws/powershell-dsc-setup-quick-ref/)
 * [Azure support for Docker](http://azure.microsoft.com/blog/2014/10/15/new-windows-server-containers-and-azure-support-for-docker/)
 * [Зачем нужно использовать Chef и DSC вместе](https://www.getchef.com/blog/2014/09/03/why-chef-dsc-revisited/)
 * [ChefDK 0.3.0. Policyfile](https://www.getchef.com/blog/2014/10/02/chefdk-0-3-0-released-introducing-policyfiles/)
-* [Могущественная скорлупа](http://evtuhovich.ru/blog/2014/10/23/powershell/)
+* [Масштабирование с ZooKeeper](http://yellerapp.com/posts/2014-05-14-zookeeper-feature-flags.html)
 
 **И.Е.**:
 
 * [Using Terraform](http://www.slideshare.net/sjourdan/terraform-human-talks)
-* [Масштабирование с ZooKeeper](http://yellerapp.com/posts/2014-05-14-zookeeper-feature-flags.html)
+* [Могущественная скорлупа](http://evtuhovich.ru/blog/2014/10/23/powershell/)
+
+**И.Е.**:
+
 * [Docker в DigitalOcean](https://www.digitalocean.com/features/one-click-apps/docker/)
 * [Docker 1.3](https://blog.docker.com/2014/10/docker-1-3-signed-images-process-injection-security-options-mac-shared-directories/)
+
+### У нас в гостях Лев Попов из Spotify
