@@ -17,3 +17,4 @@
 .ruby-version
 .vim
 export.yml
+.DS_Store
