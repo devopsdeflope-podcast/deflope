@@ -21,4 +21,4 @@ DevOps Дефлопе подкаст — это русскоязычный по
 
 * [Наш твиттер](https://twitter.com/devopsdeflope)
 * [Email для предложенией](mailto:input@devopsdeflope.ru)
-* [Проект на GitHub, куда можно слать пул реквесты](https://github.com/devopsdeflope-podcast/site)
+* [Проект на GitHub, куда можно слать пул реквесты](https://github.com/devopsdeflope-podcast/deflope)
