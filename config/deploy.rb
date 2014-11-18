@@ -34,7 +34,7 @@ namespace :deploy do
 
       directory = connection.directories.get(aws_bucket)
 
-      connection.put_bucket_website( aws_bucket, "index.html", :key => "404.html" )
+      connection.put_bucket_website( aws_bucket, "index.html" )
 
       all_files = []
       remote_all_files = directory.files.all.map { |file| file.key }
