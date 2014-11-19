@@ -8,9 +8,9 @@ pageable: true
     %h1
       = link_to article.title, article
       %time= Russian::strftime(article.date, '%B %e, %Y')
-      -if article.data.transcript
-        %h2
-          = link_to "Текстовая расшифровка подкаста", article.url + "#Расшифровка"
+    -if article.data.transcript
+      %h2
+        = link_to "Текстовая расшифровка подкаста", article.url + "#Расшифровка"
     = article.summary
     .links.clearfix
       = link_to Russian::strftime(article.date, '%B %e, %Y'), article, class: 'go-more'
