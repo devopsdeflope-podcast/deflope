@@ -12,6 +12,7 @@ subtitle: подзаголовок
 
 * [Reflecting on Six Years With Chef](https://www.getchef.com/blog/2014/11/10/reflecting-on-six-years-with-chef/)
 * [Chef Provisioning: Infrastructure As Code](https://www.getchef.com/blog/2014/11/12/chef-provisioning-infrastructure-as-code/)
+* [IS DOCKER READY FOR PRODUCTION?](https://t37.net/is-docker-ready-for-production-feedbacks-of-a-2-weeks-hands-on.html)
 
 ## Обсуждение
 
