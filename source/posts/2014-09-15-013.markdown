@@ -4,6 +4,7 @@ title: 013 - Счастливый выпуск
 date: 2014-09-15 08:13:00 +0400
 comments: true
 published: true
+transcript: true
 subtitle: Расшифровка, Сет Варго, Parallels Desktop и Rundeck
 ---
 

@@ -41,6 +41,9 @@
                 %a(href="http://devopsdeflope.ru/mp3/#{get_mp3_filename(data.page.title)}") скачать mp3
               .player
                 = partial 'player', :locals => { :title => data.page.title, :file => "http://devopsdeflope.ru/mp3/#{get_mp3_filename(data.page.title)}"}
+            -if data.page.transcript
+              %h2
+                = link_to "Текстовая расшифровка подкаста", '/' + request.path + "#Расшифровка"
 
             = yield
         #disqus_thread

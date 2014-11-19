@@ -4,6 +4,7 @@ title: 014 - DevOps в Spotify
 date: 2014-11-13 08:13:00 +0300
 comments: true
 published: true
+transcript: true
 subtitle: Интервью с Львом Поповым из Spotify, policyfiles, DSC, Docker и Terraform
 ---
 
