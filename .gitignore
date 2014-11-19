@@ -17,4 +17,5 @@
 .ruby-version
 .vim
 export.yml
+.s3_sync
 .DS_Store
