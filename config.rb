@@ -9,13 +9,17 @@ activate :blog do |blog|
   blog.summary_length = 4_000
 end
 
-
 activate :s3_sync do |s3_sync|
   s3_sync.bucket = 'devopsdeflope.ru'
   s3_sync.region = 'eu-west-1'
   s3_sync.after_build = true
   s3_sync.delete = true
 end
+
+caching_policy 'text/html', max_age: 0, must_revalidate: true
+caching_policy 'image/png', max_age:(60 * 60 * 24 * 365)
+caching_policy 'text/css', max_age:(60 * 60 * 24 * 365)
+caching_policy 'application/javascript', max_age:(60 * 60 * 24 * 365)
 
 Fog::Logger[:warning] = nil
 
@@ -27,7 +31,6 @@ activate :cache_buster
 page "/feeds/episodes.rss", :layout => false
 page "/feeds/itunes.xml", :layout => false
 page "/archive", :proxy => "/archive.html"
-
 
 ###
 # Helpers
