@@ -1,0 +1,20 @@
+---
+layout: article
+title: 015 - 
+date: 2014-11-28 08:13:00 +0300
+comments: true
+published: false
+transcript: true
+subtitle: подзаголовок
+---
+
+## Новости
+
+[Reflecting on Six Years With Chef](https://www.getchef.com/blog/2014/11/10/reflecting-on-six-years-with-chef/)
+[Chef Provisioning: Infrastructure As Code](https://www.getchef.com/blog/2014/11/12/chef-provisioning-infrastructure-as-code/)
+
+## Обсуждение
+
+READMORE
+
+## Расшифровка
