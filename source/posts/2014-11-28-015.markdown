@@ -14,7 +14,6 @@ subtitle: подзаголовок
 * [Релиз кандидат PostgreSQL](http://www.postgresql.org/about/news/1555/)
 * [Chef Provisioning: Infrastructure As Code](https://www.getchef.com/blog/2014/11/12/chef-provisioning-infrastructure-as-code/)
 * [Рассказ про то, как упал Ажур](http://azure.microsoft.com/blog/2014/11/19/update-on-azure-storage-service-interruption/)
-* [IS DOCKER READY FOR PRODUCTION!?!?](https://t37.net/is-docker-ready-for-production-feedbacks-of-a-2-weeks-hands-on.html)
 * [krane tool](http://krane.io)
 * [Rancher](http://www.rancher.io)
 
