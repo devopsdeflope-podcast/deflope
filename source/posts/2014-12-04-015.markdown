@@ -1,11 +1,11 @@
 ---
 layout: article
-title: 015 - Docker Docker Docker
-date: 2014-12-04 10:00:00 +0300
+title: 015 - Из самого сердца Докера
+date: 2014-12-04 08:13:00 +0300
 comments: true
-published: false
+published: true
 transcript: true
-subtitle: подзаголовок
+subtitle: Docker, падение Azure, Chef Provisioning
 ---
 
 ## Новости
@@ -18,6 +18,20 @@ subtitle: подзаголовок
 * [Rancher](http://www.rancher.io)
 
 ## Обсуждение
+
+### У нас в гостях Jérôme Petazzoni
+
+* [Твиттер Джерома](https://twitter.com/jpetazzo)
+* [Сайт Docker](https://www.docker.com/)
+* [Docker Hub](https://hub.docker.com/)
+
+### Про Azure и не только
+
+* [Книга Continuous Delivery](http://continuousdelivery.com/)
+* [Группа DevOps Moscow](http://www.meetup.com/DevOps-Moscow-in-Russian/)
+* [Митап про Docker](http://www.meetup.com/DevOps-Moscow-in-Russian/events/214753582/)
+* [Видео с митапа про Docker](http://habrahabr.ru/company/badoo/blog/244683/)
+* [Puppet 3.7](https://docs.puppetlabs.com/puppet/3.7/reference/release_notes.html)
 
 READMORE
 
@@ -76,7 +90,7 @@ READMORE
 
 **J.P.:** Привет. 
 
-**И.Е.:** Мы рады видеть вас у нас в Devops Deflope подкасте, и наш первый вопрос - что такое докер?
+**И.Е.:** Мы рады видеть вас у нас в Devops Deflope подкасте, и наш первый вопрос — что такое докер?
 
 **J.P.:** Докер - это платформа для построения и запуска распределенных приложений. Это значит, что мы можем его использовать для упаковки приложений в образы контейнеров. И мы можем в дальнейшем брать эти образы и запускать их на новой Linux машине. Это позволяет добавлять абстракцию между платформой (где вы хотите запускать ваше приложение) и самим приложением. Это абстрагирует дистрибуцию нужной версии приложения, зависимостей, библиотек. Так что вы получаете что-то вроде пакета для дистрибуции, с тем отличием, что его проще создать, и он более совместим, потому что образ контейнера может быть запущен на RedHat, Debian, Ubuntu, любой разновидности Linux, независимо от используемого дистрибутива той машины, где он создается, и той машины, где он будет работать. 
 
@@ -138,9 +152,6 @@ READMORE
 **И.Е.:** Пока.
 
 **Н.Б.:** Пока.
-
-[30:00]
-
 
 **И.Е.:** Большое спасибо Jerome за интервью. Я не уверен, у нас будет перевод интервью?
 
