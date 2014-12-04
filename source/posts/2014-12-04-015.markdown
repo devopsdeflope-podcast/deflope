@@ -45,7 +45,7 @@ READMORE
 
 * [Reflecting on Six Years With Chef](https://www.getchef.com/blog/2014/11/10/reflecting-on-six-years-with-chef/)
 
-**Н.Б.:** В блоге chef вышел препост статьи Joshua Timberman под названием “Reflecting on Six Years With Chef”. Он рассказывает о своих отношениях с компанией Chef, как он начиннал работать с chef с версии 0.5. Рассказывает о том, как он коммитил в opensource кукбуки и как они понимали, что они не очень хороши для продакшена, и улучшали это. А так же Joshua занимался написание draft-а для первой версии chef-fundomentals и участвовал в создании opensource community.  В целом, отличная статья о том, какой большой путь человек прошел от нуля до текущего момента.
+**Н.Б.:** В блоге chef вышел препост статьи Joshua Timberman под названием “Reflecting on Six Years With Chef”. Он рассказывает о своих отношениях с компанией Chef, как он начиннал работать с chef с версии 0.5. Рассказывает о том, как он коммитил в opensource кукбуки и как они понимали, что они не очень хороши для продакшена, и улучшали это. А так же Joshua занимался написание draft-а для первой версии chef-fundamentals и участвовал в создании opensource community.  В целом, отличная статья о том, какой большой путь человек прошел от нуля до текущего момента.
  
 * [Релиз кандидат PostgreSQL](http://www.postgresql.org/about/news/1555/)
 
