@@ -1,0 +1,19 @@
+---
+layout: article
+title: 016 -
+date: 2014-12-20 00:00:00 +0300
+comments: true
+published: false
+transcript: false
+subtitle: -
+---
+
+## Новости
+
+* [Tao of Hashicorp](https://hashicorp.com/blog/tao-of-hashicorp.html)
+
+## Обсуждение
+
+READMORE
+
+## Расшифровка
