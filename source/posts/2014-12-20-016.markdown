@@ -11,6 +11,7 @@ subtitle: -
 ## Новости
 
 * [Tao of Hashicorp](https://hashicorp.com/blog/tao-of-hashicorp.html)
+* [Rocket от CoreOS](https://github.com/coreos/rocket)
 
 ## Обсуждение
 
