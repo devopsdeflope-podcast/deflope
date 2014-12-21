@@ -14,6 +14,7 @@ subtitle: фыва
 * [Rocket от CoreOS](https://github.com/coreos/rocket)
 * [Свежий Chef 12.0.0](https://www.chef.io/blog/2014/12/05/release-chef-client-12-0-0/) и сразу [12.0.1](https://www.chef.io/blog/2014/12/09/release-chef-client-12-0-1/)
 * [Закладки Девопса](http://www.devopsbookmarks.com/)
+* [Docker vs Rocket Gimme a Break](http://containerops.org/2014/12/19/docker-vs-rocket-gimme-a-break/)
 
 ## Обсуждение
 
