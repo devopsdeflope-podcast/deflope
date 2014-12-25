@@ -17,6 +17,9 @@ subtitle: фыва
 * [Docker vs Rocket Gimme a Break](http://containerops.org/2014/12/19/docker-vs-rocket-gimme-a-break/)
 * [Web Scale IT](http://pages.chef.io/rs/opscode/images/Automation-and-Web-Scale-IT.pdf)
 * [Ansible 1.8 вышел 25 ноября](http://www.ansible.com/blog/ansible-1.8-now-released)
+* [Зарелизился PostgreSQL 9.4](http://www.postgresql.org/docs/9.4/static/release-9-4.html)
+* [Рассказ про Consul DNS](http://hans.io/blog/2014/12/25/consul_dns/index.html)
+* [Проект Consul-Template](https://github.com/hashicorp/consul-template)
 
 ## Обсуждение
 
