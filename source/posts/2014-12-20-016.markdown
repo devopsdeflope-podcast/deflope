@@ -20,9 +20,12 @@ subtitle: фыва
 * [Зарелизился PostgreSQL 9.4](http://www.postgresql.org/docs/9.4/static/release-9-4.html)
 * [Рассказ про Consul DNS](http://hans.io/blog/2014/12/25/consul_dns/index.html)
 * [Проект Consul-Template](https://github.com/hashicorp/consul-template)
+* [Unikernels, как альтернатива Linux](http://www.techrepublic.com/article/unikernels-offer-a-stripped-down-alternative-to-linux/)
 
 ## Обсуждение
 
-READMORE
+### У нас в гостях локомотив DevOps движения России Александр Титов
+
+* [Твиттер Александра](https://twitter.com/osminog)
 
 ## Расшифровка
