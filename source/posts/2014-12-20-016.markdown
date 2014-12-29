@@ -21,6 +21,7 @@ subtitle: фыва
 * [Рассказ про Consul DNS](http://hans.io/blog/2014/12/25/consul_dns/index.html)
 * [Проект Consul-Template](https://github.com/hashicorp/consul-template)
 * [Unikernels, как альтернатива Linux](http://www.techrepublic.com/article/unikernels-offer-a-stripped-down-alternative-to-linux/)
+* [10 мифов о DevOps от Сета Варго](https://sethvargo.com/the-ten-myths-of-devops/)
 
 ## Обсуждение
 
