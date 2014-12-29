@@ -10,18 +10,18 @@ subtitle: фыва
 
 ## Новости
 
-* [Tao of Hashicorp](https://hashicorp.com/blog/tao-of-hashicorp.html)
-* [Rocket от CoreOS](https://github.com/coreos/rocket)
 * [Свежий Chef 12.0.0](https://www.chef.io/blog/2014/12/05/release-chef-client-12-0-0/) и сразу [12.0.1](https://www.chef.io/blog/2014/12/09/release-chef-client-12-0-1/)
+* [Rocket от CoreOS](https://github.com/coreos/rocket)
 * [Закладки Девопса](http://www.devopsbookmarks.com/)
+* [10 мифов о DevOps от Сета Варго](https://sethvargo.com/the-ten-myths-of-devops/)
+* [Рассказ про Consul DNS](http://hans.io/blog/2014/12/25/consul_dns/index.html)
 * [Docker vs Rocket Gimme a Break](http://containerops.org/2014/12/19/docker-vs-rocket-gimme-a-break/)
+* [Проект Consul-Template](https://github.com/hashicorp/consul-template)
 * [Web Scale IT](http://pages.chef.io/rs/opscode/images/Automation-and-Web-Scale-IT.pdf)
 * [Ansible 1.8 вышел 25 ноября](http://www.ansible.com/blog/ansible-1.8-now-released)
+* [Tao of Hashicorp](https://hashicorp.com/blog/tao-of-hashicorp.html)
 * [Зарелизился PostgreSQL 9.4](http://www.postgresql.org/docs/9.4/static/release-9-4.html)
-* [Рассказ про Consul DNS](http://hans.io/blog/2014/12/25/consul_dns/index.html)
-* [Проект Consul-Template](https://github.com/hashicorp/consul-template)
 * [Unikernels, как альтернатива Linux](http://www.techrepublic.com/article/unikernels-offer-a-stripped-down-alternative-to-linux/)
-* [10 мифов о DevOps от Сета Варго](https://sethvargo.com/the-ten-myths-of-devops/)
 
 ## Обсуждение
 
