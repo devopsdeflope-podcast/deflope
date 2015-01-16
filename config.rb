@@ -4,6 +4,7 @@ require 'mp3info'
 activate :blog do |blog|
   blog.prefix = 'posts'
   blog.permalink = ':year/:title.html'
+  blog.sources = '{year}/{year}-{month}-{day}-{title}.html'
   blog.paginate = true
   blog.per_page = 3
   blog.summary_length = 4_000
