@@ -11,6 +11,7 @@ subtitle:
 ## Новости
 
 [ChefDK 0.3.6](https://www.chef.io/blog/2015/01/20/chefdk-0-3-6-released/)
+[Scalable Architecture DR CoN](http://www.maori.geek.nz/post/scalable_architecture_dr_con_docker_registrator_consul_nginx)
 
 ## Обсуждение
 
