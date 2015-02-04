@@ -11,13 +11,14 @@ subtitle:
 ## Новости
 
 * [Вышел goiardi 0.9.0](http://goiardi.gl/blog/2014/12/27/goiardi-version-0.9.0---spaceship-and-sun/)
-* [ChefDK 0.3.6](https://www.chef.io/blog/2015/01/20/chefdk-0-3-6-released/)
+* [ChefDK 0.4.0](https://www.chef.io/blog/2015/02/02/chefdk-0-4-0-released/)
 * [Почему заморозки кода не помогают избежать простоя](http://www.xaprb.com/blog/2014/11/29/code-freezes-dont-prevent-outages/)
 * [Scalable Architecture DR CoN](http://www.maori.geek.nz/post/scalable_architecture_dr_con_docker_registrator_consul_nginx)
 * [Админам пора снова в институт](http://redmonk.com/dberkholz/2015/01/06/time-for-sysadmins-to-learn-data-science/)
 * [Prometheus monitoring at Soundcloud](https://developers.soundcloud.com/blog/prometheus-monitoring-at-soundcloud)
 * [Дизайнерские коровы и интенсивное фермерство](https://markosrendell.wordpress.com/2014/11/29/new-directions-in-operating-systems-designer-cows-and-intensive-farming/)
 * [Хороший год для Ansible](https://gregdekspeaks.wordpress.com/2014/12/31/a-good-year-for-ansible-users/)
+* [Zabbix community repos](https://github.com/zabbix/zabbix-community-repos)
 
 ## Обсуждение
 
