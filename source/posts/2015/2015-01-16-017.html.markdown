@@ -17,8 +17,8 @@ subtitle:
 * [Админам пора снова в институт](http://redmonk.com/dberkholz/2015/01/06/time-for-sysadmins-to-learn-data-science/)
 * [Prometheus monitoring at Soundcloud](https://developers.soundcloud.com/blog/prometheus-monitoring-at-soundcloud)
 * [Дизайнерские коровы и интенсивное фермерство](https://markosrendell.wordpress.com/2014/11/29/new-directions-in-operating-systems-designer-cows-and-intensive-farming/)
-* [Хороший год для Ansible](https://gregdekspeaks.wordpress.com/2014/12/31/a-good-year-for-ansible-users/)
 * [Zabbix community repos](https://github.com/zabbix/zabbix-community-repos)
+* [Хороший год для Ansible](https://gregdekspeaks.wordpress.com/2014/12/31/a-good-year-for-ansible-users/)
 
 ## Обсуждение
 
