@@ -1,11 +1,11 @@
 ---
 layout: article
-title: 017 - 
-date: 2015-01-16 15:53 UTC
+title: 017 - Aerospike и Игорь Курочкин
+date: 2015-02-05 08:53 UTC
 comments: true
-published: false
+published: true
 transcript: false
-subtitle: 
+subtitle: Про Goiardi, ChefDK, ansible, дизайнерских коров, Прометея, носовую иглу и Игоря Курочкина
 ---
 
 ## Новости
@@ -27,6 +27,11 @@ subtitle:
 * [SSD почти как RAM](http://googlecloudplatform.blogspot.ru/2015/01/Aerospike-demonstrates-RAM-like-performance-with-Local-SSDs.html)
 * [Миллион записей в секунду на 50 нодах](http://googlecloudplatform.blogspot.ru/2014/12/aerospike-hits-one-million-writes-Per-Second-with-just-50-Nodes-on-Google-Compute-Engine.html)
 * [Сертификация SSD](http://www.aerospike.com/docs/operations/plan/ssd/ssd_certification.html)
+
+### Интервью с Игорем Курочкиным
+
+* [Твиттер Игоря](https://twitter.com/igoritl)
+* [GitHub Игоря](https://github.com/ikurochkin)
 
 ## Расшифровка
 
