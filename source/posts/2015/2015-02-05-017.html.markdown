@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 017 - Aerospike и Игорь Курочкин
-date: 2015-02-05 08:53 UTC
+date: 2015-02-05 06:53:00 +0400
 comments: true
 published: true
 transcript: false
@@ -32,6 +32,3 @@ subtitle: Про Goiardi, ChefDK, ansible, дизайнерских коров, 
 
 * [Твиттер Игоря](https://twitter.com/igoritl)
 * [GitHub Игоря](https://github.com/ikurochkin)
-
-## Расшифровка
-

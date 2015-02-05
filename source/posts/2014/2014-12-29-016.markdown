@@ -29,5 +29,3 @@ subtitle: Про rocket и docker, итоги 2014 и прогнозы на 2015
 
 * [Твиттер Александра](https://twitter.com/osminog)
 * [Проект aptly](http://www.aptly.info/)
-
-## Расшифровка
