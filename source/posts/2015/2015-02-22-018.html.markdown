@@ -1,0 +1,19 @@
+---
+layout: article
+title: 018 - Ехал docker через docker
+date: 2015-02-22 06:53:00 +0400
+comments: true
+published: true
+transcript: false
+subtitle: docker docker docker docker
+---
+
+## Новости
+
+* [Docker in Production — What We’ve Learned Launching Over 300 Million Containers](http://blog.iron.io/2014/10/docker-in-production-what-weve-learned.html)
+
+## Обсуждение
+
+### Aerospike
+
+### Интервью с docker
