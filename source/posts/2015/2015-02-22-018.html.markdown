@@ -11,6 +11,7 @@ subtitle: docker docker docker docker
 ## Новости
 
 * [Docker in Production — What We’ve Learned Launching Over 300 Million Containers](http://blog.iron.io/2014/10/docker-in-production-what-weve-learned.html)
+* [boycott docker](http://www.boycottdocker.org)
 
 ## Обсуждение
 
