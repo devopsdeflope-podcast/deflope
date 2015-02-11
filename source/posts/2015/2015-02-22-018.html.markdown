@@ -12,6 +12,7 @@ subtitle: docker docker docker docker
 
 * [Docker in Production — What We’ve Learned Launching Over 300 Million Containers](http://blog.iron.io/2014/10/docker-in-production-what-weve-learned.html)
 * [boycott docker](http://www.boycottdocker.org)
+* [Docker 1.5](http://blog.docker.com/2015/02/docker-1-5-ipv6-support-read-only-containers-stats-named-dockerfiles-and-more/)
 
 ## Обсуждение
 
