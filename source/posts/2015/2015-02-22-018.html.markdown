@@ -16,6 +16,7 @@ subtitle: docker docker docker docker
 * Consul Day: [Consul 0.5](https://hashicorp.com/blog/consul-0-5.html), [Consul-template 0.7.0](https://github.com/hashicorp/consul-template/releases/tag/v0.7.0), [Envconsul 0.5.0](https://github.com/hashicorp/envconsul/releases/tag/v0.5.0)
 * Интервью с Митчелом Хашимото: [часть первая](http://thenewstack.io/new-stack-makers-mitchell-hashimoto-vagrant-containers-growing-open-source/) и [вторая](http://thenewstack.io/new-stack-mitchell-hashimoto-containers-no-containers-one-question-2015/)
 * [DevOps чеклист](http://devopschecklist.com)
+* [Grocery delivery от facebook](https://github.com/facebook/grocery-delivery) 
 
 ## Обсуждение
 
