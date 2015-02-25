@@ -5,7 +5,7 @@ date: 2015-02-22 06:53:00 +0400
 comments: true
 published: true
 transcript: false
-subtitle: docker docker docker docker
+subtitle: Docker docker docker docker и немного Хашимото
 ---
 
 ## Новости
@@ -17,6 +17,7 @@ subtitle: docker docker docker docker
 * Интервью с Митчелом Хашимото: [часть первая](http://thenewstack.io/new-stack-makers-mitchell-hashimoto-vagrant-containers-growing-open-source/) и [вторая](http://thenewstack.io/new-stack-mitchell-hashimoto-containers-no-containers-one-question-2015/)
 * [DevOps чеклист](http://devopschecklist.com)
 * [Grocery delivery от facebook](https://github.com/facebook/grocery-delivery) 
+* [Давайте взглянем на Docker еще раз](http://iops.io/blog/docker-hype/)
 
 ## Обсуждение
 
