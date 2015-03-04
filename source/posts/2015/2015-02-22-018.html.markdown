@@ -21,6 +21,9 @@ subtitle: Docker docker docker docker и немного Хашимото
 
 ## Обсуждение
 
+* [D: Жажда крови](http://www.kinopoisk.ru/film/8236/)
+
 ### Aerospike
+
 
 ### Интервью с docker
