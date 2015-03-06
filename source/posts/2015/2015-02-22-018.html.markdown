@@ -18,6 +18,8 @@ subtitle: Docker docker docker docker и немного Хашимото
 * [DevOps чеклист](http://devopschecklist.com)
 * [Grocery delivery от facebook](https://github.com/facebook/grocery-delivery) 
 * [Давайте взглянем на Docker еще раз](http://iops.io/blog/docker-hype/)
+* [Все, что вы хотели знать про Кубернитес, но боялись
+  спросить](http://googlecloudplatform.blogspot.ru/2015/01/everything-you-wanted-to-know-about-Kubernetes-but-were-afraid-to-ask.html)
 
 ## Обсуждение
 
