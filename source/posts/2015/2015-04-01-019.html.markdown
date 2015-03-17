@@ -1,0 +1,16 @@
+---
+layout: article
+title: 019 - 
+date: 2015-04-01 08:53:00 +0400
+comments: true
+published: false
+transcript: false
+subtitle: 
+---
+
+## Новости
+
+* [Проблемы с конфигурацией](http://www.netocratic.com/devops-the-problem-with-configurations-89297)
+
+### Интервью с
+
