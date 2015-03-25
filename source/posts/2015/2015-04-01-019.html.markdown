@@ -13,6 +13,7 @@ subtitle:
 * [Проблемы с конфигурацией](http://www.netocratic.com/devops-the-problem-with-configurations-89297)
 * [How And Why Swiftype Moved From EC2 To Real Hardware](http://highscalability.com/blog/2015/3/16/how-and-why-swiftype-moved-from-ec2-to-real-hardware.html)
 * [Triton: Docker and the "best of all worlds"](https://www.joyent.com/blog/triton-docker-and-the-best-of-all-worlds)
+* [Tiny Docker Operating Systems](https://blog.docker.com/2015/03/tiny-docker-operating-systems/)
 
 ### Интервью с
 
