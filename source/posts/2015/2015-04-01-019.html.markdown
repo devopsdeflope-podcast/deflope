@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 019 - 
+title: 019 - ChefConf 2015
 date: 2015-04-01 08:53:00 +0400
 comments: true
 published: false
@@ -15,6 +15,8 @@ subtitle:
 * [Triton: Docker and the "best of all worlds"](https://www.joyent.com/blog/triton-docker-and-the-best-of-all-worlds)
 * [Tiny Docker Operating Systems](https://blog.docker.com/2015/03/tiny-docker-operating-systems/)
 * [Exploring the cloud infrastructure landscape for container deployment](http://blog.jacob.uk.com/exploring-the-cloud-infrastructure-landscape-for-container-deployment/)
+* [Terraform 0.4](https://hashicorp.com/blog/terraform-0-4.html)
+* [ChefConf 2015](https://www.chef.io/chefconf/)
 
 ### Интервью с
 
