@@ -17,6 +17,7 @@ subtitle:
 * [Exploring the cloud infrastructure landscape for container deployment](http://blog.jacob.uk.com/exploring-the-cloud-infrastructure-landscape-for-container-deployment/)
 * [Terraform 0.4](https://hashicorp.com/blog/terraform-0-4.html)
 * [ChefConf 2015](https://www.chef.io/chefconf/)
+* [Citadel](http://citadeltoolkit.org/)
 
 ### Интервью с
 
