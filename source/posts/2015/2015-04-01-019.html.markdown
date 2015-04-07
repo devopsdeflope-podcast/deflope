@@ -18,6 +18,9 @@ subtitle:
 * [Terraform 0.4](https://hashicorp.com/blog/terraform-0-4.html)
 * [ChefConf 2015](https://www.chef.io/chefconf/)
 * [Citadel](http://citadeltoolkit.org/)
+* [Яблоко купило фундаментальную базу данных](http://techcrunch.com/2015/03/24/apple-acquires-durable-database-company-foundationdb/)
+* [ChefServer 12.0.7 зарелизился, про Policyfile](https://www.chef.io/blog/2015/03/27/chef-server-12-0-7-released/)
+* [Роутер от Facebook](https://code.facebook.com/posts/843620439027582/facebook-open-switching-system-fboss-and-wedge-in-the-open/), и [модульный свитч от Facebook](https://code.facebook.com/posts/717010588413497/introducing-6-pack-the-first-open-hardware-modular-switch/)
 
 ### Интервью с
 
