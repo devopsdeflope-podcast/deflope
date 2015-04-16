@@ -11,3 +11,4 @@ subtitle:
 ## Новости
 
 * [Batali](http://hw-ops.com/blog/2015/03/17/batali/)
+* [Уравновешенность для Chef](https://github.com/poise/poise)
