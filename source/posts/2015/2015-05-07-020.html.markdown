@@ -18,3 +18,4 @@ subtitle: С этим ясным весенним днем!
 * [Docker machine](http://docs.docker.com/machine/)
 * [Vault Project](vaultproject.io)
 * [Ansible 1.9.1](http://www.ansible.com/blog/ansible-1.9.1-released)
+* [Docker patterns](http://www.hokstad.com/docker/patterns)
