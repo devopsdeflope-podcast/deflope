@@ -19,3 +19,5 @@ subtitle: С этим ясным весенним днем!
 * [Vault Project](vaultproject.io)
 * [Ansible 1.9.1](http://www.ansible.com/blog/ansible-1.9.1-released)
 * [Docker patterns](http://www.hokstad.com/docker/patterns)
+* [Тестирование многих нод с TestKitchen](http://www.hurryupandwait.io/blog/multi-node-testing-with-test-kitchen-and-docker)
+* [5 причин, почему staging не нужен](http://blog.takipi.com/your-staging-environment-sucks-5-reasons-why-you-should-drop-it/)
