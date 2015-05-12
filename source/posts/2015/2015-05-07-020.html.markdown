@@ -23,3 +23,6 @@ subtitle: С этим ясным весенним днем!
 * [5 причин, почему staging не нужен](http://blog.takipi.com/your-staging-environment-sucks-5-reasons-why-you-should-drop-it/)
 * [Перезагрузка Haproxy без простоев](http://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html)
 * [Aerospike и маркетинг](https://aphyr.com/posts/324-call-me-maybe-aerospike)
+* [Elasticsearch и маркетинг](https://aphyr.com/posts/323-call-me-maybe-elasticsearch-1-5-0)
+* [Выбирайте скучные технологии](http://mcfunley.com/choose-boring-technology)
+* [Будущее за неизменной инфраструктурой](http://michaeldehaan.net/post/118717252307/immutable-infrastructure-is-the-future)
