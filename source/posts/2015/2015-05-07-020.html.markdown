@@ -26,3 +26,4 @@ subtitle: С этим ясным весенним днем!
 * [Elasticsearch и маркетинг](https://aphyr.com/posts/323-call-me-maybe-elasticsearch-1-5-0)
 * [Выбирайте скучные технологии](http://mcfunley.com/choose-boring-technology)
 * [Будущее за неизменной инфраструктурой](http://michaeldehaan.net/post/118717252307/immutable-infrastructure-is-the-future)
+* [Сервис ориентированная архитектура в Yelp](http://engineeringblog.yelp.com/2015/03/using-services-to-break-down-monoliths.html)
