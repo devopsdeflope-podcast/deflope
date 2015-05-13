@@ -12,7 +12,6 @@ subtitle: С этим ясным весенним днем!
 
 * [Batali](http://hw-ops.com/blog/2015/03/17/batali/)
 * [Уравновешенность для Chef](https://github.com/poise/poise)
-* [What is Docker and When To Use It](http://www.centurylinklabs.com/what-is-docker-and-when-to-use-it/)
 * [Grafana 2](http://grafana.org/blog/2015/04/20/Grafana-2-Released.html)
 * [lattice](http://lattice.cf)
 * [Docker machine](http://docs.docker.com/machine/)
