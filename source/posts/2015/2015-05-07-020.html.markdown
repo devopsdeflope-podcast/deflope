@@ -15,7 +15,7 @@ subtitle: С этим ясным весенним днем!
 * [Grafana 2](http://grafana.org/blog/2015/04/20/Grafana-2-Released.html)
 * [lattice](http://lattice.cf)
 * [Docker machine](http://docs.docker.com/machine/)
-* [Vault Project](vaultproject.io)
+* [Vault Project](http://vaultproject.io)
 * [Ansible 1.9.1](http://www.ansible.com/blog/ansible-1.9.1-released), [Ansible и Windows](http://www.ansible.com/blog/ansible-windows)
 * [Docker patterns](http://www.hokstad.com/docker/patterns)
 * [Тестирование многих нод с TestKitchen](http://www.hurryupandwait.io/blog/multi-node-testing-with-test-kitchen-and-docker)
