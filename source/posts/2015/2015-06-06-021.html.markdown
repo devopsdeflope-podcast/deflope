@@ -1,0 +1,15 @@
+---
+layout: article
+title: 021 - Опять про докер
+date: 2015-06-06 00:00:00 +0400
+comments: true
+published: false
+transcript: false
+subtitle:
+---
+
+## Новости
+
+* [Chef provisioning в Terraform](https://github.com/hashicorp/terraform/blob/master/CHANGELOG.md#052-may-15-2015)
+
+## Интервью
