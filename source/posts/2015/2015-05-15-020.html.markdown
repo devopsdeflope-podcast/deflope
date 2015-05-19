@@ -29,5 +29,5 @@ subtitle: Интервью с Антоном Колдаевым из Basecamp, D
 * [Конференция RootConf](http://rootconf.ru/)
 * [DevOps митап в рамках RootConf](http://www.meetup.com/DevOps-Moscow-in-Russian/events/222141038/)
 
-## Интервью с Антоном Колдаевым
+## Интервью с Антоном Колдаевым из Basecamp
 * [Твиттер Антона](https://twitter.com/iroller)
