@@ -12,5 +12,5 @@ subtitle:
 
 * [Chef provisioning в Terraform](https://github.com/hashicorp/terraform/blob/master/CHANGELOG.md#052-may-15-2015)
 * [Не называйте БД CP или AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
-
+* [Consul as a monitoring service] (https://speakerdeck.com/sethvargo/consul-as-a-monitoring-service)
 ## Интервью
