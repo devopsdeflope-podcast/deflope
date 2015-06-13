@@ -12,5 +12,12 @@ subtitle:
 
 * [Chef provisioning в Terraform](https://github.com/hashicorp/terraform/blob/master/CHANGELOG.md#052-may-15-2015)
 * [Не называйте БД CP или AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
-* [Consul as a monitoring service] (https://speakerdeck.com/sethvargo/consul-as-a-monitoring-service)
+* [Consul as a monitoring service](https://speakerdeck.com/sethvargo/consul-as-a-monitoring-service)
+* [DevOps шириной в 500 пикселей](http://habrahabr.ru/post/258751/)
+* [Какой роутинг нотификаций лучше](https://ctrlok.com/?p=137)
+* [Дырявый докер](http://www.banyanops.com/blog/analyzing-docker-hub/) и [противоположное мнение](http://jpetazzo.github.io/2015/05/27/docker-images-vulnerabilities/)
+* [Внезапно умер Yum](http://dnf.baseurl.org/2015/05/11/yum-is-dead-long-live-dnf/)
+* [rkt vs Docker глазами RedHat](http://rhelblog.redhat.com/2015/05/05/rkt-appc-and-docker-a-take-on-the-linux-container-upstream/)
+* [Прошедший RootConf](http://rootconf.ru/)
+
 ## Интервью
