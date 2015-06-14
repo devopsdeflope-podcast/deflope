@@ -20,6 +20,7 @@ subtitle:
 * [rkt vs Docker глазами RedHat](http://rhelblog.redhat.com/2015/05/05/rkt-appc-and-docker-a-take-on-the-linux-container-upstream/)
 * [NGINX изнутри](http://habrahabr.ru/post/260065/) и [оригинал](http://nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/)
 * [Введение в микросервисы](http://nginx.com/blog/introduction-to-microservices/)
+* [How Yelp built a hybrid cloud using mesos and docker](https://mesosphere.com/blog/2015/06/09/containers-clouds-and-code-how-yelp-built-a-hybrid-cloud-using-mesos-and-docker/)
 * [Прошедший RootConf](http://rootconf.ru/)
 
 ## Интервью
