@@ -18,6 +18,8 @@ subtitle:
 * [Дырявый докер](http://www.banyanops.com/blog/analyzing-docker-hub/) и [противоположное мнение](http://jpetazzo.github.io/2015/05/27/docker-images-vulnerabilities/)
 * [Внезапно умер Yum](http://dnf.baseurl.org/2015/05/11/yum-is-dead-long-live-dnf/)
 * [rkt vs Docker глазами RedHat](http://rhelblog.redhat.com/2015/05/05/rkt-appc-and-docker-a-take-on-the-linux-container-upstream/)
+* [NGINX изнутри](http://habrahabr.ru/post/260065/) и [оригинал](http://nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/)
+* [Введение в микросервисы](http://nginx.com/blog/introduction-to-microservices/)
 * [Прошедший RootConf](http://rootconf.ru/)
 
 ## Интервью
