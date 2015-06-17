@@ -1,0 +1,15 @@
+---
+layout: article
+title: 022 - 
+date: 2015-07-16 00:00:00
+comments: true
+published: false
+transcript: false
+subtitle:
+---
+
+## Новости
+
+* [Как Атлас использует Волт](https://www.hashicorp.com/blog/how-atlas-uses-vault-for-managing-secrets.html)
+
+## Интервью
