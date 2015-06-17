@@ -23,4 +23,8 @@ subtitle:
 * [How Yelp built a hybrid cloud using mesos and docker](https://mesosphere.com/blog/2015/06/09/containers-clouds-and-code-how-yelp-built-a-hybrid-cloud-using-mesos-and-docker/)
 * [Прошедший RootConf](http://rootconf.ru/)
 
-## Интервью
+## Интервью c Андреем Вагиным [Odin](http://www.odin.com)
+
+* [Сайт criu](http://criu.org)
+* [Github Андрея](https://github.com/avagin/)
+* [Бранч criu в docker](https://github.com/boucher/docker/tree/boucher-cr)
