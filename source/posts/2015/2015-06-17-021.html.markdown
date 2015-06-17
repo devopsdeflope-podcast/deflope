@@ -1,11 +1,11 @@
 ---
 layout: article
 title: 021 - нет больше CP и AP
-date: 2015-06-06 00:00:00
+date: 2015-06-17 06:00:00
 comments: true
-published: false
+published: true
 transcript: false
-subtitle:
+subtitle: Terraform, Consul, Микросервисы, Докер, Шмокер, Мезосфера, nginx и rootconf
 ---
 
 ## Новости
@@ -23,7 +23,7 @@ subtitle:
 * [How Yelp built a hybrid cloud using mesos and docker](https://mesosphere.com/blog/2015/06/09/containers-clouds-and-code-how-yelp-built-a-hybrid-cloud-using-mesos-and-docker/)
 * [Прошедший RootConf](http://rootconf.ru/)
 
-## Интервью c Андреем Вагиным [Odin](http://www.odin.com)
+## Интервью c Андреем Вагиным из компании [Odin](http://www.odin.com)
 
 * [Сайт criu](http://criu.org)
 * [Github Андрея](https://github.com/avagin/)
