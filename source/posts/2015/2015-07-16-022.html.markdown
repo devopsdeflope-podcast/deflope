@@ -12,5 +12,6 @@ subtitle:
 
 * [Как Атлас использует Волт](https://www.hashicorp.com/blog/how-atlas-uses-vault-for-managing-secrets.html)
 * [Monitoring scape](https://bigpanda.io/monitoringscape/media/poster.pdf)
+* [Прошел DockerCon]()
 
 ## Интервью
