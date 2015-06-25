@@ -14,5 +14,6 @@ subtitle:
 * [Monitoring scape](https://bigpanda.io/monitoringscape/media/poster.pdf)
 * [Прошел DockerCon]()
 * [New Relic’s Docker Monitoring](https://blog.newrelic.com/2015/06/19/docker-monitoring-general-availability/)
+* [Chef client 12.4.0](https://www.chef.io/blog/2015/06/24/chef-client-12-4-0-released/)
 
 ## Интервью
