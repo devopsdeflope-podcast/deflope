@@ -18,5 +18,6 @@ subtitle:
 * [Switching user database on a running system](https://labs.spotify.com/2015/06/23/user-database-switch/)
 * [Mesos Sandbox Using Docker Compose](https://spof.io/blog/2015/06/23/mesos-sandbox-using-docker-compose/)
 * [RunC](https://runc.io)
+* [Automatically Cleaning Unused Docker Images Using Consul and CloudSlang](http://blog.cloudslang.io/2015/05/automatically-cleaning-unused-docker.html) ну и вообще [CloudSlang](http://www.cloudslang.io)
 
 ## Интервью
