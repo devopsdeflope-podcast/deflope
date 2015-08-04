@@ -20,5 +20,6 @@ subtitle:
 * [RunC](https://runc.io)
 * [Automatically Cleaning Unused Docker Images Using Consul and CloudSlang](http://blog.cloudslang.io/2015/05/automatically-cleaning-unused-docker.html) ну и вообще [CloudSlang](http://www.cloudslang.io)
 * [Periodic table of devops tools](https://xebialabs.com/periodic-table-of-devops-tools/)
+* [Graylog docker native integration](https://www.graylog.org/centralize-your-docker-container-logging-with-graylog-native-integration/)
 
 ## Интервью
