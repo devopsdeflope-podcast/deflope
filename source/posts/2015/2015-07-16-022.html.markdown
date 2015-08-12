@@ -11,7 +11,7 @@ subtitle:
 ## Новости
 
 * [Как Атлас использует Волт](https://www.hashicorp.com/blog/how-atlas-uses-vault-for-managing-secrets.html)
-* [Monitoring scape](https://bigpanda.io/monitoringscape/media/poster.pdf)
+* [Monitoring scape](https://www.bigpanda.io/monitoringscape/) и [постер](https://bigpanda.io/monitoringscape/media/poster.pdf)
 * [Прошел DockerCon]()
 * [New Relic’s Docker Monitoring](https://blog.newrelic.com/2015/06/19/docker-monitoring-general-availability/)
 * [Chef client 12.4.0](https://www.chef.io/blog/2015/06/24/chef-client-12-4-0-released/)
@@ -21,5 +21,6 @@ subtitle:
 * [Automatically Cleaning Unused Docker Images Using Consul and CloudSlang](http://blog.cloudslang.io/2015/05/automatically-cleaning-unused-docker.html) ну и вообще [CloudSlang](http://www.cloudslang.io)
 * [Periodic table of devops tools](https://xebialabs.com/periodic-table-of-devops-tools/)
 * [Graylog docker native integration](https://www.graylog.org/centralize-your-docker-container-logging-with-graylog-native-integration/)
+* [Состояние DevOps от PuppetLab](https://puppetlabs.com/sites/default/files/2015-state-of-devops-report.pdf)
 
 ## Интервью
