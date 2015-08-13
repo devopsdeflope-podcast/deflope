@@ -1,11 +1,11 @@
 ---
 layout: article
-title: 022 - 
-date: 2015-07-16 00:00:00
+title: 022 - Возвращение из отпуска
+date: 2015-08-13 00:00:00
 comments: true
-published: false
+published: true
 transcript: false
-subtitle:
+subtitle: Docker, Mesos, RunC и Vault
 ---
 
 ## Новости
@@ -21,5 +21,6 @@ subtitle:
 * [Docker 1.8]
 * [Graylog docker native integration](https://www.graylog.org/centralize-your-docker-container-logging-with-graylog-native-integration/)
 * [Состояние DevOps от PuppetLab](https://puppetlabs.com/sites/default/files/2015-state-of-devops-report.pdf)
+* [Мультфилм «Время Приключений»](https://ru.wikipedia.org/wiki/%D0%92%D1%80%D0%B5%D0%BC%D1%8F_%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B9_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB))
 
-## Интервью
+![With Fuckups](/images/adventures-time.png)
