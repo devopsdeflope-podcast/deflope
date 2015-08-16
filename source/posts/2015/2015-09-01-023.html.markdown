@@ -1,0 +1,14 @@
+---
+layout: article
+title: 023 - 
+date: 2015-09-01 00:00:00
+comments: true
+published: false
+transcript: false
+subtitle: 
+---
+
+## Новости
+
+* [Что новенького в Puppet 4](https://www.devco.net/archives/2015/07/31/shiny-new-things-in-puppet-4.php)
+* [Конструктивная критика Dockerfile](http://blog.wercker.com/2015/07/28/Dockerfiles-considered-harmful.html)
