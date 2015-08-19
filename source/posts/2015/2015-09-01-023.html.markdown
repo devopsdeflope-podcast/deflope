@@ -12,3 +12,4 @@ subtitle:
 
 * [Что новенького в Puppet 4](https://www.devco.net/archives/2015/07/31/shiny-new-things-in-puppet-4.php)
 * [Конструктивная критика Dockerfile](http://blog.wercker.com/2015/07/28/Dockerfiles-considered-harmful.html)
+* [Приложение 12 факторов на русском](http://12factor.net/ru/)
