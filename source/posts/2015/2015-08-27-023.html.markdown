@@ -1,0 +1,18 @@
+---
+layout: article
+title: 023 - Экстренный выпуск
+date: 2015-09-01 00:00:00
+comments: true
+published: true
+transcript: false
+subtitle: Parallels Desktop 11
+---
+
+### У нас в гостях Константин Назаров и Михаил Жолобов
+
+* [PD 11](http://www.parallels.com/ru/products/desktop/)
+* [Twitter Константина](https://twitter.com/racktear)
+* [Константин на LinkedIn](http://ru.linkedin.com/in/racktear)
+* [Гитхаб Константина](http://github.com/racktear)
+* [Twitter Михаила](https://twitter.com/legal_90)
+* [Гитхаб Михаила](https://github.com/legal90)
