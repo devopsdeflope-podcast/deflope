@@ -14,3 +14,4 @@ subtitle:
 * [Конструктивная критика Dockerfile](http://blog.wercker.com/2015/07/28/Dockerfiles-considered-harmful.html)
 * [Приложение 12 факторов на русском](http://12factor.net/ru/)
 * [Hypervisor-agnostic Docker Engine] (https://hyper.sh)
+* [Netflix Fenzo: oss scheduler for apache mesos] (http://techblog.netflix.com/2015/08/fenzo-oss-scheduler-for-apache-mesos.html)
