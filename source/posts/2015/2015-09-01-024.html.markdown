@@ -16,3 +16,4 @@ subtitle:
 * [Hypervisor-agnostic Docker Engine] (https://hyper.sh)
 * [Netflix Fenzo: oss scheduler for apache mesos] (http://techblog.netflix.com/2015/08/fenzo-oss-scheduler-for-apache-mesos.html)
 * [Open Source OpenID Connect Identity Provider from CoreOS](https://coreos.com/blog/announcing-dex/)
+* [Dockramp](https://github.com/jlhawn/dockramp)
