@@ -18,3 +18,4 @@ subtitle:
 * [Open Source OpenID Connect Identity Provider from CoreOS](https://coreos.com/blog/announcing-dex/)
 * [Dockramp](https://github.com/jlhawn/dockramp)
 * [DevOps team topologies](http://www.infoq.com/articles/devops-team-topologies)
+* [distributed operating systems evolution or revolution](https://speakerdeck.com/mhausenblas/distributed-operating-systems-evolution-or-revolution)
