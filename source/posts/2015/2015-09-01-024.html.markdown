@@ -22,3 +22,4 @@ subtitle:
 * [Инфраструктура как код практически невозможна](http://blog.packagecloud.io/eng/2015/09/15/automacon-infrastructure-as-code-might-be-literally-impossible/)
 * [Лошадки, а не единороги](http://spox.github.io/slides/automacon-horses/#1)
 * [Call me Maybe: Percona XtraDB Cluster](https://aphyr.com/posts/328-call-me-maybe-percona-xtradb-cluster)
+* Новое в hashi stack [Nomand](https://www.nomadproject.io) и [Otto](http://ottoproject.io)
