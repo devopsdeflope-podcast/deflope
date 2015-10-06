@@ -14,14 +14,11 @@ subtitle:
 * [Конструктивная критика Dockerfile](http://blog.wercker.com/2015/07/28/Dockerfiles-considered-harmful.html)
 * [Приложение 12 факторов на русском](http://12factor.net/ru/)
 * [Hypervisor-agnostic Docker Engine] (https://hyper.sh)
-* [Netflix Fenzo: oss scheduler for apache mesos] (http://techblog.netflix.com/2015/08/fenzo-oss-scheduler-for-apache-mesos.html)
-* [Open Source OpenID Connect Identity Provider from CoreOS](https://coreos.com/blog/announcing-dex/)
 * [Dockramp](https://github.com/jlhawn/dockramp)
 * [DevOps team topologies](http://www.infoq.com/articles/devops-team-topologies)
 * [distributed operating systems evolution or revolution](https://speakerdeck.com/mhausenblas/distributed-operating-systems-evolution-or-revolution)
 * [Инфраструктура как код практически невозможна](http://blog.packagecloud.io/eng/2015/09/15/automacon-infrastructure-as-code-might-be-literally-impossible/)
 * [Лошадки, а не единороги](http://spox.github.io/slides/automacon-horses/#1)
-* [Call me Maybe: Percona XtraDB Cluster](https://aphyr.com/posts/328-call-me-maybe-percona-xtradb-cluster)
 * Новое в hashi stack [Nomand](https://www.nomadproject.io) и [Otto](http://ottoproject.io)
 * [Еще один контейнер: LXD](http://insights.ubuntu.com/2015/09/23/infographic-lxd-machine-containers-from-ubuntu/),
   неплохое [объяснение](https://www.flockport.com/lxc-vs-lxd-vs-docker-making-sense-of-the-rapidly-evolving-container-ecosystem/),
