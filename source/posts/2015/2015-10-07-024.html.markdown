@@ -1,11 +1,11 @@
 ---
 layout: article
-title: 023 - 
-date: 2015-09-01 00:00:00
+title: 024 - О портвейне и не только
+date: 2015-10-07 00:00:00
 comments: true
-published: false
+published: true
 transcript: false
-subtitle: 
+subtitle: 12 факторов четвертого папета и единороги в топологии революции распределенных операционных систем
 ---
 
 ## Новости
@@ -23,3 +23,10 @@ subtitle:
 * [Еще один контейнер: LXD](http://insights.ubuntu.com/2015/09/23/infographic-lxd-machine-containers-from-ubuntu/),
   неплохое [объяснение](https://www.flockport.com/lxc-vs-lxd-vs-docker-making-sense-of-the-rapidly-evolving-container-ecosystem/),
   что же это такое
+
+## У нас в гостях Роман Гущин и Евгений Килимчук
+
+* [Репозиторий Porto](https://github.com/yandex/porto)
+* [Репозиторий Smart (rt-scheduler)](https://github.com/yandex/smart)
+* [LinkedIn Романа](https://www.linkedin.com/pub/roman-gushchin/8/565/1a9)
+* [LinkedIn Евгения](https://www.linkedin.com/pub/eugene-kilimchuk/a7/24a/31a)
