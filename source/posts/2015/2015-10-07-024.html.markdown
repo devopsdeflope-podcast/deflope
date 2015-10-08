@@ -23,6 +23,7 @@ subtitle: 12 факторов четвертого папета и единор�
 * [Еще один контейнер: LXD](http://insights.ubuntu.com/2015/09/23/infographic-lxd-machine-containers-from-ubuntu/),
   неплохое [объяснение](https://www.flockport.com/lxc-vs-lxd-vs-docker-making-sense-of-the-rapidly-evolving-container-ecosystem/),
   что же это такое
+* [Hangops про Hashconf, otto, nomad и Hashicorp](http://www.youtube.com/watch?v=qokvFr2WSZo)
 
 ## У нас в гостях Роман Гущин и Евгений Килимчук
 
