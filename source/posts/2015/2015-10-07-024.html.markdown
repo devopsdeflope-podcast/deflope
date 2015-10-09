@@ -24,6 +24,7 @@ subtitle: 12 факторов четвертого папета и единор�
   неплохое [объяснение](https://www.flockport.com/lxc-vs-lxd-vs-docker-making-sense-of-the-rapidly-evolving-container-ecosystem/),
   что же это такое
 * [Hangops про Hashconf, otto, nomad и Hashicorp](http://www.youtube.com/watch?v=qokvFr2WSZo)
+* [Ближайший DevOps митап в Москве 14 октября](http://www.meetup.com/DevOps-Moscow-in-Russian/events/225941575/)
 
 ## У нас в гостях Роман Гущин и Евгений Килимчук
 
