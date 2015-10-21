@@ -1,0 +1,16 @@
+---
+layout: article
+title: 025 - TODO
+date: 2015-11-25 00:00:00
+comments: true
+published: true
+transcript: false
+subtitle: TODO
+---
+
+## Новости
+
+[Docker Acquires Tutum](http://blog.docker.com/2015/10/docker-acquires-tutum/)
+[Docker Experimental Networking and ROS](http://toddsampson.com/post/131227320927/docker-experimental-networking-and-ros)
+
+## У нас в гостях
