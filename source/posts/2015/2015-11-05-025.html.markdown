@@ -13,5 +13,6 @@ subtitle: TODO
 [Docker Acquires Tutum](http://blog.docker.com/2015/10/docker-acquires-tutum/)
 [Docker Experimental Networking and ROS](http://toddsampson.com/post/131227320927/docker-experimental-networking-and-ros)
 [testing with goss](http://www.unixdaemon.net/tools/testing-with-goss.html)
+[Red Hat купили Ansible](http://www.redhat.com/en/about/press-releases/red-hat-acquire-it-automation-and-devops-leader-ansible)
 
 ## У нас в гостях
