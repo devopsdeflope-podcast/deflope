@@ -14,6 +14,6 @@ subtitle: TODO
 [Docker Experimental Networking and ROS](http://toddsampson.com/post/131227320927/docker-experimental-networking-and-ros)
 [testing with goss](http://www.unixdaemon.net/tools/testing-with-goss.html)
 [Red Hat купили Ansible](http://www.redhat.com/en/about/press-releases/red-hat-acquire-it-automation-and-devops-leader-ansible)
-[Вышел Docker 1.9]
+[Вышел Docker 1.9](https://blog.docker.com/2015/11/docker-1-9-production-ready-swarm-multi-host-networking/)
 
 ## У нас в гостях
