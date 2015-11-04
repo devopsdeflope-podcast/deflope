@@ -16,5 +16,6 @@ subtitle: TODO
 [Red Hat купили Ansible](http://www.redhat.com/en/about/press-releases/red-hat-acquire-it-automation-and-devops-leader-ansible)
 [Вышел Docker 1.9](https://blog.docker.com/2015/11/docker-1-9-production-ready-swarm-multi-host-networking/)
 [Weave network plugin, сравнение с overlay network](http://blog.weave.works/2015/11/03/docker-networking-1-9-weave-plugin/)
+[Chef begins devops era](https://www.chef.io/blog/2015/11/03/chef-begins-devops-era/)
 
 ## У нас в гостях
