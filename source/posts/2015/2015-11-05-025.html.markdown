@@ -15,5 +15,6 @@ subtitle: TODO
 [testing with goss](http://www.unixdaemon.net/tools/testing-with-goss.html)
 [Red Hat купили Ansible](http://www.redhat.com/en/about/press-releases/red-hat-acquire-it-automation-and-devops-leader-ansible)
 [Вышел Docker 1.9](https://blog.docker.com/2015/11/docker-1-9-production-ready-swarm-multi-host-networking/)
+[Weave network plugin, сравнение с overlay network](http://blog.weave.works/2015/11/03/docker-networking-1-9-weave-plugin/)
 
 ## У нас в гостях
