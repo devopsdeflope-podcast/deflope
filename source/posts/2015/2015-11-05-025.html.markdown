@@ -17,5 +17,7 @@ subtitle: TODO
 * [Вышел Docker 1.9](https://blog.docker.com/2015/11/docker-1-9-production-ready-swarm-multi-host-networking/)
 * [Weave network plugin, сравнение с overlay network](http://blog.weave.works/2015/11/03/docker-networking-1-9-weave-plugin/)
 * [Chef begins devops era](https://www.chef.io/blog/2015/11/03/chef-begins-devops-era/)
+* [Legacy systems the hard problem of devops](http://rewrite.ca.com/us/articles/management-cloud/legacy-systems-the-hard-problem-of-devops.html)
+* [The Road to InSpec](https://www.chef.io/blog/2015/11/04/the-road-to-inspec/)
 
 ## У нас в гостях
