@@ -19,5 +19,6 @@ subtitle: TODO
 * [Chef begins devops era](https://www.chef.io/blog/2015/11/03/chef-begins-devops-era/)
 * [Legacy systems the hard problem of devops](http://rewrite.ca.com/us/articles/management-cloud/legacy-systems-the-hard-problem-of-devops.html)
 * [The Road to InSpec](https://www.chef.io/blog/2015/11/04/the-road-to-inspec/)
+* [Kernel load balancing for docker containers using ipvs](http://blog.codeship.com/kernel-load-balancing-for-docker-containers-using-ipvs/)
 
 ## У нас в гостях
