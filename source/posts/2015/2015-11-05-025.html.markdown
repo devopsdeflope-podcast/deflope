@@ -1,18 +1,18 @@
 ---
 layout: article
-title: 025 - TODO
-date: 2015-11-25 00:00:00
+title: 025 - Юбилейный выпуск с Константином Назаровым
+date: 2015-12-09 00:00:00
 comments: true
 published: true
 transcript: false
-subtitle: TODO
+subtitle: Про Docker 1.9, Docker Machine, GOSS, Tutum, Ansible и Chef
 ---
 
 ## Новости
 
 * [Docker Acquires Tutum](http://blog.docker.com/2015/10/docker-acquires-tutum/), [cтраница на сайте docker](https://www.docker.com/tutum)
 * [Docker Experimental Networking and ROS](http://toddsampson.com/post/131227320927/docker-experimental-networking-and-ros)
-* [testing with goss](http://www.unixdaemon.net/tools/testing-with-goss.html)
+* [Testing with goss](http://www.unixdaemon.net/tools/testing-with-goss.html), [лекция Кернигана](http://www.youtube.com/watch?v=Sg4U4r_AgJU)
 * [Red Hat купили Ansible](http://www.redhat.com/en/about/press-releases/red-hat-acquire-it-automation-and-devops-leader-ansible)
 * [Вышел Docker 1.9](https://blog.docker.com/2015/11/docker-1-9-production-ready-swarm-multi-host-networking/)
 * [Weave network plugin, сравнение с overlay network](http://blog.weave.works/2015/11/03/docker-networking-1-9-weave-plugin/)
@@ -20,5 +20,13 @@ subtitle: TODO
 * [Legacy systems the hard problem of devops](http://rewrite.ca.com/us/articles/management-cloud/legacy-systems-the-hard-problem-of-devops.html)
 * [The Road to InSpec](https://www.chef.io/blog/2015/11/04/the-road-to-inspec/)
 * [Kernel load balancing for docker containers using ipvs](http://blog.codeship.com/kernel-load-balancing-for-docker-containers-using-ipvs/)
+* [Королевские руки](https://github.com/bryanwb/kh)
+* [Vim or Die](http://www.slideshare.net/evtuhovich/vim-or-die), и [видео выступления](http://univertv.ru/video/informatika/programmirovanie/ruby_on_rails_moscow/vim_or_die/)
 
-## У нас в гостях
+### У нас в гостях Константин Назаров и Михаил Жолобов
+
+* [Twitter Константина](https://twitter.com/racktear)
+* [Константин на LinkedIn](http://ru.linkedin.com/in/racktear)
+* [Гитхаб Константина](http://github.com/racktear)
+* [Twitter Михаила](https://twitter.com/legal_90)
+* [Гитхаб Михаила](https://github.com/legal90)
