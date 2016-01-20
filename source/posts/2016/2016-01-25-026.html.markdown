@@ -3,7 +3,7 @@ layout: article
 title: 026 - 
 date: 2016-01-25 00:00:00
 comments: true
-published: true
+published: false
 transcript: false
 subtitle: Опять про Docker, Jenkins и вообще про CI
 ---
