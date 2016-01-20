@@ -1,0 +1,18 @@
+---
+layout: article
+title: 026 - 
+date: 2016-01-25 00:00:00
+comments: true
+published: true
+transcript: false
+subtitle: Опять про Docker, Jenkins и вообще про CI
+---
+
+## Новости
+
+* [Influx переименовался в influxdata. Как и почему?](https://influxdata.com/blog/influxdb-the-platform-for-time-series-data)
+* [Git 2.7](https://developer.atlassian.com/blog/2016/01/git-2.7-release)
+* [Презенташечка про docker multihost network](http://www.slideshare.net/hleclerc/octo-talk-docker-multihost-networking)
+* [jenkins ci workflow-plugin](https://github.com/jenkinsci/workflow-plugin/blob/master/README.md)
+* [Concourse](https://concourse.ci)
+* [Amazon сделал ECR доступным для всех](https://aws.amazon.com/blogs/aws/ec2-container-registry-now-generally-available/)
