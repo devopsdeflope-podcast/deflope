@@ -1,7 +1,7 @@
 ---
 layout: article
-title: 026 - 
-date: 2016-01-25 00:00:00
+title: 026 - Разгоняемся после прадников
+date: 2016-02-11 12:00:00
 comments: true
 published: false
 transcript: false
@@ -16,3 +16,7 @@ subtitle: Опять про Docker, Jenkins и вообще про CI
 * [jenkins ci workflow-plugin](https://github.com/jenkinsci/workflow-plugin/blob/master/README.md)
 * [Concourse](https://concourse.ci)
 * [Amazon сделал ECR доступным для всех](https://aws.amazon.com/blogs/aws/ec2-container-registry-now-generally-available/)
+
+## Вакансии
+
+Вакансия Express 42 – [http://express42.com/job.html](http://express42.com/job.html)
