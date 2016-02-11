@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 026 - Разгоняемся после прадников
-date: 2016-02-11 12:00:00
+date: 2016-02-11 11:43:00
 comments: true
 published: true
 transcript: false
