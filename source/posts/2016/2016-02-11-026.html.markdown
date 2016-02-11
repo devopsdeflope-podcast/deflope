@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 026 - Разгоняемся после прадников
+title: 026 - Разгоняемся после праздников
 date: 2016-02-11 11:43:00 +0300
 comments: true
 published: true
