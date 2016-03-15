@@ -1,0 +1,23 @@
+---
+layout: article
+title: 027 - Старый подкаст, новый подкаст
+date: 2016-03-15 11:15:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle: Unikernel, Новинки от Docker, драйверы для Nomad
+---
+
+## Новости
+
+* [How we ended up with microservices](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
+* [Docker Acquires Unikernel Systems As It Looks Beyond Containers](http://techcrunch.com/2016/01/21/docker-acquires-unikernel-systems-as-it-looks-beyond-containers/)
+* [Про unikernel и безопасность](https://matildah.github.io/posts/2016-01-30-unikernel-security.html)
+* [Docker 1.10](https://blog.docker.com/2016/02/docker-1-10/)
+* [Spotify and Google cloud](https://news.spotify.com/us/2016/02/23/announcing-spotify-infrastructures-googley-future/)
+* [Docker datacenter](http://www.docker.com/products/docker-datacenter) и [Docker Cloud](https://www.docker.com/products/docker-cloud)
+* [Docker monitoring problem](https://www.datadoghq.com/blog/the-docker-monitoring-problem/)
+* [Spinnaker – multi-cloud continuous delivery platform](http://spinnaker.io)
+* [Nomad 0.3](https://www.hashicorp.com/blog/nomad-0.3.html)
+Драйверы [PD](https://github.com/legal90/nomad/blob/driver-parallels/client/driver/parallels.go) и [VZ](https://github.com/legal90/nomad/blob/driver-parallels/client/driver/vz.go) для Nomad
+* [Сообщество Hangops RU](http://hangops.ru)
