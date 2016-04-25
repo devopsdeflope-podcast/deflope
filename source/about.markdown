@@ -8,11 +8,11 @@ DevOps Дефлопе подкаст — это русскоязычный по
 
 С 2013 года подкаст ведется [Никитой Борзых](https://twitter.com/ex_sample) и
 [Иваном Евтуховичем](http://evtuhovich.ru/about) — DevOps сумоистами из компании
-«[Экспресс 42](http://express42.com)».
+«[Экспресс 42](http://express42.com)». С марта 2016 года Иван Евтухович покинул подкаст и к нам пришел [Константин Назаров](https://twitter.com/racktear) из компании [Parallels](http://parallels.ru).
 
 <div>
   <img src="/images/sample.png" title="Никита Борзых" />
-  <img src="/images/brun.jpg" title="Иван Евтухович" />
+  <img src="/images/racktear.jpg" title="Константин Назаров" />
 </div>
 
 # Контакты
