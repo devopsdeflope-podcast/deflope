@@ -19,3 +19,4 @@
 export.yml
 .s3_sync
 .DS_Store
+*.swp
