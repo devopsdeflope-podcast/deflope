@@ -17,7 +17,7 @@ subtitle: RootConf, Habitat, Torus, Ceph, Elliptics, ClickHouse, postgresql clus
 * [Ceph BlueStore](https://www.sebastien-han.fr/blog/2016/03/21/ceph-a-new-store-is-coming/), подробнее в слайдах с RootConf
 * [Elliptics](http://reverbrain.com/elliptics/)
 * [ClickHouse](https://clickhouse.yandex)
-* [Семинар "Кластерные технологии PostgreSQL" от Postgres Professional](http://www.postgrespro.ru/blog/company/53042), регистрация открыта до 24 июня!
+* Семинар [Кластерные технологии PostgreSQL](http://www.postgrespro.ru/blog/company/53042) от Postgres Professional, регистрация открыта до 24 июня!
 
 ## Напоминаем про канал в Telegram [https://telegram.me/devops_deflope](https://telegram.me/devops_deflope)
 
