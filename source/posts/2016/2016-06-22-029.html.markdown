@@ -5,7 +5,7 @@ date: 2016-06-22 10:00:00 +0300
 comments: true
 published: true
 transcript: false
-subtitle: RootConf, Habitat, Torus, Ceph, Elliptics, ClickHouse
+subtitle: RootConf, Habitat, Torus, Ceph, Elliptics, ClickHouse, postgresql cluster
 ---
 
 ## Обсуждения
@@ -17,7 +17,7 @@ subtitle: RootConf, Habitat, Torus, Ceph, Elliptics, ClickHouse
 * [Ceph BlueStore](https://www.sebastien-han.fr/blog/2016/03/21/ceph-a-new-store-is-coming/), подробнее в слайдах с RootConf
 * [Elliptics](http://reverbrain.com/elliptics/)
 * [ClickHouse](https://clickhouse.yandex)
-* [Кластерные технологии PostgreSQL от Postgres Professional](http://www.postgrespro.ru/blog/company/53042)
+* [Семинар "Кластерные технологии PostgreSQL" от Postgres Professional](http://www.postgrespro.ru/blog/company/53042), регистрация открыта до 24 июня!
 
 ## Напоминаем про канал в Telegram [https://telegram.me/devops_deflope](https://telegram.me/devops_deflope)
 
