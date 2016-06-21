@@ -1,0 +1,25 @@
+---
+layout: article
+title: 029 - RootConf, habitat и рассуждения на тему разных storage систем
+date: 2016-06-22 10:00:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle: RootConf, Habitat, Torus, Ceph, Elliptics, ClickHouse
+---
+
+## Обсуждения
+
+* [Слайды с RootConf](https://www.dropbox.com/s/6y8a7la28rm118g/rc-2016.rar), без SMS
+* [Habitat от Chef](http://habitat.sh)
+* [Torus](https://github.com/coreos/torus)
+* [Files are hard](http://danluu.com/file-consistency/)
+* [Ceph BlueStore](https://www.sebastien-han.fr/blog/2016/03/21/ceph-a-new-store-is-coming/), подробнее в слайдах с RootConf
+* [Elliptics](http://reverbrain.com/elliptics/)
+* [ClickHouse](https://clickhouse.yandex)
+* [Кластерное решение для postgresql от Postgresql Pro](http://www.postgrespro.ru/blog/company/53042)
+
+## Напоминаем про канал в Telegram [https://telegram.me/devops_deflope](https://telegram.me/devops_deflope)
+
+По техническим причинам в начале записи на заднем фоне совещаются прекрасные девушки.  
+Мы не смогли их отключить, но верьте нам, они очень хорошие)
