@@ -15,6 +15,7 @@ subtitle: Elastic stack beta, Docker под windows, consul 0.7, rkt, Open Conta
 * [Docker запартнерился с Microsoft](https://blog.docker.com/2016/09/docker-microsoft-partnership/)
 * [Consul 0.7](https://www.hashicorp.com/blog/consul-0-7.html)
 * Рассуждения на тему [rkt](https://coreos.com/rkt/) и вообще насчет [Open Container Initiative](https://www.opencontainers.org)
+* [mkrepo](https://github.com/tarantool/mkrepo) и [github-email-notifier](https://github.com/tarantool/github-email-notifier) от Кости [@racktear](https://twitter.com/racktear)
 * Твиттер нашего гостя Антона Маркелова [@_strangeman](https://twitter.com/_strangeman)
 
 ## Напоминаем про канал в Telegram
