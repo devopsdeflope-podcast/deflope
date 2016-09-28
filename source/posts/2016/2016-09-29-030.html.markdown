@@ -5,7 +5,7 @@ date: 2016-09-29 10:00:00 +0300
 comments: true
 published: true
 transcript: false
-subtitle:
+subtitle: Elastic stack beta, Docker под windows, consul 0.7, rkt, Open Container Initiative
 ---
 
 ## Обсуждения
