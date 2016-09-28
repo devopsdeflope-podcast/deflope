@@ -1,0 +1,24 @@
+---
+layout: article
+title: 030 - Неюбилейный выпуск
+date: 2016-09-29 10:00:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle:
+---
+
+## Обсуждения
+
+* [Elastic stack 5.0.0 Beta1](https://www.elastic.co/blog/elastic-stack-release-5-0-0-beta1)
+* Вышел релиз [Docker для Windows server](https://blog.docker.com/2016/09/dockerforws2016/) и сам [Windows Server 2016](https://www.microsoft.com/en-us/cloud-platform/windows-server)
+* [Docker запартнерился с Microsoft](https://blog.docker.com/2016/09/docker-microsoft-partnership/)
+* [Consul 0.7](https://www.hashicorp.com/blog/consul-0-7.html)
+* Рассуждения на тему [rkt](https://coreos.com/rkt/) и вообще насчет [Open Container Initiative](https://www.opencontainers.org)
+* Твиттер нашего гостя Антона Маркелова [@_strangeman](https://twitter.com/_strangeman)
+
+## Напоминаем про канал в Telegram
+[https://telegram.me/devops_deflope](https://telegram.me/devops_deflope)
+
+## Мастер-класс по Ansible от Express 42
+[http://education.express42.com/devops-ansible](http://education.express42.com/devops-ansible?utm_source=devopsdeflope&utm_medium=podcast&utm_campaign=ansible)
