@@ -13,7 +13,7 @@ subtitle: Condo, Rump Kernels, docker vpnkit
 * [Condo](http://github.com/prepor/condo)
 * [Rump Kernel FAQ](http://wiki.rumpkernel.org/Info:-FAQ)
 
-* Твиттер нашего гостя Андрея Руденко [@prepor](https://twitter.com/prepor)
+Твиттер нашего гостя Андрея Руденко [@prepor](https://twitter.com/prepor)
 
 ## Напоминаем про канал в Telegram
 [https://telegram.me/devops_deflope](https://telegram.me/devops_deflope)
