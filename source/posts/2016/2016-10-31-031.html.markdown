@@ -1,0 +1,22 @@
+---
+layout: article
+title: 031 - Condoвый выпуск
+date: 2016-10-31 14:40:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle: Condo, Rump Kernels, docker vpnkit
+---
+
+## Обсуждения
+
+* [Condo](http://github.com/prepor/condo)
+* [Rump Kernel FAQ](http://wiki.rumpkernel.org/Info:-FAQ)
+
+* Твиттер нашего гостя Андрея Руденко [@prepor](https://twitter.com/prepor)
+
+## Напоминаем про канал в Telegram
+[https://telegram.me/devops_deflope](https://telegram.me/devops_deflope)
+
+## Мастер-класс по Docker от Express 42
+[http://education.express42.com/devops-docker](http://education.express42.com/devops-docker?utm_source=devopsdeflope&utm_content=dp_31&utm_medium=podcast&utm_campaign=docker_nov_2016)
