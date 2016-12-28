@@ -1,0 +1,15 @@
+---
+layout: article
+title: 032 - Юбилейный выпуск
+date: 2016-12-28 14:30:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle: Интервью с Александом Титовым, Маша и Медведь
+---
+
+## Интервью с Александром Титовым
+
+Мультфильм [Маша и Медведь – Эх, прокачу!](https://www.youtube.com/watch?v=E1Cdpliash8)
+
+Devops Days Moscow – [https://www.devopsdays.org/events/2017-moscow/welcome/](https://www.devopsdays.org/events/2017-moscow/welcome/)
