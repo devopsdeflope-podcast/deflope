@@ -1,0 +1,15 @@
+---
+layout: article
+title: 033 - Внеформатный выпуск
+date: 2017-04-18 21:44:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle: gs
+---
+
+## Сегодня в эфире
+
+* Наши теоретезирование о подкасте
+* Интервью с Глебом Лесниковым из [dodopizza.ru](http://dodopizza.ru)
+* Перезапуск [hangops.ru](https://hangops.ru)
