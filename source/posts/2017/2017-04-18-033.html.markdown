@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 033 - Внеформатный выпуск
-date: 2017-04-18 21:44:00 +0300
+date: 2017-04-18 19:30:00 +0300
 comments: true
 published: true
 transcript: false
