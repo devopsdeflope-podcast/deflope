@@ -5,11 +5,11 @@ date: 2017-04-18 19:30:00 +0300
 comments: true
 published: true
 transcript: false
-subtitle: gs
+subtitle: Теоретико-практический выпуск
 ---
 
 ## Сегодня в эфире
 
-* Наши теоретезирование о подкасте
+* Наши теоретизирования о подкасте
 * Интервью с Глебом Лесниковым из [dodopizza.ru](http://dodopizza.ru)
 * Перезапуск [hangops.ru](https://hangops.ru)
