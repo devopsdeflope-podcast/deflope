@@ -1,0 +1,17 @@
+---
+layout: article
+title: 034 - Демократический выпуск
+date: 2017-05-10 16:20:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle: Интервью с Анатолием из evote
+---
+
+## Сегодня в эфире
+* Интервью с Анатолием Поповым из [evote.com](http://evote.com)
+
+## Ссылочки
+* Блог Анатолия [aensidhe.ru](https://aensidhe.ru)
+* GitHub Анатолия [github.com/progaudi](https://github.com/progaudi/)
+* Обзор бенчмарка ASP Kestrel [www.anthonysteele.co.uk/OptimizationAndMetrics](http://www.anthonysteele.co.uk/OptimizationAndMetrics)
