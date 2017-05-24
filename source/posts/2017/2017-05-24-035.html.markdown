@@ -1,0 +1,20 @@
+---
+layout: article
+title: 035 - Евклидов выпуск
+date: 2017-05-24 14:30:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle: Интервью с Николаем Добровольским, RootConf
+---
+
+## Сегодня в эфире
+* Интервью c Николаем Добровольским, вице-президентом Parallels [parallels.com](http://parallels.com)
+* Предстоящая конференция RootConf [rootconf.ru](http://rootconf.ru)
+
+## Ссылочки
+* Parallels Desktop for Mac [www.parallels.com/ru/products/desktop/](http://www.parallels.com/ru/products/desktop/)
+* Parallels Toolbox for Mac [www.parallels.com/ru/products/toolbox/](http://www.parallels.com/ru/products/toolbox/)
+
+## Промокод RootConf
+* Промокод на скидку 7% для слушателей подкаста - **DevOpsDeflope2017**
