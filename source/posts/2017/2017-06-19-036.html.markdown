@@ -1,0 +1,16 @@
+---
+layout: article
+title: 036 - RootConf 2017
+date: 2017-06-19 11:30:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle: Большое интервью с RootConf 2017
+---
+
+## Большое интервью прямо с RootConf 2017
+Совместно с подкастом [Разбор Полетов](http://razbor-poletov.com)  
+поговорили с [Александром Титовым](https://www.facebook.com/alex.o.titov) из [Express 42](http://express42.com)  
+и [Александром Тарасовым](https://www.facebook.com/aatarasoff) из [Однокласников](ok.ru)  
+о докладах на [RootConf 2017](http://rootconf.ru), о прошлом и будущем Devops  
+и о DevOps конференциях в России
