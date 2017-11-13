@@ -1,0 +1,12 @@
+---
+layout: article
+title: 037 - Devoops 2017
+date: 2017-10-2 15:55:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle: Большой анонс Devoops 2017
+---
+
+## Анонс Devoops 2017
+* Промокод на скидку при регистрации: **DODeflopePromo**
