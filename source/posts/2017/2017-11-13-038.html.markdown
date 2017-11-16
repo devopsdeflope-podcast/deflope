@@ -1,0 +1,13 @@
+---
+layout: article
+title: 038 - Интервью с конференции HighLoad++ 2017
+date: 2017-11-13 23:30:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle: Записи интервью с HighLoad++ 2017
+---
+## Интервью
+* Михаил Сычев из Google об особенностях разработки YouTube фронтенда
+* Николай Сивко из okmeter о проекте [okmeter.io](http://okmeter.io)
+* Дмитрий Столяров из flant о Docker, kubernetes, Go и всём таком
