@@ -6,7 +6,7 @@
     %title
       = data.page.title || 'DevOps Дефлопе'
     <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     = stylesheet_link_tag 'normalize', 'all', 'article', 'mspeakker', 'jplayer/jplayer.blue.monday'
     = javascript_include_tag 'jplayer/jquery.jplayer.min'
@@ -40,9 +40,9 @@
           .body{itemprop: 'articleBody'}
             -if mp3file_exist?(data.page.title)
               .mp3
-                %a(href="http://devopsdeflope.ru/mp3/#{get_mp3_filename(data.page.title)}") скачать mp3
+                %a(href="//devopsdeflope.ru/mp3/#{get_mp3_filename(data.page.title)}") скачать mp3
               .player
-                = partial 'player', :locals => { :title => data.page.title, :file => "http://devopsdeflope.ru/mp3/#{get_mp3_filename(data.page.title)}"}
+                = partial 'player', :locals => { :title => data.page.title, :file => "//devopsdeflope.ru/mp3/#{get_mp3_filename(data.page.title)}"}
             -if data.page.transcript
               %h2
                 = link_to "Текстовая расшифровка подкаста", '/' + request.path + "#Расшифровка"
@@ -56,12 +56,12 @@
           /* * * DON'T EDIT BELOW THIS LINE * * */
           (function() {
               var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-              dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+              dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
               (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
           })();
         %noscript
           Please enable JavaScript to view the
-          %a(href="http://disqus.com/?ref_noscript")comments powered by Disqus.
-        %a(href="http://disqus.com" class="dsq-brlink")
+          %a(href="https://disqus.com/?ref_noscript")comments powered by Disqus.
+        %a(href="https://disqus.com" class="dsq-brlink")
           comments powered by
           %span.logo-disqus Disqus
