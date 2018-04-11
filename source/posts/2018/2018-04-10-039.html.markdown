@@ -1,0 +1,14 @@
+---
+layout: article
+title: 039 - Back to DevOps Deflope 3
+date: 2018-04-10 11:00:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle: Интервью с Сергеем из Авито
+---
+## Привет
+* Новые ведущие Андрей и Виталий
+
+## Интервью
+* Интервью с [Сергеем Орловым](https://www.facebook.com/marrrrrrrvin) из [Avito](https://avito.ru)
