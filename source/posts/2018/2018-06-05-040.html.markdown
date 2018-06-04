@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 040 - РИТ++ Leon Fayer
+title: "040 - РИТ++ Leon Fayer"
 date: 2018-06-05 11:00:00 +0300
 comments: true
 published: true
