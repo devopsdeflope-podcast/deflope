@@ -1,0 +1,17 @@
+---
+layout: article
+title: 040 - РИТ++ Leon Fayer
+date: 2018-06-05 11:00:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle: Интервью с Сергеем из Авито
+---
+## Интервью
+* Интервью с [Lean Fayer](https://twitter.com/papa_fire) вице-президентом [OmniTI](https://omniti.com/)
+
+Обсудили необходимость мониторинга бизнес-показателей и взаимодействия технических и не технических отделов.
+
+Контакты Леона:
+
+* [twitter](https://twitter.com/papa_fire)
