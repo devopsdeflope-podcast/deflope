@@ -13,7 +13,7 @@ end
 activate :s3_sync do |s3_sync|
   s3_sync.bucket = 'devopsdeflope.ru'
   s3_sync.region = 'eu-west-1'
-  s3_sync.after_build = true
+  s3_sync.after_build = false
   s3_sync.delete = true
 end
 
