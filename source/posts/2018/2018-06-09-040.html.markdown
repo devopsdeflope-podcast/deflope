@@ -1,0 +1,29 @@
+---
+layout: article
+title: "040 - РИТ++ Leon Fayer Мониторинг бизнеса"
+date: 2018-06-09 12:00:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle: "Leon Fayer вице-президент OmniTI Мониторинг бизнеса"
+---
+
+## Сегодня в эфире
+
+* В гостях [Lean Fayer](https://twitter.com/papa_fire) вице-президент [OmniTI](https://omniti.com/) 
+
+## Обсудили
+
+* Необходимость мониторинга бизнес-показателей
+* Как понять, что именно нужно покрыть мониторингом
+* Как отделам предоставлять друг другу актуальную информацию
+
+## Ссылки
+* [Презентация Леона про мониторинг с РИТ++](https://drive.google.com/file/d/12I0YhfS_gE3G0g_rCsYTC9wH1mD7UaAa/view)
+
+## Контакты гостя:
+
+* [twitter](https://twitter.com/papa_fire)
+* [facebook](https://www.facebook.com/leon.fayer)
+* [email](mailto:leon@omniti.com)
+* [blog](http://fayerplay.com/)
