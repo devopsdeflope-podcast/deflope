@@ -48,6 +48,15 @@
                 = link_to "Текстовая расшифровка подкаста", '/' + request.path + "#Расшифровка"
 
             = yield
+
+            -if Date.parse(data.page.date.to_s).year >= 2018
+              %h2 Контакты ведущих
+              %ul
+                %li
+                  = link_to "Александров Андрей", "https://t.me/aladmit_world"
+                %li
+                  = link_to "Виталий Хабаров", "https://twitter.com/vitkhab/"
+
         #disqus_thread
         :javascript
           /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
