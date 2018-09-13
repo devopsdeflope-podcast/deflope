@@ -1,0 +1,30 @@
+---
+layout: article
+title: "041 - Евгений Пешков Domain Driven Design"
+date: 2018-09-15 12:00:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle: "Евгений Пешков разработчик Додо Пицца. Domain Driven Design"
+---
+
+## Сегодня в эфире
+
+* В гостях [Евгений Пешков](https://www.facebook.com/epeshkov) разработчик [Додо Пицца](https://dodopizza.ru/) 
+
+## Обсудили
+
+* Что такое Domain Driven Design
+* DDD как язык общения с бизнесом
+* Какие сущности есть в DDD
+* Преимущества DDD для классических и микросервисных приложений
+* Как начать практиковать DDD
+
+## Ссылки
+* [Доклад Евгения на РИТ++. Eventual consistency при производстве пиццы](https://www.youtube.com/watch?v=DWfJWCWV_eQ)
+* [Эрик Эванс. Предметно-ориентированное проектирование (DDD): структуризация сложных программных систем](https://www.ozon.ru/context/detail/id/147107976/?partner=devops_deflope&utm_content=link)
+* [Вон Вернон. Предметно-ориентированное проектирование. Самое основное](https://www.ozon.ru/context/detail/id/140145967/?partner=devops_deflope&utm_content=link)
+* [Вон Вернон. Реализация методов предметно-ориентированного проектирования](https://www.ozon.ru/context/detail/id/35045716/?partner=devops_deflope&utm_content=link)
+
+## Контакты гостя
+* [facebook](https://www.facebook.com/epeshkov)
