@@ -1,0 +1,31 @@
+---
+layout: article
+title: "042 - DevOpsConf Антон Исанин Трансформация Альфа-банк"
+date: 2018-09-24 16:00:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle: "Антон Исанин Трансформация Альфа-банк"
+---
+
+## Сегодня в эфире
+
+* В гостях [Антон Исанин](https://www.facebook.com/anton.isanin) руководитель отдела контроля качества [Альфа-банк](https://alfabank.ru)
+
+## Обсудили
+
+* С чего началась трансформация банка
+* Как повысить прозрачность процессов
+* Как помогать трансформироватся другим командам
+
+## Ссылки
+* [Доклад DevOps в Альфа-Банке на DevOpsConf 1-2 октября](https://devopsconf.io/moscow/2018/abstracts/3962)
+* [Конференция DevOpsConf 2018 1-2 октября](https://devopsconf.io/moscow/2018)
+
+## Контакты гостя
+* [facebook](https://www.facebook.com/anton.isanin)
+
+## Контакты компании
+* [сайт](https://alfabank.ru)
+* [facebook](https://www.facebook.com/alfabank/)
+* [хабр](https://habr.com/company/alfa/)
