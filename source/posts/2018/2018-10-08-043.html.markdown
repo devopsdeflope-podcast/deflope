@@ -1,0 +1,20 @@
+---
+layout: article
+title: "043 - DevOps Deflope BOF на DevOpsConf 2018"
+date: 2018-10-08 12:00:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle: "DevOps Deflope BOF на DevOpsConf 2018"
+---
+
+## Сегодня в эфире
+
+На конференции DevOpsConf 2018 мы решили поэксперементировать с форматом и провели [BOF](https://en.wikipedia.org/wiki/Birds_of_a_feather_(computing)) вместе с нашими слушателями!
+
+## Обсудили
+* Историю создания и развития подкаста DevOps Deflope
+* Как поменялся DevOps за последние 5 лет
+
+## Ссылочки
+* [DevOpsConf 2018](https://devopsconf.io/moscow/2018)
