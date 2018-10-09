@@ -14,7 +14,7 @@ activate :s3_sync do |s3_sync|
   s3_sync.bucket = 'devopsdeflope.ru'
   s3_sync.region = 'eu-west-1'
   s3_sync.after_build = false
-  s3_sync.delete = true
+  s3_sync.delete = false
 end
 
 caching_policy 'text/html', max_age: 0, must_revalidate: true

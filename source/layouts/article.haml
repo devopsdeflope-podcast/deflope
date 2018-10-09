@@ -38,11 +38,10 @@
             = link_to data.page.title, '/' + request.path, {itemprop: 'name headline'}
             %time{itemprop: 'datePublished', datetime: data.page.date.strftime('%Y-%m-%dT%H:%M')}= Russian::strftime(data.page.date, '%B %e, %Y')
           .body{itemprop: 'articleBody'}
-            -if mp3file_exist?(data.page.title)
-              .mp3
-                %a(href="//devopsdeflope.ru/mp3/#{get_mp3_filename(data.page.title)}") скачать mp3
-              .player
-                = partial 'player', :locals => { :title => data.page.title, :file => "//devopsdeflope.ru/mp3/#{get_mp3_filename(data.page.title)}"}
+            .mp3
+              %a(href="//devopsdeflope.ru/mp3/#{get_mp3_filename(data.page.title)}") скачать mp3
+            .player
+              = partial 'player', :locals => { :title => data.page.title, :file => "//devopsdeflope.ru/mp3/#{get_mp3_filename(data.page.title)}"}
             -if data.page.transcript
               %h2
                 = link_to "Текстовая расшифровка подкаста", '/' + request.path + "#Расшифровка"
