@@ -1,0 +1,13 @@
+language: ruby
+cache: bundler
+
+rvm:
+  - 2.3.7
+
+before_install:
+  - bundle install
+
+script:
+  - bundle exec ruby download_mp3.rb
+  - bundle exec middleman build
+  - bundle exec middleman s3_sync
