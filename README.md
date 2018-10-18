@@ -9,3 +9,4 @@
 - [ ] Собрать сайт `bundle exec middleman build`
 - [ ] Запустить сайт и убедиться, что все выглядит правильно. `bundle exec middleman server`
 - [ ] Задеплоить сайт `bundle exec middleman s3_sync`
+- [ ] Загрузить запись выпуска на gdrive
