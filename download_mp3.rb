@@ -2,7 +2,7 @@ require 'google_drive'
 require 'git'
 
 git = Git.open('.')
-gdrive = GoogleDrive::Session.from_service_account_key("devopsdeflopeci-54630c3d0a4b.json")
+gdrive = GoogleDrive::Session.from_service_account_key("gdrive.json")
 
 changed_posts = git.log.first.diff_parent.stats[:files].map do |file|
     file[0] if file[0].include?('posts') and file[0].include?('md')
