@@ -1,5 +1,10 @@
 # devopsdeflope.ru
 
+## Локальная работа
+
+* `docker build -t deflope .`
+* `decker run --rm --it --mount src=`pwd`,dst=/app,type=bind -p 4567:4567 deflope`
+
 ## Как добавить новый выпуск
 
 - [ ] Добавить в `source/posts/<год>/` файл с описанием.
