@@ -1,11 +1,11 @@
 ---
 layout: article
-title: "044 - Евгений Россинский с TeamLeadConf 2019"
+title: "044 - Евгений Россинский докладчик TeamLeadConf 2019"
 date: 2019-02-17 12:00:00 +0300
 comments: true
 published: true
 transcript: false
-subtitle: "Евгений Россинский с TeamLeadConf 2019"
+subtitle: "Евгений Россинский докладчик TeamLeadConf 2019"
 ---
 
 ## Сегодня в эфире
