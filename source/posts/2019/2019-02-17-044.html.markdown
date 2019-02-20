@@ -24,5 +24,6 @@ subtitle: "Евгений Россинский с TeamLeadConf 2019"
 ## Ссылки
 
 * [Предыдущий доклад Евгений о масштабируемом скраме](https://www.youtube.com/watch?v=blcT7H2HJnA)
+* [Саммари на доклад Евгения с TeamLeadConf 2018](http://bit.ly/2NfeoTi)
 * [TeamLeadConf 2019](http://teamleadconf.ru/moscow/2019)
 * [Доклад Евгения на TeamLeadConf 2019](http://teamleadconf.ru/moscow/2019/abstracts/4363)
