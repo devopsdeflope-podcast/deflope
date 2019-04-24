@@ -1,0 +1,30 @@
+---
+layout: article
+title: "046 - Игорь Цупко — директор по неизвестному, докладчик KnowledgeConf 2019"
+date: 2019-04-24 12:00:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle: "Игорь Цупко — директор по неизвестному"
+---
+
+## Сегодня в эфире
+
+Интервью с Игорем Цупко — директором по неизвестному во Флант, докладчиком на KnowledgeConf 2019
+
+## Обсудили
+
+* Что такое управление знаниями
+* Какие практики управления знаниями применяют в Express42
+* Какие проблемы Флант решает через Performance Review
+* Что такое Performance Review во Флант и на кого оно распространяется
+* Как Performance Review помогает сотрудникам
+* Что происходит, если Review негативное
+* Как тимлиды решают конфликты через Performance Review
+* Какие инструменты помогают компании управлять знаниями
+
+## Ссылки
+
+* [KnowledgeConf2019](https://knowledgeconf.ru/2019)
+* [Доклад Игоря Цупко о Performance Review на KnowledgeConf 2019](https://knowledgeconf.ru/2019/abstracts/4695)
+* [Доклад Андрея Александрова о практиках Тиаго Форте на KnowledgeConf 2019](https://knowledgeconf.ru/2019/abstracts/4755)
