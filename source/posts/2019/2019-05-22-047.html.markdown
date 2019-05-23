@@ -20,8 +20,8 @@ subtitle: "Дмитрий Столяров — технический дирек
 
 ## Ссылки
 
+* [Q&A сессия по DevOps с ведущими DevOps Deflope и инженерами Express42 на РИТ++ 2019](https://ritfest.ru/2019/meetups#1512305)
 * [werf — наш инструмент для CI/CD в Kubernetes](https://ritfest.ru/2019/abstracts/5136)
 * [Эксплуатация микросервисов (Дмитрий Столяров, Флант, митап Highload User Group)](https://www.youtube.com/watch?v=g9cgppj0gKQ)
 * [Расширяем и дополняем Kubernetes / Андрей Половов, Иван Михейкин (Флант)](http://youtu.be/1_55KPHjVTU)
-* [Q&A сессия по DevOps на РИТ++ 2019](https://ritfest.ru/2019/meetups#1512305)
 * [Канал Фланта на Youtube](https://www.youtube.com/channel/UCjmwHCZ-qh3ro7hHTQhqYQg)
