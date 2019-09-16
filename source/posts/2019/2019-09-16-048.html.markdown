@@ -1,0 +1,25 @@
+---
+layout: article
+title: "048 - DevOps & Business"
+date: 2019-09-16 12:00:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle: "DevOps & Business с Leon Fayer"
+---
+
+## В эфире обсудили
+
+* Книгу Леона DevOps & Business
+* Что такое DevOps
+* Зачем DevOps нужен бизнесу
+* Как трансформировать компанию?
+* Может ли трансформацией заниматься DevOps-инженер инженер?
+
+## P.S Промокод "DevOpsDeflope" даст вам скидку в 10% на [DevOpsConf 2019](https://devopsconf.io/moscow/2019) :)
+
+## Ссылки
+
+* **[Книга Леона "DevOps & Buiness"](https://www.oreilly.com/library/view/devops-and-business/9781492036609/)**
+* [Блог Леона](https://medium.com/@lfayer)
+* [Доклад Леона на DevOpsConf 2019](https://devopsconf.io/moscow/2019/abstracts/5615)
