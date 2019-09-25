@@ -16,10 +16,10 @@ subtitle: "DevOps & Business с Leon Fayer"
 * Как трансформировать компанию?
 * Может ли трансформацией заниматься DevOps-инженер инженер?
 
-## P.S Промокод "DevOpsDeflope" даст вам скидку в 10% на [DevOpsConf 2019](https://devopsconf.io/moscow/2019) :)
-
 ## Ссылки
 
 * **[Книга Леона "DevOps & Buiness"](https://www.oreilly.com/library/view/devops-and-business/9781492036609/)**
 * [Блог Леона](https://medium.com/@lfayer)
 * [Доклад Леона на DevOpsConf 2019](https://devopsconf.io/moscow/2019/abstracts/5615)
+
+## P.S Промокод "DevOpsDeflope" даст вам скидку в 10% на [DevOpsConf 2019](https://devopsconf.io/moscow/2019) :)

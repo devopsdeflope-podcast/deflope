@@ -1,0 +1,22 @@
+---
+layout: article
+title: "049 - Взаимодействие Dev и Ops в Skyeng"
+date: 2019-09-25 12:00:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle: "Взаимодействие Dev и Ops в Skyeng"
+---
+
+## В эфире обсудили
+
+* Проблемы масштабирования команды DevOps
+* Взаимодействие разработчиков и эксплуатации
+* Разработку внутренних инструментов
+* Куда развивается внутренняя платформа в Skyeng
+
+## Ссылки
+
+* [Вакансия в команду Александра](https://hh.ru/vacancy/32853724)
+
+## P.S Промокод "DevOpsDeflope" даст вам скидку в 10% на [DevOpsConf 2019](https://devopsconf.io/moscow/2019) :)
