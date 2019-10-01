@@ -1,0 +1,22 @@
+---
+layout: article
+title: "050 - Язык Go"
+date: 2019-10-01 12:00:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle: "Язык Go"
+---
+
+## В эфире обсудили
+
+* Причины популярности Go
+* Вхождение в язык
+* Профайлинг приложений
+* Экосистема языка
+* Сообщество
+* На какие доклады стоит сходить на GolangConf
+
+## Ссылки
+
+* [GolangConf2019](https://golangconf.ru/2019)
