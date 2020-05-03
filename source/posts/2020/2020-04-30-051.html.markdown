@@ -1,0 +1,34 @@
+---
+layout: article
+title: "051 - Удаленная работа. Часть 1"
+date: 2020-04-30 20:05:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle: "Удаленная работа"
+---
+
+* 00.02.28 - Обсуждаем с Игорем Цупко обустройство рабочего пространства, расписание работы и отдыха.
+* 00.29.58 - Обсуждаем с Евгением Пешковым опыт перехода на удаленку, технические и организационные вопросы
+* 01.06.58 - Обсуждаем с Алексеем Корнеевым опыт командой работы на удаленке, организацию мероприятий не выходя из дома и как поменьше выгорать сидя в четырех стенах.
+
+Дополнительные материалы:
+
+* [Статья Фланта об удаленной работе](https://habr.com/ru/company/flant/blog/463619/)
+* [Утилита MTR](https://www.bitwizard.nl/mtr/)
+* [ScaleFT](https://www.scaleft.com)
+* [Krisp.AI](https://krisp.ai/)
+* [Пример командных принципов, которые вы можете использовать у себя](https://hackmd.io/@ui1a7-aTSlGyz-5IbnhhPw/r1PmSwIw4?type=view)
+* [Доклад Лёши Катаева, CTO Skyeng, про удаленную работу](https://youtu.be/z2e5rnh_WcU)
+* [Антон Губарев, Skyeng, про инструменты команды разработки](https://youtu.be/wfkLPF0pJmQ?t=6745)
+* [Иван Матвеев, Skyeng, доклад "День и инструменты разработчика на удаленке"](https://youtu.be/Bxe8FQyaCBs?t=386)
+* [Мария Гнитецкая, фронтенд разработчик SkyEng, доклад "Удаленная работа: мифы и реальность"](https://www.youtube.com/watch?v=3kJGabIC7sw)
+* [Управление распределенной командой в режиме многопроектности](https://habr.com/ru/company/flant/blog/469453/)
+
+Обратная связь:
+
+* [Сайт DevOps Deflope](https://devopsdeflope.ru)
+* [Twitter](https://twitter.com/devopsdeflope)
+* [Facebook](https://www.facebook.com/DevOpsDeflopeNews/)
+* [iTunes](https://podcasts.apple.com/ru/podcast/devops-%D0%B4%D0%B5%D1%84%D0%BB%D0%BE%D0%BF%D0%B5-%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82/id670175970)
+* [Гуглоформа](https://forms.gle/9DWSqjbf7ZrixZMQ7)
