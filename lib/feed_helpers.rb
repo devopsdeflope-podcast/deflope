@@ -9,7 +9,8 @@ module FeedHelpers
       :owner => {:author => "Никита Борзых и Константин Назаров", :email => "input@devopsdeflope.ru"},
       :categories => {"Technology" => ["Podcasting", "Tech News"]},
       :image => "#{site_url}/images/deflope-itunes.jpg",
-      :explicit => "no"
+      :explicit => "no",
+      :keywords => "124640"
     }
   end
 
