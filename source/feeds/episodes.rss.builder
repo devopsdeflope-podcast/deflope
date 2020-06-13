@@ -15,7 +15,7 @@ xml.rss "xmlns:itunes" => "http://www.itunes.com/dtds/podcast-1.0.dtd", :version
     end
     xml.itunes :image, {:href => feed_data[:image]}
     xml.itunes :explicit, feed_data[:explicit]
-    xml.itunes :keywords, {:href => feed_data[:keywords]}
+    xml.itunes :keywords, feed_data[:keywords]
     xml.itunes :"new-feed-url", "http://feeds.feedburner.com/devopsdeflope"
 
     ### Categories ###
