@@ -130,7 +130,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
-    redcarpet (3.4.0)
+    redcarpet (3.5.1)
     ruby-mp3info (0.8.10)
     ruby-progressbar (1.10.0)
     russian (0.6.0)
