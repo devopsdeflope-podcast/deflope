@@ -10,8 +10,8 @@ DevOps Дефлопе подкаст — это русскоязычный по
 * 2013 -- 2016 [Никита Борзых](https://twitter.com/ex_sample) и [Иван Евтухович](http://evtuhovich.ru/about) — DevOps сумоисты из компании
 [Экспресс 42](http://express42.com).
 * 2016 -- 2018 [Никита Борзых](https://twitter.com/ex_sample) ([Экспресс 42](http://express42.com)) и [Константин Назаров](https://twitter.com/racktear) ([Tarantool](http://tarantool.org))
-* 2018 -- 2020 [Андрей Александров](https://t.me/aladmit_world) и [Виталий Хабаров](https://twitter.com/vitkhab)
-* 2021 -- настоящее время [Виталий Хабаров](https://vitkhab.pro)
+* 2018 -- 2020 [Андрей Александров](https://t.me/aladmit_world) и [Виталий Хабаров](https://twitter.com/vitkhab) ([Экспресс 42](http://express42.com))
+* 2021 -- настоящее время [Виталий Хабаров](https://vitkhab.pro) ([Экспресс 42](http://express42.com))
 
 <div>
   <img src="/images/vitkhab.png" title="Виталий Хабаров" />
