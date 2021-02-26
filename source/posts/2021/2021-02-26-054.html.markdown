@@ -1,11 +1,11 @@
 ---
 layout: article
 title: "054 - «Диалог с Артемом Калечкиным о DevOps и индустрии разработки»"
-date: 2021-02-26 16:00:00 +0300
+date: 2021-02-26 15:45:00 +0300
 comments: true
 published: true
 transcript: false
-subtitle: "Роль техлида"
+subtitle: "DevOpsConf"
 ---
 
 * [Конференция DevOpsConf 30-31 мая](https://devopsconf.io/moscow/2021/)
