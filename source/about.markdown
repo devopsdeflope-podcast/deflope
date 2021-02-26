@@ -14,7 +14,6 @@ DevOps Дефлопе подкаст — это русскоязычный по
 * 2021 -- настоящее время [Виталий Хабаров](https://vitkhab.pro)
 
 <div>
-  <img src="/images/aladmit.png" title="Александров Андрей" />
   <img src="/images/vitkhab.png" title="Виталий Хабаров" />
 </div>
 
