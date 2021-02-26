@@ -48,7 +48,7 @@
 
             = yield
 
-            -if Date.parse(data.page.date.to_s).year >= 2018
+            -if Date.parse(data.page.date.to_s).year >= 2018 && Date.parse(data.page.date.to_s).year < 2021
               %h2 Контакты ведущих
               %ul
                 %li
