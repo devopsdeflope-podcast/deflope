@@ -1,0 +1,29 @@
+---
+layout: article
+title: "054 - «Диалог с Артемом Калечкиным о DevOps и индустрии разработки»"
+date: 2021-02-26 16:00:00 +0300
+comments: true
+published: true
+transcript: false
+subtitle: "Роль техлида"
+---
+
+* [Конференция DevOpsConf 30-31 мая](https://devopsconf.io/moscow/2021/)
+
+Мы пригласили Артема Калечкина и обсудили следующие вопросы:
+
+* 00:04:48 - Об индустрии разработки в России
+* 00:08:45 - Развивающиеся экосистемы
+* 00:19:30 - Кому полезен DevOpsConf
+* 00:30:26 - Темы конференции
+* 00:41:45 - О командных топологиях
+* 01:20:20 - Что вас ждет на конференции
+* 01:26:23 - Пожелание от Артема
+
+Обратная связь:
+
+* [DevopsDeflope](https://devopsdeflope.ru/)
+* [Twitter](https://twitter.com/devopsdeflope)
+* [Facebook](https://www.facebook.com/DevOpsDeflopeNews/)
+* [iTunes](https://podcasts.apple.com/ru/podcast/devops-%D0%B4%D0%B5%D1%84%D0%BB%D0%BE%D0%BF%D0%B5-%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82/id670175970)
+* [Гуглоформа](https://forms.gle/9DWSqjbf7ZrixZMQ7)
