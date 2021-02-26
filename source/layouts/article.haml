@@ -56,6 +56,12 @@
                 %li
                   = link_to "Виталий Хабаров", "https://twitter.com/vitkhab/"
 
+            -if Date.parse(data.page.date.to_s).year >= 2021
+              %h2 Контакты ведущих
+              %ul
+                %li
+                  = link_to "Виталий Хабаров", "https://vitkhab.pro/"
+
         #disqus_thread
         :javascript
           /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
